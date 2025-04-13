@@ -1,0 +1,50 @@
+{
+    "sentence_1": {
+        "wrong_sentence": "I face many problem in my life.",
+        "suggestions": [
+            "Grammar_correction> I face many problems in my life.",
+            "I face many problems in my life.",
+            "I face many problem in my life."
+        ]
+    },
+    "sentence_2": {
+        "wrong_sentence": "One day, armed robbers came to our house at night.",
+        "suggestions": [
+            "One day armed robbers came to our house at night.",
+            "One day, armed robbers came to our house, at night.",
+            "One day, armed robbers came to our house at night."
+        ]
+    },
+    "sentence_3": {
+        "wrong_sentence": "I was been chased like chicken.",
+        "suggestions": [
+            "I was chased like a chicken.",
+            "I was chased like chicken.",
+            "I was being chased like a chicken."
+        ]
+    },
+    "sentence_4": {
+        "wrong_sentence": "This experience makes me to understand that security is Wahala in Nigeria.",
+        "suggestions": [
+            "This experience makes me understand that security is Wahala in Nigeria.",
+            "This experience made me understand that security is Wahala in Nigeria.",
+            "This experience makes me to understand that security is Wahala in Nigeria."
+        ]
+    },
+    "sentence_5": {
+        "wrong_sentence": "I now have fear when I hear any noise at night.",
+        "suggestions": [
+            "Grammar_correction> I now have fear when I hear any noise at night.",
+            "I now have fear when I hear any noise at night.",
+            "I now have fear when I hear any noise at night."
+        ]
+    },
+    "sentence_6": {
+        "wrong_sentence": "My mama always say I should pray but government need to do better.",
+        "suggestions": [
+            "My mama always said I should pray but government needs to do better.",
+            "My mama always said I should pray but the government needs to do better.",
+            "My mother always said I should pray but government needs to do better."
+        ]
+    }
+}
