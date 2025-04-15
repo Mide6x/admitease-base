@@ -1,0 +1,243 @@
+Determinants of management outcome in open tibia fractures 
+    in ile-ife
+Abstract
+Background: Fracture of 
+    a normal tibia shaft constitutes a major trauma mostly sustained by 
+    young adults during high-energy injuries. Its superficial location 
+    and the subcutaneous characteristics of its anteromedial aspect 
+    easily causes open fracture. The objectives of this study were to 
+    determine the pattern of presentation, and determinants of 
+    management outcome in open fractures of the tibia.
+Methods: This is a 
+    prospective hospital based study. A total of 89 patients aged 4 to 
+    80 years with open fractures of the tibia with or without fibula 
+    involvement were studied. All the patients received anti tetanus 
+    prophylaxis and intravenous antibiotics as well as wound 
+    irrigation, debridement and skeletal stabilisation.
+Results: Students and 
+    traders accounted for the majority of the cases (57.3%). 
+    Most of the open tibia fractures 69 (77.5%) had above knee 
+    Plaster of Paris cast. The majority of the cases were Gustilo and 
+    Anderson type II 32 (36.0%) cases and type I 2 
+    2(24.7%) cases. There was 
+    Correlation between the presence of wound infection and (i) Gustilo 
+    and Anderson grading (F -.352, P .001); (ii) Injury 
+    to Debridement time in hours (F -.304, P .004); (iii) 
+    Osteomyelitis (F .397, P .001); (iv) Delayed union (F 
+    .253, P .017); and (v) Union time in weeks (F -.350, P .001). There was also correlation between the 
+    following: (i) Injury to Debridement time in hours and the distance 
+    from the accident scene to the hospital (F .464, P .001); (ii) The fracture pattern and the union time in weeks (F 
+    .353, P .001); and (iii) The presence of 
+    osteomyelities and delayed 
+    union (F .382, P .001). The commonest complications 
+    observed were wound infection 3 
+    5(39..3%) patients and delayed union 3 
+    0(33.7%) patients.
+Conclusion:This study 
+    shows that the higher the Gustilo and Anderson grading of the open 
+    fractures of the tibia, the more severe the wound and bone 
+    infection that occurred. The interval between injury time and wound 
+    débridement time affected the treatment outcome.
+Introduction
+An open fracture is one in which there is a break in the 
+    continuity of the skin and the underlying soft tissue. It also 
+    leads directly into or communicates with the fracture and its 
+    haematoma 1,2. The fracture of a normal 
+    tibia shaft constitutes a major trauma. Most fractures are 
+    sustained by young adults during high-energy injuries. Its 
+    superficial location and the subcutaneous characteristics of its 
+    anteromedial aspect easily cause open fracture 
+    3. The wound classification system of 
+    Gustilo and Anderson was used for this study. The import of this 
+    classification is that it allows comparison of results of 
+    scientific analysis, gives guidelines for prognosis and establishes 
+    certain principles of treatment4,5.
+The goals of treatment include the prevention of infection, 
+    fracture healing and full functional recovery of the limb 
+    6,7. The essentials of treatment include 
+    immediate, meticulous and repeated wound debridement with copious 
+    irrigation using normal saline, stabilisation of the fracture, 
+    coverage of the wound, early parenteral administration of broad 
+    spectrum antibiotics and early bone 
+    grafting4,6,8,9. The pattern of 
+    fractures would vary within different communities depending on the 
+    type and speed of activities in the area. Similarly, the outcome of 
+    treatment will depend on the type of care given to the 
+    patient4,6,8, 
+    10
+The pattern of open fractures seen in a community with respect 
+    to the severity and associated injuries depends on the common 
+    causes. This in turn determines the management needs and outcome of 
+    treatment. The objective of this study was to determine the pattern 
+    of presentation, and factors influencing management outcome of the 
+    open tibia fracture as seen at the Obafemi Awolowo University 
+    Teaching Hospital, Ile-Ife. It is also hoped that problems and 
+    aspects of management of these condition will be highlighted.
+Patients And Methods
+This is a prospective hospital based study carried out in 
+    Obafemi Awolowo University Teaching Hospital Ile Ife. The patients 
+    were recruited over an 18-month period. All patients presenting 
+    with open fractures of the tibia with or without fibula involvement 
+    were included except: those who have underlying bone pathology, 
+    those who cannot establish the time of their injury, those who had 
+    their initial wound debridement before arrival in our hospital, 
+    those who have intra-articular fractures, and those who require 
+    lower extremity vascular repair. All the excluded patients were 
+    treated appropriately. A total of 92 consecutive patients who 
+    fulfilled the inclusion criteria were initially entered into the 
+    study. Three patients defaulted and were therefore excluded from 
+    the study. Eighty-nine patients fulfilling the diagnostic criteria 
+    for established open fracture of the tibia were used for this 
+    study. They were those with open fractures of the tibia with or 
+    without fibula involvement. The guidelines for the treatment of 
+    these fractures were established prospectively and followed with 
+    only minor alterations. These guidelines are as follows:
+(i) All open tibia fractures were treated as surgical 
+    emergencies.
+(ii) Wound swabs were obtained before the commencement of 
+    antibiotics and when there was established suppuration.
+(iii) Plain films were taken of the affected bones after 
+    temporary splintage application.
+(iv) Anti tetanus prophylaxis as well as Ampicillin, Cloxacillin 
+    and Gentamicin were given in divided doses for 72 hours to cover a 
+    broad spectrum of micro-organisms.
+(v) Thorough wound débridement and copious irrigation was 
+    emphasised.
+(vi) Wounds that were made clean by surgical débridement were 
+    closed primarily. Dirty wounds were closed by delayed primary wound 
+    closure once they were made clean following subsequent wound 
+    debridement and irrigation.
+(vii) The wound classification system of Gustilo and Anderson 
+    was used (8).
+(viii) Throughout this study, the commonest methods of fracture 
+    stabilisation employed were above the knee Plaster of Paris cast 
+    and external fixator.
+The outcome of treatment was analysed in respect to the speed of 
+    fracture union and presence of complications. Fracture union was 
+    evaluated by clinical and radiological examinations at six weeks, 
+    three months, and subsequently at monthly intervals. The fracture 
+    is considered united if there is no pain, tenderness or abnormal 
+    movement at the fracture site and bridging callus is visible on 
+    radiograph. Delayed union was diagnosed when the fracture unites 
+    between four and six months, while non-union was diagnosed when 
+    union has not occurred after eight months of treatment. Each 
+    patient was followed up for at least twelve months.
+Data Analysis
+The results of this study were analysed by descriptive 
+    statistical methods, such as means and standard deviations. The 
+    choice between parametric and non-parametric methods was dependent 
+    on the frequency distribution of the data that was analysed. 
+    Statistical analysis was done using the SPSS (statistical package 
+    for the social sciences) software, release 11.0 ANOVA and 
+    Pearson's Correlation were used as appropriate. Significant 
+    difference was implied when P is <0.05.
+Results
+A total of 92 patients who fulfilled the inclusion criteria were 
+    initially entered into the study. Three patients were lost to 
+    follow-up. Eighty-nine patients with open tibia fractures were 
+    successfully followed up. The age range was between 4 and 80 years. 
+    The mean (+ SD) was 32.7 + 17.1 years. There were 5 
+    7(64%) males (M) and 3 
+    2(36%) females (F). That is a M:F 
+    ratio of 1.8:1. Table 1 shows the various occupations of the 
+    patients. Traders 28(31.5%) 
+    cases and students 23(25.8%) 
+    cases were the most common groups affected. Table 2 shows the 
+    different causes of trauma in the patients studied. Motor vehicular 
+    accident 54(60.7%) cases was 
+    the leading cause of open fractures of the tibia.
+The characteristics of the open tibia fractures show that there 
+    was no difference in the side of the limb affected. In the right 
+    tibia, open fracture occurred in 4 
+    7(52.8%) cases, while in the left tibia it occurred 
+    in 4 2(47.2%) cases as shown 
+    in table 3.1. The most common type of fracture pattern on 
+    radiograph was comminuted 3 
+    6(40.4%) cases, while the least was segmental 
+    3(3.4%) cases as shown in 
+    table 3.2. The distal third was observed to be the most 
+    common site for open tibia fractures 4 
+    4(49.4%) cases. While the 
+    least involved site was the proximal third 1 
+    6(18%) cases as shown in table 
+    2.3. In the Gustilo-Anderson grading of open tibia 
+    fractures, types II and I were the most frequent 3 
+    2(36%) cases and 2 
+    2(24.7%) cases 
+    respectively.
+Wound debridement was carried out in all the patients' 8 
+    9(100%) cases. Sequestrectomy and 
+    partial fibulectomy were carried out in 1 
+    0(11.2%) cases each. Skin grafting was carried out 
+    in 7(7.9%) cases. 
+    Fasciotomy, and bone grafting were the least common procedures 
+    employed in this series 3(3.4%) cases each. Partial fibulectomy was done in open tibia 
+    fractures with intact fibula. Skeletal stabilisation was done using 
+    above knee Plaster of Paris (POP) cast in 69 (77.5%) cases. 
+    Out of these 69 cases with above knee POP, 12(13.5%) cases had fracture redisplacement that was 
+    treated with remanipulation. External fixator device was used in 2 
+    0(22.5%) cases. The average 
+    bone union time was 16.9 ± 7.6 weeks, range 6-36 
+    weeks. The average follow-up period was 15.7 ± 3.7 
+    months, range 4-30 months. The average distance from the accident 
+    scene to the hospital was 33.2 ± 50.2 kilometres, 
+    range 1 - 250 kilometres. The average duration between the time of 
+    injury to the time of wound debridement was 6.0 ± 5.9 
+    hours, range 1-48 hours. The average duration of hospital stay was 
+    8.3 ± 6.3 weeks, range 6-36 weeks.
+Gram positive cocci and gram negative rods were isolated. On the 
+    whole Staphylococcus aureus 1 
+    9(54.3%) cases and coagulase negative Staphylococcus 
+    (CONS) 1 5(42.9%) cases were 
+    the most common organisms isolated. The most common gram negative 
+    rods that were isolated from the patients were Pseudomonas 
+    aeruginosa 1 0(28.6%) cases, 
+    Klebsislla aerogenes 8(22.9%) and Proteus mirabilis 7(20%) 
+    cases. Multiple organisms were commonly isolated from the wounds. 
+    All the organisms isolated were very sensitive to Gentamicin, 
+    Cloxacillin and Ofloxacin. The sensitivity ranged from 70.5% 
+    to 100%. While most of the organisms were resistant to Penicillin, 
+    Ampicillin and Tetracycline. Coagulase negative Staphylococcus 
+    (CONS) showed sensitivity to a wide range of antibiotics.
+There was Correlation between the presence of wound infection 
+    and (i) Gustilo and Anderson grading (F -.352, P .001); (ii) Injury to Debridement time in hours (F -.304, P 
+    .004); (iii) Osteomyelitis (F .397, P .001); 
+    (iv) Delayed union (F .253, P .017); (v) Union time 
+    in weeks (F -.350, P .001). There was also 
+    correlation between the following: (i) Injury to Débridement time 
+    in hours and the distance from the accident scene to the hospital 
+    (F .464, P .001); (ii) The fracture pattern and the 
+    union time in weeks (F .353, P .001); and (iii) The 
+    presence of osteomyelities 
+    and delayed union (F .382, P .001). The observed 
+    complications are shown in 
+    table3. Wound infection was observed in 3 
+    5(39.3%) cases. This was 
+    followed by delayed union in 3 
+    0(33.7%) cases. The complications grouped as others 
+    1 0(11.2%) cases, were due 
+    to wasting of the quadriceps, oedema and ankle stiffness. These 
+    were controlled with limb elevation, the use of elastic bandage and 
+    by active exercises
+Discussion
+Patients between 20 years and 50 years of age constituted 70% of 
+    the cases. This is probably because they are the active productive 
+    age group within the society. At the extremes of age (that is less 
+    than 10 years and greater than 60 years), open tibia fractures were 
+    observed to be uncommon (18% of the cases). This is presumably due 
+    to the fact that people in this age group tend to travel less. 
+    Males (M) were more affected than females (F). The ratio was M:F 
+    1.8:1 in this study. Motor vehicular accidents accounted for 
+    about 61% of the cases. This is the most common means of 
+    inter-state and inter-city transportation. However, it was noted 
+    that in patients less than 10 years, pedestrian crossing a busy 
+    road unaided was to 20(22.5%) cases that had the application of the external fixator 
+    device. The Plaster of Paris cast often makes access to the wound 
+    difficult for inspection and dressing. Window made on the Plaster 
+    of Paris cast often weakens the cast and this is often compounded 
+    by the wet dressing fluid and wound discharges (4,19). These are 
+    major problems of the Plaster of Paris cast treatment of severe 
+    open tibia fractures especially in the Gustilo and Anderson type 
+    III 1,14,15 
+    . the most common cause of open tibia 
+    fractures.

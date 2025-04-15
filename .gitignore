@@ -1,3 +1,5 @@
 venv
 model_cache
 fine_tuned_model
+Essay/
+.vscode/

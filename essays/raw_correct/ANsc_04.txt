@@ -1,0 +1,49 @@
+Determinants of Management Outcome in Open Tibia Fractures in Ile-Ife
+
+Abstract
+
+Background: Tibia shaft fractures, particularly open fractures, are common in young adults due to high-energy trauma. Their superficial nature, especially on the anteromedial aspect, increases susceptibility to open fractures. This study aims to explore the pattern of presentation and determinants of management outcomes in open tibia fractures.
+
+Methods: A prospective hospital-based study was conducted, involving 89 patients aged 4 to 80 years, with open fractures of the tibia, with or without fibula involvement. All patients received anti-tetanus prophylaxis, intravenous antibiotics, wound irrigation, debridement, and skeletal stabilization.
+
+Results: The study found that students and traders accounted for most cases (57.3%). The majority of fractures were treated with above-knee Plaster of Paris (77.5%), with most cases classified as Gustilo-Anderson type II (36%) and type I (24.7%). There was a significant correlation between wound infection and various factors, including Gustilo-Anderson grading, time between injury and debridement, osteomyelitis, delayed union, and union time. Common complications included wound infection (39.3%) and delayed union (33.7%).
+
+Conclusion: The study suggests that the severity of the wound, as indicated by Gustilo-Anderson grading, and the interval between injury and wound debridement significantly affect the treatment outcome.
+
+Introduction
+
+Open fractures, where a break in the skin exposes the underlying bone, are significant injuries. Tibial fractures are especially common, often resulting from high-energy trauma. The Gustilo and Anderson classification system helps assess the severity of these fractures and predict outcomes. Effective treatment involves preventing infection, ensuring proper bone healing, and achieving full functional recovery.
+
+This study aimed to examine the pattern of open tibia fractures at Obafemi Awolowo University Teaching Hospital, Ile-Ife, and to identify factors influencing management outcomes.
+
+Patients and Methods
+
+This prospective study was conducted over 18 months at Obafemi Awolowo University Teaching Hospital. Patients presenting with open tibia fractures were enrolled, excluding those with underlying bone conditions, those unable to provide an injury time, and those requiring vascular repair. A total of 89 patients were included after three patients defaulted.
+
+Treatment Guidelines:
+
+Open tibia fractures were treated as surgical emergencies.
+
+Wound swabs were taken for bacterial cultures.
+
+Antibiotics (Ampicillin, Cloxacillin, Gentamicin) were administered for 72 hours.
+
+Thorough debridement and wound irrigation were performed.
+
+Fracture stabilization was achieved through Plaster of Paris (POP) cast or external fixation.
+
+Outcome Measures: Fracture union was assessed clinically and radiologically at six weeks, three months, and monthly intervals. Delayed union and non-union were defined based on healing times. The patients were followed for at least 12 months.
+
+Data Analysis: Data were analyzed using descriptive statistics, and correlations were assessed using ANOVA and Pearson’s correlation.
+
+Results
+
+Of the 92 patients initially enrolled, 89 were followed up. The mean age of patients was 32.7 years, with a male-to-female ratio of 1.8:1. The majority of fractures occurred due to motor vehicle accidents (60.7%). Most fractures were comminuted (40.4%), with the distal third of the tibia being the most commonly affected.
+
+Wound debridement and skeletal stabilization were performed in all cases. The average time for bone union was 16.9 weeks. Common complications included wound infection (39.3%) and delayed union (33.7%).
+
+Discussion
+
+The majority of patients were between 20 and 50 years old, likely reflecting the active, productive age group. Males were more affected than females, with motor vehicle accidents being the leading cause of fractures. The delay between injury and debridement was a significant factor affecting the outcome, as longer delays were associated with worse outcomes.
+
+The study also found that the severity of the injury, as classified by the Gustilo-Anderson grading, played a critical role in the development of complications, especially wound infection and delayed union.

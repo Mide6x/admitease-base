@@ -1,0 +1,206 @@
+Determination of Lead and Cadmium Contents of Dry Cell 
+    Batteries Available in Nigeria
+ABSTRACT: Lead and cadmium content of 
+    different brands and sizes (N=38) of dry cell batteries 
+    (zinc-carbon Leclanche systems) available in Nigeria were 
+    determined by atomic absorption spectrometry after acid digestion. 
+    The average Pb and Cd content of the dry cells are 1077.9±751.7mg/kg (Range 42-3170mg/kg) and 108.3±81.4mg/kg (Range 4.6-410mg/kg) respectively. The mean Pb and 
+    Cd contents of dry cells with metal outer cover were significantly 
+    lower (p < 0.005) than the corresponding values for dry 
+    cells with non-metallic cover. The highest Pb and Cd values were 
+    observed in dry cell batteries imported from China. Higher mean Pb 
+    and Cd value were observed in dry cells from China (1368.36 
+    vs. 151.47mg/kg), compared to values for dry cells 
+    from Indonesia (1032 vs. 84.4mg/kg),Japan (715.2 
+    vs. 131.48mg/kg) and Korea (1137.5 vs. 
+    81.45). Lower Pb and Cd values were obtained in dry cells 
+    from Malaysia (709 vs. 12.5mg/kg), Spain (702 vs. 65.8mg/kg), United States (303 vs. 11.1mg/kg) and in the only surviving local brand (408 vs. 
+    34.5mg/kg).Our study revealed that there is an urgent need 
+    to introduce an adequate well-established system for collection, 
+    separation, storage and management of municipal and industrial 
+    wastes containing primary and secondary battery wastes and similar 
+    toxic materials to halt the open burning of such wastes within 
+    inhabited areas. There is an urgent need to develop in Nigeria an 
+    appropriate technology following the principles of waste 
+    minimization and sustainable development.
+The management of primary and secondary battery wastes is 
+    essential in order to avoid or minimize inappropriate disposal 
+    which may result in harm to the environment and the human health. 
+    Household batteries contribute 52% of Cd and 88% of Hg found in the 
+    municipal solid waste, yet they comprise less than 1% by weight of 
+    municipal solid waste (Shapek, 1996) 
+    .The toxicity and widespread pollution by lead is well 
+    known. In fact, lead has been described as the most severe 
+    environmental contaminant to arise in human civilization (Smith and 
+    Flegal, 1995). Although Pb is ubiquitous in the environment Pb as a 
+    pollutant is essentially of anthropogenic origin. The polluting 
+    nature of the manufacturing processes of both primary and secondary 
+    batteries to the environment (Ward et al., 1977; Semu et 
+    al., 1986; Onianwa and Fakayode, 2000) and the adverse 
+    health effect on battery industry employees and their families have 
+    been established (Bader et al, 1999; Ritcher et al, 1979; Fergusson 
+    et al, 1981; Oleru et al, 1983). The absence of environmental 
+    protection equipment near battery and waste battery recycling 
+    facilities has been associated with increase of Pb in human tissue 
+    samples (Wohl et al, 1996; Bader et al, 1999). The manufacture of 
+    dry cell batteries expose employees to Pb, Mn, Zn, Cd and suspended 
+    carbon black dusts which usually contains polyaromatic hydrocarbons 
+    (PAHs). Exposure to carbon black dust in dry cell battery 
+    facilities results in significant loss in pulmonary function (Oleru 
+    et al, 1983). Higher levels of Pb and Mn have been observed in the 
+    body tissues of primary and secondary battery employees and their 
+    family members (Bader et al, 1999; Wohl et al, 1996; Lai et al, 
+    1997). The high levels of especially Pb observed in the tissue 
+    samples of the employees family members reveals a problem arising 
+    from employees' transferring lead dust home, probably in their 
+    working cloths (Fergusson et al, 1981).
+Dry cells are non-rechargeable and of single use. They 
+    constitute household hazardous waste when'dead', that is when the components have reached 
+    their equilibrium concentrations. The open burning of wastes 
+    containing municipal and industrial wastes results in the emission 
+    of heavy metals into the atmosphere with fly ash and after fallout, 
+    metals in dusts and soils. This form of metal pollution have been 
+    classified as an environmental transfer of metal and not a true 
+    source of metallic pollutant (Ayres and Ayres, 1994).This is 
+    because the metals emitted must have been originally embodied in 
+    items of consumption discharged as waste. These toxic metals can be 
+    leached from ash and cinder into domestic surface waters by acidic 
+    wet precipitation which may result from the large-scale gas flaring 
+    by the Nigerian petroleum and natural gas sector. This leaching 
+    process can be enhanced by charges in pH, redox potential and the 
+    presence of organic chelators. Highly acidic pH of 3.4 has 
+    been observed in some natural surface waters in industrial areas of 
+    Nigeria (Sridhar and Bammeke, 1986). Such acidic pH can enhance the 
+    mobility of metals. The major streams in the industrial cities of 
+    Nigeria are already seriously polluted by industrial waste (Ajayi 
+    and Osibanjo, 1981) and pesticide residues (Nwankwoala and 
+    Osibanjo, 1992). The aim of the present study was to determine the 
+    Pb and Cd contents of dry cell batteries available in Nigeria in 
+    order to assess the contribution of such consumptions to 
+    environmental heavy metals pollution in Nigeria.
+MATERIALS AND METHOD
+Dry cells of different brands and sizes were purchased from 
+    retail outlets in Okigwe, and Umuahia in Southeastern Nigeria. The 
+    dry cells were mainly of the Zn/MnO2 system. 
+    The brands of dry cells used in this study is shown in Table 1.The 
+    dry cells were carefully opened and dried to constant weight for 12 
+    hours at 1100C in an oven. The carbon 
+    rod and cathode mix (MnO2 + carbon + 
+    electrolyte) were ground in a porcelain mortar into a fine particle'black mix'. To obtain a representative 
+    sample of the dry cell as is discarded, a weight ratio of 2:3 was 
+    used for the metal cover and the black mix respectively. 0.5g of the sample was digested with 2:1 mixture of 
+    HNO3/HCIO4. After the 
+    initial violent reaction with evolution of brown fumes had subsided 
+    (ca. 10min), the digestion flask was covered with a watchglass and 
+    digested up to 150°C in a regulated programmable aluminum digestion 
+    block. This was then treated with two portions of the 
+    HNO3/HCIO4 and 
+    evaporated to near dryness. More acid mixture was added and the 
+    digestion continued until dense white fumes was evolved, marking 
+    the completion of the digestion process. This was then evaporated 
+    to near dryness and taken up in 1M HNO3 
+    filtered through pre-acid washed Whatman No. 4 filter paper 
+    into a 10ml volumetric flask and made up to mark with the 1M 
+    HNO3. This was subsequently analyzed for Pb 
+    and Cd using flame atomic absorption spectrophotometer (Buck 
+    Scientific, Model 210). Internal quality control procedure with 
+    re-tests of standards was undertaken. A recovery study of the total 
+    analytical procedure was carried out by spiking portions of two 
+    previously analyzed brands with varying concentrations of Pb and 
+    Cd. These were homogenized, redried and passed through the 
+    digestion and analytical steps. Results reported are averages to of 
+    duplicates.
+RESULTS AND DISCUSSION
+Average recoveries of 81 and 91% were obtained for Pb and Cd 
+    respectively. These low recoveries may be attributed to the high 
+    carbon content of the samples and its high adsorption power. 
+    Retention losses are also possible as silica crucibles have been 
+    shown to retain an average of 16% Pb (Ajayi et al 2001; Gorsuch, 
+    1959). The mean (± SD) Pb and Cd content of the dry cells studied 
+    is 1077.9±751.7mg/kg (Range 42 - 3170mg/kg) and 
+    108.29±81.41mg/kg (Range 4.6 - 410mg/kg) 
+    respectively. Because of the skewed nature of the results obtained, 
+    the data was normalized by logarithmic transformation by 
+    calculating the geometric mean. A summary of the result obtained 
+    according to the sizes of the dry cells is shown in Table 2. The 
+    dry cells are grouped according to the type of the outer cover and 
+    into'Cd-free cells' and'normal cells' following indications on their labels 
+    (Table 3) The mean Pb content of dry 
+    cells with non-metal cover (1325.0±857.3mg/kg) is 
+    significantly higher (p<0.005 
+    )than the corresponding value for the dry cells with metal 
+    cover (682.5±307.2mg/kg).Similarly, the mean Cd 
+    content of the dry cells with non-metal cover (141.9± 
+    82.3mg/kg) is significantly higher (p<0.005) than 
+    those of the dry cells with metal cover (54.5±47.9mg/kg),Table 3. This may indicate that dry cells with improved 
+    packaging are more environment friendly. In Nigeria dry cells with 
+    metal cover are on the average 25% costlier. This improved metal 
+    outer packaging reduces leakages even on abusive use of the dry 
+    cells.
+About a third of the dry cells studied (36%) were imported from 
+    China Mainland. The higher mean Pb and Cd contents of these Chinese 
+    dry cells compared to cells from other countries ( 
+    Tables 4) may be explained by the 
+    observation that more than 90% of these cells have non-metal outer 
+    cover. The mean Pb and Cd content of the dry cells labeled'Cd-Free' (919.4±660.7mg/kg 
+    and 89.6±60.5mg/kg respectively) are lower than the 
+    corresponding values for the'normal cells'. This is however not statistically significant. The mean Pb and 
+    Cd values of the'Cd-Free' cells with 
+    metal cover (724.0±389.9mg/kg and 52.4±63.2mg/kg
+respectively) are also lower than the values for the'Cd -free' cells without metal cover (980.7±813.8mg/kg and 133.0±20.0mg/kg respectively). It was 
+    observed that three (3)'Cd-free' cells 
+    of the same brand (different sizes) have mean Pb and Cd values of 
+    743.7mg/kg and 33.7mg/kg respectively. This low mean 
+    Cd value appears to indicate a true reduction in the Cd content of 
+    this brand. This may indicate the industrial application of the 
+    extensive research at reducing/eliminating and finding alternatives 
+    to the use of Hg and Cd in dry cells manufacture. The country of 
+    origin of this brand of dry cells in however not indicated on the 
+    label. A weak, albeit significant, positive correlation was found 
+    between the Pb and Cd contents of the dry cells (r = 0.398, 
+    p<0.02). This corroborates the result of a study in the 
+    vicinity of an automotive battery manufacturing company in Nigeria 
+    (Onianwa & Fakayode, 2000). This positive correlation indicates 
+    that the estimated regression model of the data obtained, Cd = 
+    61.67 + 0.043 (Pb) can explain only about 16% of the 
+    variation in the data obtained (R2 = 0.16). This model 
+    therefore is insufficient to give accurate predictions. The highest 
+    Pb and Cd values (3170mg/kg and 410mg/kg respectively) were 
+    obtained in dry cells imported from China (Table 4) The Pb and Cd 
+    contents of the only surviving local Nigerian brand are 408mg/kg 
+    and 34.5mg/kg. The dry cell from the United States contains 
+    303mgPb/kg and 11.1mgCd/kg which are lower than the corresponding 
+    values for dry cells from Nigeria, and elsewhere. The Pb and Cd 
+    content of the Nigerian brand are also lower than the mean Pb and 
+    Cd values for dry cells from China, Indonesia, Japan, Korea and 
+    Spain (Table 4). About 15 billion batteries are produced in China 
+    yearly with about 10 batteries per person per year in China. At 
+    present more than 60% of the Nigerian primary battery trade is 
+    controlled by China.
+In the US, about 2.5 billion household batteries are 
+    purchased each year. More than 90% of this is single use batteries 
+    that find their way into landfills and incinerators. The US-EPA 
+    estimated that in 1989, 88% of the 1.4 million pounds (635 
+    metric tonnes) of Hg in urban trash in the US came from single-use 
+    batteries (Schwartz et al., 1994).One major concern is that the heavy metals contained by 
+    dry cells could leach from landfills into ground water, or shift to 
+    fly ash at open waste minimization/burning sites or at 
+    waste-to-energy plants (Nakamura, 1996; Malloy, 1994). The 
+    management of Ni-Cd rechargeable batteries is a problem that has 
+    assumed a global dimension (Rydh and Karlstrom, 2002). In Nigeria, 
+    Ni-Cd batteries, auto-rechargeable batteries and primary battery 
+    wastes are disposed with municipal waste. Nigeria does not have any 
+    integrated framework regarding the monitoring and management of 
+    toxic and hazardous materials and wastes. Limited funding has also 
+    caused significant impediments to the effective management of toxic 
+    and hazardous wastes. Apart from scarcity of financial resources, 
+    there has not been any development of appropriate technology 
+    following the principles of waste minimization and sustainable 
+    development. Any interim effort to halt this form of metal 
+    pollution in Nigeria must include the proper financing and 
+    management of waste, and the provision of basic infrastructure to 
+    halt the open burning of waste in inhabited area. Long term control 
+    measures will include legislating and enforcing the removal of dry 
+    cells and similar toxic products from wastes to be incinerated and 
+    the setting-up of national standards for the levels of heavy metals 
+    in dry cells.

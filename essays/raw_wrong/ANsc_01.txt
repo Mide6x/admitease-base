@@ -1,0 +1,268 @@
+Fluoroquinolone Use in Children: the Benefits and 
+    Risks
+KA Oshikoya Lagos State University, College of 
+    Medicine, Lagos Department of Pharmacology and Therapeutics 
+    Lecturer II
+Summary
+Background:
+Fluoroquinolones are widely used in the treatment of various 
+    infectious diseases in adults because of their broad spectrum of 
+    activity, their significant tissue penetration and the availability 
+    of oral formulations. Their use in children has however, been 
+    limited until recently as a result of possible 
+    fluoroquinolone-induced joint toxicity. Nevertheless, these agents 
+    are rapidly gaining consideration for use in children as new agents 
+    are emerging with wider spectrum of action and minimal toxicity, 
+    even in young children.
+Objectives:
+This review presents the pharmacokinetics, clinical indications, 
+    and possible toxicity and safety profiles of fluoroquinolone in 
+    children.
+Methods:
+A MEDLINE search for systematic reviews and original 
+    publications on (a) fluoroquinolone use in adults, children and 
+    animals, (b) clinical trials of fluoroquinolones in adults, and 
+    
+    (c)pharmacokinetics, efficacy and safety of the drugs in 
+    children, was undertaken using Index Medicos and 
+    PubMed. Abstracts from the searches were read to 
+    determine their relevance and in most cases, the original article 
+    was sourced to provide further information. Results: The search 
+    yielded 23 relevant articles (three reviews, four clinical trials 
+    and 16 original research work).
+Conclusion:
+When a particular antibiotic therapy fails or cannot be 
+    tolerated, the use of fluoroquinolones should be seriously 
+    considered as the potential benefits of their use may outweigh 
+    concerns about safety and antimicrobial resistance.
+Introduction
+NALIDIXIC acid, developed in the 1960s, was the first quinolone 
+    used to treat urinary tract 
+    infections.1,2 During the past 40 years, 
+    numerous modifications have been made to this antimicrobial to 
+    develop the fluoroquinolones which have improved antimicrobial, 
+    pharmacokinetic and therapeutic properties. The early 
+    fluoroquinolones (ofloxacin, pefloxacin, and ciprofloxacin) have a 
+    spectrum of activity that covers both gram-positive and gram- 
+    negative pathogens.3-5 In the past, the 
+    use of fluoroquinolones was restricted because of concern for 
+    potential cartilage damage. However, their use has been on the 
+    increase during the past decade in many parts of the world. They 
+    have progressively become a mainstay in the treatment of serious 
+    bacterial infections particularly in adults. However, following 
+    early studies of the drugs in different immature animal models 
+    demonstrating serious cartilage erosion and joint 
+    malformations,6-11 these agents were 
+    considered to be contraindicated in 
+    children.12,13 In spite of this, 
+    fluoroquinolones have been used in paediatric patients in selected 
+    cases. Available data in children are largely the result of 
+    ciprofloxacin use in selected patients with pulmonary infection, 
+    (especially ystic fibrosis), chronic suppurative otitis media, 
+    complicated urinary tract infection, uncomplicated gonorrhoea, 
+    life-threatening salmonellosis and shigellosis, 
+    antimicrobial-resistant meningitis, multidrug 
+    - resistant tuberculosis, and 
+    central nervous system (CNS) infection-conditions in which the 
+    potential benefit was thought to outweigh the 
+    risk.12-16
+Most of the available data on the use of fluoroquinolones in 
+    children are from developed countries. Few developing countries, 
+    such as India, are beginning to use ciprofloxacin to treat 
+    resistant neonatal sepsis resulting from gram-negative bacteria, 
+    even in the very low birth weight premature babies, a group at high 
+    risk of developing impaired linear 
+    growth17 and in the treatment of acute 
+    osteomyelitis in children with sickle cell disease in 
+    Togo.18 Results emanating from such 
+    studies have been very encouraging. Ciproflosacin has been shown not to have effect on linear 
+    growth in infancy.17 In Africa, 
+    literature is sparse on the use of fluoroquinolones in children, 
+    however, it has been reported in Nigeria that most of the 
+    gram-positive and gram - 
+    negative bacteria causing pyogenic meningitis in children 
+    are 100 percent sensitive to 
+    ciprofloxacin.16
+The gradual emergence of bacterial resistance to antibiotics 
+    used to treat most of the childhood infectious diseases in the 
+    developing countries, the high cost of the third generation 
+    cephalosporins which are alternatives, lack of oral formulations of 
+    the third generation cephalosporins, and longer duration of 
+    hospital admission, necessitate the search for alternative 
+    antimicrobial agents such as the fluoroquinolones. This article 
+    reviews the evidence of the safety and risks of the 
+    fluoroquinolones in all paediatric age groups.
+Mechanism and Spectrum of Activity
+The fluoroquinolones are bactericidal agents that act by 
+    interfering with the enzyme DNA gyrase to inhibit bacterial DNA 
+    synthesis.19 They have a very broad 
+    spectrum antibacterial activity, being effective against most 
+    gram-negative organisms, including Pseudomonas 
+    aeruginosa, acinetobacter, campylobacter, haemophilus, 
+    salmonella, shigella, klebsiella, and escherichia 
+    species.17,20 Gram-positive coverage 
+    includes most species of staphylococcus and streptococcus, 
+    including many beta-lactam resistant strains. The early 
+    fluoroquinolones were generally inactive against anaerobes. In 
+    addition to their broad spectrum activity against the gram-negative 
+    and gram-positive bacteria, some of the recently marketed 
+    fluoroquinolones have an expanded activity against enterococci and 
+    the anaerobes.21-25
+Pharmacokinetics
+Most of the fluoroquinolones are well absorbed following oral 
+    administration, with excellent tissue penetration, and long 
+    half-lives.26,28 They are excreted 
+    unchanged in the urine.18 However, 
+    pharmacokinetic data on fluoroquinolone are limited in children as 
+    a consequence of their restricted use. The scanty data available in 
+    children are on ciprofloxacin, ofloxacin, trovafloxacin, 
+    gatifloxacin, and moxifloxacin.
+Ciprofloxacin
+In 1992, Peltoba et al studied 16 healthy 
+    children (seven infants, nine children), all less than six years of 
+    age, treated with a single oral dose (15mg/kg) of 
+    ciprofloxacin.29 They reported a mean 
+    peak concentration (Cmax) value of 3.3 mg/L and 2.1mg/ L in infants and children respectively, 
+    while the mean time to reach Cmax 
+    (tmax) was 1.18 and 1.0 hours, 
+    respectively. There was no statistically significant difference in 
+    the Cmax or tmax 
+    between the two groups. The area under the curve (AUC) was greater 
+    in infants (16.1 mg*h/L) than in children (5.3 
+    mg*h/L). A mean elimination half-life (t1/2) 
+    of 2.73 and 1.28 hours were reported in infants and 
+    children, respectively. Ciprofloxacin elimination half-life 
+    t1/2in children seemed shorter than in 
+    adults (4-5 hours). Therefore, they suggested increasing the 
+    frequency of oral ciprofloxacin to three times daily in children 
+    aged 1-5 years.
+The pharmacokinetiks of ciprofloxacin in children with cystic 
+    fibrosis (CF) has been evaluated in two studies. In 1996, Schaefer 
+    and co-workers studied the disposition of ciprofloxacin in 10 
+    children, aged one to six years, with 
+    CF.30 The patients received intravenous 
+    infusions of 10mg/kg ciprofloxacin every 12 hours in two doses, 
+    followed by oral administration of 15mg/kg every 12 hours.The mean 
+    Cmax values were 8.5 and 8.3 
+    mg/L after the first and second intravenous infusions, respectively 
+    and 3.5 mg/L after the oral dose. Thirty four percent of 
+    ciprofloxacin was protein bound as seen in the adults. In a second 
+    study carried out in 1997, Rubio et al studied 
+    the disposition of ciprofloxacin in 18 children, aged five to 17 
+    years with CF.31 The patients received 
+    10 mg/kg ciprofloxacin IV every eight hours for at least three 
+    days, and were then switched to 20 mg/ kg ciprofloxacin orally 
+    every 12 hours. Mean half-life values for the group were 2.6±0.6 hours with IV dosing and 3.4 ± 0.7 
+    hours with oral dosing. Subgroup analysis revealed no significant 
+    difference in elimination between the younger and older 
+    children.
+In another study in 1998, using an investigational ciprofloxacin 
+    oral suspension in 16 healthy children, aged 0.3 to 7.1 years,32 and administering 10 mg/kg 
+    of the drug every eight hours, Peltoba et al 
+    reported a non-significantly different half-life values among the 
+    subgroups, with values ranging from 4.21 ±1.1 hours 
+    in patients aged one year, to 5.1 ± 1.1 hours in 
+    children aged two to five years. The results of these studies 
+    suggest that ciprofloxacin pharmacokinetic parameters in children 
+    are similar to values established in adults.
+Ofloxacin
+The pharmacokinetics of oral and intravenous ofloxacin was 
+    studied in 17 patients with typhoid fever, aged five to 14 
+    years.33 Seven patients received 7.5 mg/kg ofloxacin orally followed by 7.5 mg/kg IV over 30 
+    minutes, 10 patients received 7.5 mg/kg ofloxacin IV then 
+    orally. The mean oral bioavailability was 91 percent, similar to 
+    that of a healthy adult. The mean Cmax 
+    ofloxacin was significantly higher after a single oral dose (5.5mg/L). The AUC values were 34.13 and 32.32 mg*h/L 
+    following a single IV and oral doses, respectively. The mean 
+    tmax values following single IV and oral 
+    doses were 0.5 and 1.69 hours, respectively. The mean 
+    apparent volume of distribution was 1.28 L/kg. The order of 
+    the route of administration (IV first or oral first) had no 
+    significant effect on the Cmax, 
+    tmax or AUC.
+Trovafloxacin
+Trovafloxacin pharmacokinetic properties have also been studied 
+    in infants and children.34 Six infants, 
+    aged three to 12 months, and 14 children, aged 1.7 to 
+    12.5 years, were given IV alatrofloxacin (prodrug of 
+    trovafloxacin) 4 mg/kg as a single dose. The mean total clearance, 
+    volume of distribution, and elimination half-life in the older 
+    children were 0.135 L/h/kg, 1.74 L/kg and 9.42 
+    hours, respectively; the corresponding values in infants were 
+    0.158 L/h/kg, 1.72 L/kg, and 8.25 hours, 
+    respectively. The pharmacokinetics in infants and children were 
+    similar.
+Moxifloxacin and Gatifloxacin
+The disposition of gatifloxacin was studied in 76 children, aged 
+    between six months and 16 years.34 
+    Infants and young children received a single oral dose of 
+    gatifloxacin suspension in an escalating dosage of 5, 10, or 
+    15mg/kg (maximum of 600mg); older children received tablet 
+    formulation at a dose of 10mg/kg. Gatifloxacin's apparent 
+    clearance and half-life were 5.5 ± 2.1ml/min/kg and 
+    5.1 ± 1.4h. The maximum plasma concentration of the 
+    drug and area under the curve (AUC) increased in a manner 
+    approximately proportional to the dose. At the 10mg/kg/dose, the 
+    bioavailability was similar between the suspension and tablet 
+    formulation. The apparent oral clearance of gatifloxacin, 
+    normalized for body weight, exhibited a small but statistically 
+    significant decrease with increasing age. In all subjects receiving 
+    gatifloxacin at 10mg/kg, the AUC exceeded 
+    20µg*h/ml, suggesting that gatifloxacin at this 
+    dose every 24h will achieve therapeutic concentrations in plasma in 
+    infants and children.
+Clinical Usefulness and Advantages
+In children, the fluoroquinolones represent a new class of 
+    antimicrobials with a number of inherent advantages. However, their 
+    usefulness in children was initially restricted by the potential 
+    for these agents to induce cartilage toxicity in immature 
+    animals.6-11 Of recent, several studies 
+    have shown that the arthrogenic effects of the fluoroquinolones 
+    appear to be species-specific and 
+    drug-dependent.9 No such arthropathy has 
+    been reported in children after the use of 
+    ciprofloxacin,17 levofloxacin, 
+    gatifloxacin, or moxifloxacin. Therefore, paediatricians are 
+    increasingly encouraged to use this group of drugs although with 
+    caution, in infants and children.
+In addition to their excellent pharmacokinetic properties, they 
+    are available in both oral and parenteral formulations. Therefore, 
+    they offer a therapeutic alternative to the commonly used 
+    antimicrobials in a number of clinical situations for which there 
+    have been limited options (Table 1). These drugs have been used in 
+    a number of these clinical situations in infants and children, with 
+    beneficial effects reported. 
+    15,17,18,30,35-53 Ofloxacin (15 
+    mg/kg/day), ciprofloxacin and levofloxacin (both taken as 20 to 30 
+    mg/kg/day) in two or three divided doses, are the most commonly 
+    used agents. Gatifloxacin is effective and tolerable at a dose of 
+    10mg/kg, once daily.
+Hyperglycaemia due to fluoroquinolones on the other hand, is 
+    likely to be due to overdosage or a toxic effect of the drug in 
+    patients with concomitant renal 
+    insufficiency.80Hyperglycaemia occurs 
+    more often than hypoglycaemia and gatifloxacin has been reported to 
+    have the highest risk.75
+* Others
+Transient elevations in the values of liver function tests or 
+    serum creatinine81 and rarely greenish 
+    discolouration of the teeth.82
+Drug Interactions
+Fluoroquinolones interact with many other medications and 
+    nutrients (Tables II and III). A large percentage of these 
+    interactions are the result of interference with cytochrome P450 
+    1A2 function.18 Fluoroquinolones should 
+    not be taken simultaneously with enteral feedings. Patients may 
+    take fluoroquinolones with food, but should be instructed to avoid 
+    taking dairy products such as milk and yoghurt, iron or zinc 
+    supplements at the same time as a fluoroquinolone 
+    dose.83 Multivalent cations such as 
+    calcium, magnesium, aluminium, iron and zinc impair absorption of 
+    fluoroquinolones. Dairy products and antacids are rich in calcium, 
+    magnesium and aluminium,84 while iron is 
+    routinely used in some children in Nigeria as blood 
+    tonic,85zinc supplements are 
+    also used in various childhood ailments such as 
+    diarrhoea,86 
+    pneumonia87 and 
+    malaria.88

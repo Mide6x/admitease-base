@@ -1,0 +1,37 @@
+Trend of Induced Abortions in Ilorin, Nigeria
+
+SUMMARY
+
+Context: Induced abortion remains a major cause of maternal mortality in developing countries, with Nigeria reporting a contribution of 15-40% to maternal death. A project aimed at preventing maternal mortality by eliminating hospital delays in treating induced abortion complications was introduced in Ilorin over a decade ago. This study seeks to review the impact of the project on mortality from induced abortion.
+
+Objectives:
+
+To determine the social-demographic factors associated with induced abortion complications.
+
+To examine the mortality pattern resulting from induced abortion in Ilorin.
+
+To compare current results with previous findings at this center.
+
+Study Design: A descriptive retrospective study. Data was extracted from the case notes of patients treated for complications arising from induced abortion at a teaching hospital in Nigeria. This information was used to identify social-demographic factors, and outcomes were measured, including maternal death, specific complications, and the prevalence of induced abortion.
+
+Results: Induced abortion accounted for 3.28% of gynecological admissions, with a case fatality rate of 61.0 per 1,000. Multiple complications were common, and the age group 24 years and below accounted for 73.05%. Hemorrhage and septicemia were the leading causes of death.
+
+Conclusion: Despite the implementation of the maternal mortality prevention project, mortality from induced abortion has not significantly changed. There is a need to redefine intervention strategies. Increasing contraceptive use, especially among single women, could reduce unwanted pregnancies and induced abortions, thereby reducing complications and mortality.
+
+INTRODUCTION
+
+Induced abortion remains a critical issue for maternal morbidity and mortality in developing countries, especially in sub-Saharan Africa. Globally, an estimated 19 million unsafe abortions occur annually, nearly all of which are in developing countries. Unsafe abortion is defined by the World Health Organization as a termination where the operator, environment, or technique fails to meet basic safety standards. In Nigeria, approximately 610,000 unsafe abortions are carried out annually by women aged 15-44. The cost of managing complications from induced abortion is a significant burden on the limited resources of many African nations. The proportion of abortions carried out by women aged 15 to 20 is rising, and many complications are observed in this age group. Preventing unwanted pregnancies could avert millions of Disability Adjusted Life Years (DALYs) and prevent a substantial number of maternal deaths.
+
+MATERIALS AND METHODS
+
+This is a retrospective study. The case notes of all patients treated for complications from induced abortion at Ilorin University Teaching Hospitals between January 1, 1998, and December 31, 2001, were reviewed. Data collected included demographic characteristics such as age, marital status, parity, gestational age at termination, previous abortion history, and contraceptive use. Information was also collected on the reasons for induced abortion, complications encountered, treatments offered, and outcomes. The study compared morbidity and mortality data with previous works to assess trends in induced abortion in the center.
+
+RESULTS
+
+During the review period, there were 103 cases of induced abortion out of 3,145 gynecological admissions, representing 3.26% of total admissions. The case fatality rate was 6.10%. The age of patients ranged from 15 to 40 years, with a mean age of 23-24 years. The majority of cases were from the 20-24 age group (40.70%) and 15-19 age group (32.56%), with these two groups accounting for 73.05% of induced abortion complications. Teenagers often presented for abortion at advanced gestational stages. Among the patients, 69% were single, and 67.44% were nulliparous. A significant correlation was found between unmarried and nulliparous status and complications from induced abortion. Only 11.63% of the patients had used contraception, and 32.56% had a history of previous abortion. The most common reasons for induced abortion were being unmarried (29.07%), still being in school (9.30%), and male partner denial of responsibility (6.98%).
+
+Regarding complications, 44.19% had incomplete abortion, 22.10% experienced post-abortal hemorrhage, 15.12% had lower genital tract trauma and pelvic abscess collection, and 15.12% had uterine perforation and intestinal injury. Most patients were treated with broad-spectrum antibiotics, uterine evacuation, blood transfusions, and exploratory laparotomy. A significant number underwent repairs for uterine perforation, bowel surgery, and drainage of pelvic collections.
+
+PREVALENCE AND MORTALITY PATTERN
+
+Over the past 14 years, trends in induced abortion in Ilorin showed variations in the age of patients and mortality. Teenagers accounted for 32.2% of cases in 1989, 53% in 1998, and 33% in 2001. Mortality rates rose from 4.2 per 1,000 abortions in 1989 to 90.3 per 1,000 in 1998 and 61.0 per 1,000 in 2001. Hemorrhage and post-abortal sepsis remained the major causes of death in all studies.

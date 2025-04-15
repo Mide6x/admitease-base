@@ -1,0 +1,226 @@
+Analysing Teaching Media
+The teaching strategy, which we have generated, will now be used 
+    to direct the relation, design and implementation of teaching 
+    methods and media.
+The familiar methods of teaching in higher education to support 
+    learning as it is commonly understood occurs through acquisition 
+    (so we offer lectures and reading), through practice (we set 
+    exercises and problems), through discussion (we conduct seminars 
+    and tutorials) and through discovery (we arrange practicals and 
+    field trips).
+These methods when practised in combination are definitely 
+    capable of satisfying the learning process. However, the feedback 
+    on students' actions is the weakest link not really 
+    emphasised. Sometimes, this is handled within the assessment 
+    procedures adopted for set work and within supervised practicals 
+    and tutorials.
+However, a teacher who is faced with a series of classes with a 
+    large group of students and given what is agreed as the 
+    conversational character of the teaching-learning process, makes 
+    one wonder about roles the various media can possibly play.
+Romiszowski (1988) defines a media as the carrier of messages 
+    from some transmitting source (which may be a human being or an 
+    inanimate object) to the receiver of the message (which in our 
+    cause is the learner). Educational 
+    media can also be classified as "discursive, adaptive, 
+    interactive and reflective meeting the conditions and definitions 
+    earlier stated. A list of required media characteristic should 
+    encompass a complete specification of what is required of a 
+    learning situation. This include the following:
+(i) Audio-visual media method
+(ii) Hypermedia method
+(iii) Interactive media method
+(iv) Adaptive media method
+(v) Discursive media method
+(i) Audio Visual Media Method
+(a) Lecture
+The lecture method, which has been used by lecturers for many 
+    years, is neither interactive nor adaptive. Unfortunately 80 per 
+    cent of the information students receive from their lecturers comes 
+    through the lecture method. The lecture method allows the coverage 
+    of materials to be achieved with a large class of students within a 
+    given period of time. It does not encourage reflection by the 
+    students. It only puts a tremendous burden on the students to 
+    engage in the full range of mathemagenic activities: Students must 
+    do the work to render the implicit structure explicit to 
+    themselves. They must also encourage themselves to reflect on the 
+    relationship between what the lecturer is saying and what they 
+    previously understood, decide if it is different and how the 
+    difference is to be resolved. They should be able to check whether 
+    this is compatible with everything else the lecturer said, thus 
+    initiating their own reflective activities, retrospectively using 
+    the notes of the lecturer. Their personal redescriptions are then 
+    displayed in tutorial classes or essays, which elicit feedback from 
+    their teacher to complete the discursive loop. These in effect can 
+    be done, but possibilities of breakdown or failure are numerous. 
+    Because of these limitations, many lecturers sometimes use other 
+    techniques to address the activities omitted in the form of 
+    questions to students and their answers allow the lecturer to 
+    refine their descriptions and explanations.
+(b) The Print
+Print is often the most important educational medium that 
+    satisfies one of the requirements of the conversational framework 
+    where the teachers can describe their conception. It is the easiest 
+    medium to design (single author), to produce (publishing 
+    mechanism), to deliver (bookshops and libraries), to handle (light 
+    and portable) and to use (random access, contents).
+Print is similar to lecture, but it is controllable by the 
+    student i.e. they can control the topic focus, and 
+    re-read, skip, browse and, go to another topic. In so doing, they 
+    control the pace of delivery of the material.
+A major advantage over the lecture method is that it is more 
+    complete and better presented than their notes.
+One major disadvantage of the print is that it fails to be 
+    interactive, adaptive or reflective. To counter these essential 
+    deficiencies, a number of design features could be adopted such 
+    as:
+(i) stating the learning objectives as a way of clarifying the 
+    topic goal.
+(ii) the use of in-text questions and activities to provide a 
+    form of interaction.
+(iii) the provision of supplementary texts alongside for 
+    students who need to spend more time on some aspects of the work to 
+    improve adaptively.
+(iv) the provision of self-assessment questions (SAQs) to help 
+    students reflect on what they know.
+The combination of activities and SAQs enable the print to be 
+    more discursive by inviting the students to describe and even 
+    redescribe their conception in the light of further reading.
+(c) Audio-Vision
+The audio-cassette as a medium is more controllable, though less 
+    so than print, and uses the auditory channel rather than the 
+    visual, which means it has the tremendous potential for students 
+    who cannot easily read. The audio-cassette can offer a vicarious 
+    experience of discussion such as a recorded tutorial or academic 
+    debate.
+For this reason, the medium achieves a degree of interactivity. 
+    Moreover, since the audio commentary is designed to interpret, then 
+    the student is receiving tutorial at both levels of experience and 
+    description of experience, thus making the medium a surprisingly 
+    powerful one.
+(d) Television
+Broadcast Television can be used in cases where campuses are 
+    distributed or where there are widely distributed students in 
+    distance learning universities. Like the lecture, it is not 
+    discursive, interactive, adaptive nor reflective, and is not 
+    self-paced. Its principal contrast with lectures is that it can use 
+    dynamic analogue images as well as language. Television is able to 
+    convey a way of experiencing the world, because it provides an 
+    exciting experience through dynamic sound and vision and uses a 
+    number of technical devises to manipulate that experience such as 
+    "supplanation". Supplanation allows our perception of the 
+    world through television to imitate our perception of the real 
+    world. The most interesting role for television as a unique medium 
+    lies in its rhetorical power constrained in the interests of 
+    balance and objectivity and these advantages can be exploited 
+    effectively to assist students' learning. In its canonical 
+    form, however, television covers at most three of the required 
+    activities within the conversational framework: the teachers' 
+    description, the teachers set tasks and intrinsic feedback on the 
+    teachers' actions.
+(e) Video
+Video can be easily controlled and adaptive to the students. It 
+    enables the student to carry out activities in-between watching 
+    sections and to carry out analytical exercises on the video 
+    material itself. Video has the same ability as television to bring 
+    together an experience and a description of that experience. It is 
+    self-paced and can enhance the opportunities for students to 
+    reflect on what they are doing. However, it is not fully discursive 
+    (giving extrinsic feedback) nor fully interactive (giving intrinsic 
+    feedback).
+(ii) The Hypermedia Method
+The Hypertext
+The hypertext according to Jonassen (1991) is a computer-based 
+    software system for organising and storing information. The 
+    information items are documents that may include text of varying 
+    length, pictures, diagrams and sound bites to name some. The 
+    hypertext system can emulate a rich variety of interactions with an 
+    information database. Hypertext can be controlled by the user, 
+    hence the searching, indexing, referencing are well supported by 
+    the options and iconic forms used in these systems.
+The use of mouse clicks and pull-down menus to move around a 
+    large database makes accessing and displaying an item of 
+    information very convenient and the flexibility of the system for 
+    the user makes it easily explicit and highly accessible.
+Hypertext offers a useful tool for students who need to do 
+    extensive library work, which enables them to produce extensive 
+    documented information.
+The World Wide Web (www), for example, is a global collection of 
+    computers called servers within the Internet which host Hypertext 
+    Mark-up language (HTML) files/documents or Web papers. It is a 
+    powerful medium that can be used to easily access the world's 
+    information through the Internet. The Internet itself is a global 
+    interconnection of heterogeneous computer networks that make use of 
+    wired and wireless links, optical fibres and the Internet Protocol 
+    (IP) suite. Using special software called browser, in conjunction 
+    with special search engine servers, users can easily access and 
+    display their files at their web suites.
+Virtual systems are also systems which provide access to 
+    information and services remotely or through appropriate 
+    connections to libraries, laboratories, and information centres.
+Because it offers no intrinsic feedback nor has any specific 
+    goal, being simply a connected database, hypertext can neither be 
+    adaptive nor reflective, but it is a means of acquiring and 
+    constructing knowledge. For somebody who needs instant access to a 
+    large body of related material, a hypertext system will be 
+    valuable. As an information retrieval system, hypertext can access 
+    documents consisting of information stored in any form.
+(iii) The Interactive Media Methods
+(a) Simulation
+Simulation is a computer based programme that embodies some 
+    model of an aspect of the world which could take several forms such 
+    as a system of equations, a set of procedures, a set of 
+    condition-action rules. It allows the user to make inputs to the 
+    model, runs the model and displays the results (Laurillard, 1993). 
+    Making inputs to the model then take the form of selecting 
+    parameters of change, choosing parameters and values within a range 
+    or choosing when to change parameters. This input determines the 
+    subsequent behaviour of the model which is then displayed either as 
+    numerical values, a diagram, a picture or as a description of its 
+    new state. Simulations are useful for representing complex 
+    relations, hence it could be used to give students a sense of 
+    relationship between certain parameters. For this reason, 
+    simulation is a kind of experiential learning and encourages 
+    qualitative reasoning. Simulations are based on any model, the 
+    model may be a structural topic hidden in the depths of the 
+    programmes or it may be a set of rules consisting of a statement 
+    such as "if, then "call procedure" or else ask 
+    questions. In general practice, simulations are often embedded in a 
+    teaching context which enables students to describe their 
+    conception in the form of write-up on their work on the 
+    simulations. Simulations give intrinsic feedback on students' 
+    actions, hence it is interactive, but it does not comment on them 
+    or discuss them, so it is not discursive. A simulation is 
+    controllable by the students, because by selecting parameters to 
+    change they can effectively determine the topic focus, however it 
+    is not reflective.
+(b) Microworld
+Microworld is also another computer based programme that allows 
+    students to express their description of some aspect of the world 
+    in a form understandable by, and therefore, inspectable by the 
+    programme. What makes microworld interesting is that they appear to 
+    address explicit description of the students' point of view. A 
+    student, for example, has to describe on the form of a set of 
+    commands, and then run them as one would run a programme and the 
+    result is either the intended behaviour or something unexpected. 
+    Microworld is important because it encourages students to reflect 
+    upon their interaction. It is also controllable by the students, it 
+    is interactive, it is adaptive. It supports reflection and 
+    interaction at a certain level of description.
+(c) Modelling
+Modelling is a computer programme that invites the learner to 
+    create their own model of a system, defined mathematically and then 
+    run, allowing the output to be compared with the stored data of a 
+    real world system. In a modelling programme, the programme merely 
+    interpretes formula (or rules in mathematical or graphical forms 
+    only). When students are modelling, they are creating their own 
+    representatives and are learning something about the nature of 
+    theory building. Many computer modelling in science, for example, 
+    are representations of dynamic processes. Such models involve a 
+    specification of the initial condition, and an algorithm, which is 
+    executed to determine how the system evolves over time. Examples 
+    are models of mechanical systems, chemical reactions, meteorology 
+    and ecological systems. Modelling is fully controllable by the 
+    students and gives feedback on students' action. Modelling 
+    programme is one of the closest so far that can support the 
+    learning of academic knowledge.

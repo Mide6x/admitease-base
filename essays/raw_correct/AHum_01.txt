@@ -1,0 +1,47 @@
+6. Equipping Indigenous Languages and Indigenizing Information and Communication Technology: Principles, Processes and Challenges
+
+When a language is to assume new functions and greater responsibilities, it must necessarily be empowered to enable it to cope with its new roles. Language empowerment, as conceived by Omachonu (2007), should be seen as a strategy for language development involving deliberate language planning, management, and maintenance. In what follows, we shall focus on corpus and status language planning, as well as the effective implementation of language policy in Nigeria.
+
+To begin, we must distinguish between corpus and status planning. While the distinction may seem blurred in sociolinguistics, it remains a useful one. Corpus planning refers to modifications in the structure of a language—its vocabulary, syntax, morphology, orthography, or even the adoption of a new script. Status planning, on the other hand, deals with a language’s standing relative to others, especially in terms of its official use by political or public institutions (Ndukwe, 1988). In other words, corpus planning is about developing and standardizing a language to serve every possible function in a community, while status planning is about changing the functional roles of a language and the rights of its speakers.
+
+Corpus planning, according to experts, involves a number of linguistic activities such as orthography development, vocabulary expansion, dictionary compilation, script and spelling reform, creation of educational and literary texts, development of terminology and meta-language, language revival, and translation (see Agbedo, 2000; Emenanjo, 2005; Anagbogu, 2005; Bamgbose, 2006).
+
+Beyond these conceptual clarifications, it must be noted that in Africa, language planning is often synonymous with language standardization. It is from this perspective that we adopt the current discussion. Our target languages should include both the three major Nigerian languages and the dominant regional ones. The process of development can occur in phases or simultaneously, especially in states where both categories are relevant. It is here that the distinction between major and main languages becomes relevant. According to Jubril, as quoted in Omachonu (2000:1):
+
+“The big three—Hausa, Igbo, and Yoruba—are still rightly the major languages spoken in Nigeria. They have been zoned for study in the Nigerian education system following the 1981 National Policy on Education regarding mother-tongue instruction. However, next to these three are languages which, by virtue of population and recognition, are dominant in their respective states. These should be regarded as main languages.”
+
+These main languages are already earmarked for use in all formal educational processes, including the instruction of science and technology. This satisfies a major requirement in language standardization known as determination—the selection of a language to perform certain functions in a multilingual nation at the regional, national, or international level.
+
+To perform these roles, such languages must satisfy the corpus planning requirements of standardization, modernization, elaboration, and cultivation. Wolff (2000) outlines the steps of corpus planning to include codification, elaboration, implementation, cultivation, and harmonization, in addition to determination. He summarizes thus:
+
+“There must be codification in terms of standard orthography, a reliable reference grammar, a comprehensive monolingual dictionary, sufficient and adequate reading materials, and teacher training manuals” (Wolff, 2000:222).
+
+The targeted indigenous languages must possess all of these resources to be able to effectively take over from English as a medium of instruction and a vehicle for the acquisition of general knowledge and skills.
+
+For these languages to be used across broader domains, proper and standard codification and graphization must be ensured, taking into consideration the principles of good orthography—accuracy, convenience, consistency, familiarity, and harmonization. In addition, vocabulary expansion is essential. This involves the creation and expansion of the necessary vocabulary for commerce, the professions, and scientific domains as knowledge and technology increase (Omachonu, 2000:19; Wolff, 2000:337).
+
+Strategies for vocabulary enrichment include borrowing from other languages, coinage, development of meta-language, calquing, and intra-language borrowing (see Emenanjo, 2005:9–13 for a detailed discussion). With successful codification and vocabulary elaboration, harmonization—which seeks to reduce symbol variety for ease of printing and teaching—becomes manageable. Also, with the right mindset, continuous seminars and workshops, recruitment and training of qualified teachers, and the establishment of a regulatory body, the issue of standard can be stabilized and cultivation achieved over time.
+
+Nigeria, with its unique languages and cultures, must take its destiny into its own hands by projecting a unique national identity and promoting indigenous knowledge and technology. This includes domesticating science and technology so that digital communication—through television, radio, computers (including internet platforms and software like Encarta Premium Suite), and GSM handsets—can be channeled in Nigerian languages, with instructions and menus provided in those languages.
+
+Encouragingly, progress is being made. For example, the first ICT-compliant font for Nigerian languages was developed by Victor Manfredi for the Linguistic Association of Nigeria (LAN) in 1985, assisted by Edward Oguejiofor, a Macintosh programmer in Boston. Initially named JolanPanNigerian, the font was later expanded to include other West African languages and renamed PanKwa. Though not without challenges, this innovation has addressed many of the issues related to typesetting Nigerian languages, especially in digital contexts.
+
+As previously suggested, meaningful language empowerment must address both corpus and status planning. While the former involves language development, the latter entails policy formulation and implementation. Unfortunately, Nigeria’s major challenge is not policy formulation but faithful implementation. Despite numerous well-crafted policies, especially on language in education, failure in implementation—due to inconsistency or lack of political will—has rendered most initiatives ineffective. We must determine to change this narrative by adopting best practices and committing to actualizing our language policies.
+
+7. The Real Problem with Us: Speaking Frankly to Ourselves
+
+In addition to language endangerment and the lack of political will, Nigeria faces a deeper psychological problem. According to Maduka (2007), colonialism caused a significant ecological disruption in Nigerian cultural life. The typical educated Nigerian is often disconnected from his cultural roots and environment. Colonial influence created a false perception that Western culture is superior, leaving many Nigerians feeling inferior and psychologically displaced.
+
+This self-rejection extends to cultural assets, including indigenous languages. A troubling number of Nigerians still believe that local languages are unfit for education and national development—decades after independence. Alarmingly, some Nigerians take pride in their fluency in English while being dismissive or even ashamed of their native tongues. As Ngũgĩ wa Thiong’o (2008:1) observed:
+
+“He measures his modernity by the distance he has been able to establish between himself and his native tongue.”
+
+This mindset causes many to proudly declare, "I don’t understand that language," referring to their mother tongue.
+
+Yet, Nigeria is not the first to experience colonization. The Finnish were colonized by the Swedes for 600 years, during which Swedish dominated education and administration. But they resisted and revived Finnish. The Vietnamese, under French colonial rule, eventually discarded French in favor of Vietnamese. The Welsh maintained their language despite centuries of English dominance. Even English itself suffered setbacks after the Norman Conquest of 1066, when French was seen as the language of civilization. But through patriotic effort and pride, English reclaimed its space and evolved into a global language.
+
+Notably, English benefited from language borrowing, especially from French, which accelerated its development. Nigerian languages can do the same—embracing foreign influence without sacrificing their identity.
+
+8. Conclusion
+
+What Nigeria needs for national development and economic sustainability is intellectual capital—creative and dependable minds that can transform the economy. This is best achieved through education in indigenous languages, which are powerful tools for real knowledge acquisition. Language is indispensable for ethical revolution and societal advancement, and the use of one’s mother tongue provides a stronger foundation for meaningful learning and national growth.

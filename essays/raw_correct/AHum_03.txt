@@ -1,0 +1,140 @@
+Analysing Teaching Media
+The teaching strategy we have generated will now be used to guide the selection, design, and implementation of teaching methods and media.
+
+Familiar methods of teaching in higher education support learning as it is commonly understood—through acquisition (lectures and reading), practice (exercises and problems), discussion (seminars and tutorials), and discovery (practicals and field trips).
+These methods, when practiced in combination, are capable of supporting the learning process effectively. However, feedback on students' actions is often the weakest link and not adequately emphasized. Sometimes, it is handled within the assessment procedures for set work or during supervised practicals and tutorials.
+
+A teacher faced with a large class, and given the agreed conversational character of the teaching-learning process, must consider the roles various media can play.
+
+Romiszowski (1988) defines media as the carrier of messages from a transmitting source (which may be a human or inanimate object) to the receiver of the message (in our case, the learner). Educational media can also be classified as discursive, adaptive, interactive, and reflective, meeting the conditions and definitions stated earlier.
+A list of required media characteristics should include a complete specification of what is needed in a learning situation. These include the following:
+
+Audio-visual media method
+
+Hypermedia method
+
+Interactive media method
+
+Adaptive media method
+
+Discursive media method
+
+(i) Audio-Visual Media Method
+(a) Lecture
+The lecture method, which has been used by lecturers for many years, is neither interactive nor adaptive. Unfortunately, 80% of the information students receive from their lecturers comes through this method. The lecture allows the coverage of material with a large class within a short period. However, it does not encourage student reflection. It places a significant burden on students to carry out a full range of mathemagenic activities:
+
+They must make the implicit structure explicit to themselves.
+
+Reflect on how the lecturer’s words align with or contradict their prior understanding.
+
+Check compatibility with the rest of the lecture.
+
+Initiate personal reflective activities and revise their notes accordingly.
+
+Their personal redescriptions are then displayed in tutorial classes or essays, which elicit feedback from the teacher to complete the discursive loop. Although this can be effective, there are many opportunities for breakdown or failure.
+To compensate for these limitations, many lecturers use other techniques, such as asking questions and refining their explanations based on students’ responses.
+
+(b) Print
+Print is often the most important educational medium. It satisfies one of the key requirements of the conversational framework by allowing teachers to describe their conceptions clearly. Print is also:
+
+Easy to design (single author)
+
+Easy to produce (publishing mechanisms)
+
+Easy to deliver (bookshops and libraries)
+
+Easy to handle (light and portable)
+
+Easy to use (random access, table of contents)
+
+Like lectures, print is not interactive, adaptive, or reflective by default. However, it is controllable by the student, who can:
+
+Choose the topic focus
+
+Re-read, skip, or browse
+
+Control the pace of delivery
+
+Its main advantage over lectures is that printed material is more complete and better presented than handwritten notes.
+To counteract the deficiencies of print (i.e., lack of interactivity, adaptability, and reflection), several design features can be added:
+
+Stating learning objectives to clarify topic goals
+
+Using in-text questions and activities to foster interaction
+
+Providing supplementary texts for adaptive learning
+
+Including self-assessment questions (SAQs) for reflection
+
+Together, these make print more discursive by inviting students to describe and revise their understanding through further reading.
+
+(c) Audio-Cassette
+Audio-cassettes are more controllable than lectures, though less so than print. They use the auditory channel rather than the visual, making them beneficial for students who struggle with reading. Audio-cassettes can simulate discussions, such as recorded tutorials or academic debates, offering a vicarious experience.
+
+This medium provides a degree of interactivity and dual-level learning—both experience and interpretation. Hence, it can be surprisingly powerful.
+
+(d) Television
+Broadcast television is useful for distributed learning contexts, such as distance learning universities. Like lectures, it is not discursive, interactive, adaptive, or reflective, and it is not self-paced.
+However, it differs from lectures in that it uses dynamic images and sound. It conveys an experience of the world using techniques like supplanation, which mimics real-world perception. Its rhetorical power, if used carefully and objectively, can effectively support learning.
+
+In its basic form, television supports up to three activities within the conversational framework: teacher’s description, set tasks, and intrinsic feedback on teacher actions.
+
+(e) Video
+Video is self-paced and adaptive. It allows students to pause and reflect or perform activities in-between sections. Like television, it combines experience and its description but goes further by encouraging reflection.
+
+However, video is not fully discursive (it lacks external feedback) nor fully interactive (it lacks intrinsic feedback mechanisms).
+
+(ii) The Hypermedia Method
+The Hypertext
+According to Jonassen (1991), hypertext is a computer-based system for organizing and storing information. It can contain text, images, diagrams, and sound, and allows the user to interact with a database of related materials. Navigation is done using mouse clicks, pull-down menus, icons, and indexes.
+
+The World Wide Web (WWW) is a global collection of computers (servers) that host HTML files. It is a powerful information access tool made available through the Internet—a global network using wired, wireless, and optical links.
+
+With a browser and a search engine, users can locate and view files hosted on web servers.
+Virtual systems also allow access to remote information or services via libraries, laboratories, or information centers.
+
+While hypertext is controllable and supports knowledge acquisition and construction, it offers no intrinsic feedback, no specific learning goals, and is neither adaptive nor reflective.
+
+(iii) The Interactive Media Methods
+(a) Simulation
+A simulation is a computer-based program that models an aspect of the world using equations, rules, or procedures. Students interact with the model by changing parameters and observing the effects—typically displayed as values, diagrams, or system states.
+
+Simulations are useful for understanding complex relationships and encouraging qualitative reasoning. They provide intrinsic feedback but do not support external commentary or discussion, so they are not discursive.
+They are controllable by the learner but not reflective.
+
+(b) Microworld
+Microworlds are programs that allow students to express their understanding through commands that the system can interpret and execute. The outcome (expected or unexpected) provides feedback that encourages reflection.
+
+Microworlds are:
+
+Controllable
+
+Interactive
+
+Adaptive
+
+Reflective (to some extent)
+
+They support learners in articulating and testing their own mental models.
+
+(c) Modelling
+Modelling programs allow students to create their own mathematical representations of systems and compare the outcomes with real-world data. This helps students understand theory building.
+
+Examples include:
+
+Mechanical systems
+
+Chemical reactions
+
+Meteorological models
+
+Ecological systems
+
+Models require an initial condition and an algorithm to simulate change over time.
+These programs are:
+
+Fully controllable
+
+Provide feedback on student actions
+
+Modelling supports the development of academic knowledge and is one of the most powerful educational media for learning complex concepts.

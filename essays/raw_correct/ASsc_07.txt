@@ -1,0 +1,35 @@
+IMPACT OF SELECTED RURAL DEVELOPMENT PROGRAMMES ON POVERTY ALLEVIATION IN IKWUANO LGA, ABIA STATE, NIGERIA
+
+ABSTRACT
+
+Rural development is a powerful tool for combating poverty and achieving economic prosperity at the grassroots level. Rural development refers to processes that reduce rural poverty by increasing the productivity and incomes of low-income workers and households. This study aimed to assess the impact of selected rural development programmes in Ikwuano Local Government Area (LGA), Abia State, Nigeria. The area was specifically chosen due to its agricultural potential, high proportion of farmers, and concentration of agricultural institutions. The study selected programmes that had been in operation for many years to assess their long-term effectiveness. The objectives of the study were to determine the number of available rural development programmes aimed at poverty alleviation, to assess the awareness and participation of rural people in these programmes, and to examine their impact on farmers' income, farm size, production, and productivity.
+
+The study used a multi-stage random sampling method to select communities and respondents. A structured questionnaire was used to gather data on socio-economic characteristics and other relevant factors from a random sample of 160 respondents, comprising both beneficiaries and non-beneficiaries of the programmes. The results indicated that the rural development programmes significantly improved productivity and farm income at a 5% probability level. Awareness of the programmes was high, but participation was most prominent in the Agricultural Development Programme (ADP), with approximately 79% of respondents participating in this programme. Based on the findings, it was recommended that planners and implementers intensify awareness campaigns and adopt a community-driven development (CDD) approach in the execution of rural development projects. The government was also urged to implement price support policies to raise producers' incomes.
+
+INTRODUCTION
+
+Africa is home to a significant portion of the world's poorest countries, many of which are plagued by factors such as war, ethnic conflict, natural disasters, foreign debts, and corruption. Despite the continent's vast natural resources, including agricultural lands and mineral reserves, the majority of sub-Saharan Africa's population remains rural, with agriculture serving as the primary source of income for most people. Nigeria, in particular, has a poverty rate that worsened between 1980 and 1996, with a significant portion of the population living below the poverty line. A 2000 UNDP report ranked Nigeria 142nd on the Human Development Index (HDI) with a score of 0.40, reflecting the country's economic struggles.
+
+Rural development is essential for solving Nigeria's economic problems, especially considering that most of the population and resources are located in rural areas. Several rural development programmes have been implemented in Nigeria, with a focus on alleviating rural poverty, particularly through agricultural development. However, there have been debates about the most effective strategies for achieving sustainable rural development and poverty reduction.
+
+The primary objective of this study is to assess the effectiveness of selected rural development programmes in alleviating poverty in Ikwuano LGA. Specifically, the study aims to determine the number of programmes with poverty alleviation goals, assess the extent of rural people's awareness and participation in these programmes, and evaluate their impact on farmers' income, farm size, and productivity.
+
+CONCEPTUAL FRAMEWORK AND LITERATURE REVIEW
+
+Rural development refers to the sustained improvement in the quality of life of rural populations, involving a combination of economic, social, political, cultural, and technological factors. Agricultural development plays a central role in rural development due to its strong connection to rural livelihoods. The goal of rural development is to alleviate poverty by increasing productivity, improving income, diversifying rural economies, and enhancing the supply of infrastructure and services.
+
+Participation is a key aspect of rural development, with community involvement in decision-making processes such as needs assessment, project planning, and implementation. Community-driven development (CDD) is an approach that emphasizes local knowledge and active participation, ensuring that projects meet the needs of the beneficiaries.
+
+This study is grounded in the theory of rural development, which emphasizes addressing the unique challenges of rural areas through targeted programmes. Poverty alleviation programmes in Nigeria have focused on improving agricultural productivity, providing infrastructure, and supporting rural communities through various government and donor-led initiatives.
+
+METHODOLOGY
+
+The study was conducted in Ikwuano Local Government Area of Abia State, Nigeria. The area was selected for its agricultural potential, the large number of farmers, and the presence of agricultural institutions. The study used a multi-stage random sampling technique to select communities and respondents. In the first stage, two villages were randomly selected from eight autonomous communities in the locality. In the second stage, 10 respondents were randomly chosen from each of the 16 villages, yielding a total of 160 respondents. Of these, 80 were beneficiaries of rural development programmes, and the remaining 80 were non-beneficiaries.
+
+Data were collected using a well-structured questionnaire to assess the socio-economic characteristics of the respondents and their participation in rural development programmes. The study employed paired t-test statistics to compare the responses from beneficiaries and non-beneficiaries, with the aim of determining the impact of the programmes on farm income, production, and productivity.
+
+RESULTS
+
+The socio-economic characteristics of the respondents revealed that 68.18% were aged between 41 and 60 years, with 73.12% being married. The majority (86.88%) had varying levels of formal education, and 51.25% identified farming as their primary occupation. The dominant family size was between 5 and 9 persons (85%).
+
+The available rural development programmes in Ikwuano LGA and their year of commencement include the Agricultural Development Programme (1975), Directorate of Food, Roads, and Rural Infrastructure (1986), Better Life Programme (1981), Family Support Programme (1995), Family Economic Advancement Programme (1997), Abia State Agency for Community-Based Poverty Reduction Project (2000), and National Special Programme for Food Security (2001). These programmes were selected due to their longevity and focus on rural development and poverty alleviation.
