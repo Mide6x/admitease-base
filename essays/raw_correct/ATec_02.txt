@@ -1,0 +1,28 @@
+DEVELOPMENT AND EVALUATION OF A THRESHING MACHINE FOR PROSOPIS AFRICANA SEED
+
+ABSTRACT
+A decorticating machine for Prosopis africana seeds was developed, tested, and evaluated. Prosopis africana is popular in Sub-Saharan Africa, with all parts of the tree useful for medicinal purposes. This study focuses on threshing the pod to obtain the seed, the most widely used part of the Prosopis africana tree. Results from preliminary investigations on the physical and engineering properties of the pod and seed were used in designing a threshing machine. The machine was tested with pods at a moisture content of 8% w.b., using speeds of 300, 350, 400, and 450 rpm at four feed rates of 1, 2, 3, and 4 kg/min. Threshing efficiency (TE), cleaning efficiency (CE), and seed loss (SL) increased as the drum speed increased. There was no significant difference in the variations of TE, CE, and SL at different feed rates, but TE and CE decreased with an increase in feed rate. The maximum threshing and cleaning efficiencies were obtained at a speed of 450 rpm at 95.8% and 96.0%, respectively, at feed rates of 1 and 4 kg/min. The highest seed loss (19.1%) was obtained at a drum speed of 450 rpm and a feed rate of 4 kg/min. The high threshing and cleaning efficiencies in threshing Prosopis Africana and minimal loss indicate a potential for mechanizing processing and handling operations, promoting commercialization and large-scale mechanized threshing.
+
+INTRODUCTION
+Prosopis africana has been significant to mankind, especially in sub-Saharan Africa. Its origin, cultivation, and importance have been highlighted in various research reports. All parts of the tree are utilized for medicinal purposes, as well as food condiments and raw materials in the livestock industry due to its rich protein content. The need for efficient processing methods is crucial. However, limited information is available on processing and handling these crops, particularly concerning engineering properties.
+
+The pods of Prosopis africana are hard, shiny, dark brown, cylindrical, with about 10 loose seeds per pod. To process the seed for various uses, it needs to be extracted from the pod through decorticating and shelling processes. Manual methods of extracting seeds are time-consuming, labor-intensive, and hazardous. There is little information on the use of threshing or decorticating machines for this crop. Threshing involves the separation of grains or seeds from straw or pods of harvested crops, using various methods such as impact, rubbing, squeezing, or centrifugal forces.
+
+Studies on threshing efficiency have shown that factors like moisture content, drum speed, feed rate, and crop parameters significantly influence the effectiveness of threshing machines. Designing a suitable machine for threshing Prosopis africana seeds requires considering physical and engineering properties to enhance performance, reduce power requirements, and minimize drudgery associated with traditional methods.
+
+DESIGN CONSIDERATIONS, CONCEPTION, AND SELECTION OF PARAMETERS
+Design Considerations
+The machine design aimed to thresh Prosopis africana seeds efficiently without damage, enhance ease of operation, reduce power requirements, minimize manual labor, ensure affordability for local farmers, and use materials to reduce power consumption.
+
+Component of the Machine
+The machine comprises a frame, hopper, spiked tooth threshing drum, perforated concave, winnowing section, and seed outlet. The frame ensures stability, the drum is made of mild steel with beaters arranged for threshing, and the concave allows seeds and chaff to pass through while collecting clean seeds at the outlet.
+
+Selection of Parameters
+Parameters selected for design consideration include concave clearance, concave perforations, operating speed, beater dimensions, drum diameter, and desired threshing efficiency.
+
+DESIGN CALCULATIONS
+The Threshing Drum
+Key parameters for the threshing drum include drum length, diameter, number of beaters, and speed. The drum length was calculated based on feed rates, drum speed, and peripheral speed recommendations. Weight calculations for the drum and beaters were made using mild steel.
+
+The Drum Shaft
+The shaft length was determined considering the weight distribution of the drum and external loads like pulleys. The shaft was designed to withstand bending, deflection, and shear failures, ensuring optimal performance of the threshing machine.

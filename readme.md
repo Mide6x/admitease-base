@@ -65,7 +65,7 @@ python train.py --train_file your_train_data.csv --test_file your_test_data.csv 
 Your training data should be a CSV file with two columns:
 
 - `input`: The text with grammatical errors
-- `target`: The corrected version of the text
+- `target`: The corrected version of the **text**
 
 ## Command Line Interface
 

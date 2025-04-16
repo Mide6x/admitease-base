@@ -1,0 +1,214 @@
+DEVELOPMENT AND EVALUATION OF A THRESHING MACHINE FOR 
+    PROSOPIS AFRICANA SEED
+ABSTRACT
+A decorticating machine for Prosopis africana was 
+    developed, tested and evaluated. Prosopis africana is popular in 
+    the Sub-Saharan Africa, with all the parts of the tree useful for 
+    medicinal purposes. This study focuses on the threshing of the pod 
+    to obtain the seed, which is the most widely used of the parts of 
+    the Prosopis africana tree. Results from preliminary investigations 
+    carried out of on some physical and engineering properties of the 
+    pod and seed were used in the design of a threshing machine. The 
+    machine was tested with pods at a moisture content of 8% w.b. using speeds of 300, 350, 400 and 450rpm at four feed 
+    rates of 1, 2, 3 and 4kglmin. The threshing efficiency (TE), 
+    cleaning efficiency (CE) and seed loss (SL) increased as the drum 
+    speed increased. There was however no significant difference in the 
+    variations of the values of TE, CE and SL at different feed rates 
+    but the TE and CE decreased with increase in feed rate. The maximum 
+    threshing and cleaning efficiencies were obtained at a speed of 450 
+    rpm as 95.8% and 96.0% respectively at a feed rate of 
+    1 and 4 Kg/min. The highest seed loss (19.1%) was obtained 
+    at a drum speed of 450rpm and feed rate of 4Kglmin. The high 
+    threshing and cleaning efficiencies obtained in the threshing of 
+    Prosopis Africana and minimal loss have shown that there is a 
+    prospect in the mechanization of the processing and handling 
+    operation hence commercialization and promotion of mechanized 
+    threshing at a large scale.
+INTRODUCTION
+Prosopis africana has been known to be 
+    important to mankind especially in the sub-saharan Africa. Its 
+    origin, cultivation and importance have been highlighted and 
+    presented in a number of research reports. They observed that all 
+    the parts of the tree are used for one purpose or the other. These 
+    ranged from the use of the stem, leaves and the bark for medicinal 
+    purposes (Oyeyiola, 1999) and the seeds fermented or processed in 
+    various ways as food condiments (Omafuvbe et. 
+    al., 1999) and raw materials in the livestock 
+    industry because of its rich protein content (Barminas 
+    et. al., 1998; Vickery and 
+    Vickery, 1979; FAO, 2003)
+The utilization of these plants and their importance calls for 
+    methods that will process them with ease. However very little has 
+    been published on the processing and handling of the component 
+    parts of the crop under study, the few publications available 
+    describe the specie, without 
+    highlighting the properties that may be of engineering 
+    importance.
+The pods of Prosopis africana are hard, shiny 
+    dark brown, cylindrical (up to 15cm long and 3cm in diameter) with 
+    thick woody compartmented walls. There are about 10 loose, rattling 
+    seeds per pod with a thin, inter-marginal line around. In order to 
+    process the seed for its various uses it should be extracted from 
+    the pod. Decorticating and shelling are processes of extracting the 
+    useful part to enhance further processing, reduce the volume and 
+    hence the transport and handling cost (Asiedu 1989).
+The process of extraction of the seeds of Prosopis 
+    africana seeds has always been and still done manually by 
+    breaking the pods on a platform using stone or stick to hit the 
+    bulk crop (Figure 1). The hard pods of Prosopis 
+    africana are crushed to extract the seeds out among the 
+    Tiv and Idoma speaking areas in the Middle Belt of Nigeria by 
+    hitting and crushing the pods using two stones, or a hammer and a 
+    hard surface. Another method is by putting the pods in a mortar and 
+    using a pestle to crush it. After crushing, the fibrous pod pulp is 
+    separated from the seeds. This is a tedious task that is time and 
+    energy consuming, and also hazardous. There is no published report 
+    on the use of any available threshing or decorticating machine 
+    either for the crop or the use of those for other bean seeds.
+
+The processing of Prosopis africana seeds 
+    into food condiments involves boiling the seeds in water for 10 - 
+    12 hours and splitting the seed coat to release the cotyledons. The 
+    cotyledons are then washed with water and further boiled for 2 
+    hours. The cooked cotyledons are allowed to cool, then wrapped (in 
+    50 - 80g per group) in layers of clean leaves and fermented 
+    (Omafuvbe et. al.., 1999).
+Threshing is the separation of grains or seeds from the straw or 
+    pods of harvested crop. Threshing may be accomplished by impact of 
+    a fast moving member upon the material, rubbing, squeezing or a 
+    combination of two or more of centrifugal, crushing and shear 
+    forces. A Thresher is commonly made of a rotating drum with or 
+    without rasp bars or screw within a cylinder or concave and a 
+    pneumatic separation unit using a blower or aspirator.
+The process of threshing involves the interaction of machine and 
+    crop for the release of grains from the ear. A number of works has 
+    been done and reported on threshers and the parameters that affect 
+    threshing are grouped into two; machine parameters and crop 
+    parameters. The crop parameters are moisture content, strength, 
+    shape and size, density and specific gravity of the seed and pod, 
+    and variety of the crop while the machine parameters are: drum 
+    speed, cylinder-concave clearance, feed rate and fan capacity.
+Information on the design and operation of the decorticating 
+    machine for other bean seeds indicated that the moisture content of 
+    grain is one of the major physical factors that affect the 
+    mechanical damage to grains and the threshing efficiency of 
+    machines. The effect of moisture content on hardness and strength 
+    of several grains indicates that greater energy is required to 
+    break grains having higher moisture content by impact compared to 
+    those having lower moisture content (Paulsen et 
+    al., 1980). Simonyan and Oni (2001) reported that 
+    there is an increase in threshing efficiency and extractor 
+    efficiency with decrease in moisture content while Ajayi, (1991) 
+    found that the moisture content of the crop influenced the material 
+    capacity of a locust bean thresher.
+Threshing effectiveness was also found to be affected by the 
+    cylinder speed (Ajayi, 1991; Simonyan and Oni, 2001), the concave 
+    clearance (Mandouh et al., 2000 for 
+    wheat), feed rate of crops, the number of rows of concave teeth 
+    used with spike tooth cylinder, and the type of crop (Yusuf and 
+    Suleiman, 2000; Srivastavaet al., 1993; 
+    Helmy, 1998). Increasing the speed reduces the cylinder loss, may 
+    substantially increase damage with the susceptibility to damage 
+    varying greatly among different crops. Kaul and Egbo (1985) stated 
+    that an optimum speed is desirable to get an optimum performance of 
+    a thresher as excessive speed can cause the grain to crack, and too 
+    low a speed can give unthreshed heads. EI-Nono and Mohammed (2000) 
+    on the other hand found that, for wheat, the machine power 
+    requirement was directly proportional to the drum speed, moisture 
+    content and grain damage.
+Studies on the effect of swinging hammer, spike tooth and rasp 
+    bas cylinders on threshing 
+    effectiveness and damage of wheat revealed that the cylinder speed 
+    and concave clearance were found to be important variable in 
+    unthreshed grain and damage model. Increase in cylinder speed and 
+    decrease in concave clearance decreased the rate or unthreshed 
+    grain and increased grain damage and power requirement. They found 
+    out that the swinging hammer type cylinder consumed more power than 
+    the rasp bar and spike cylinders.
+There has been very little report on the properties of 
+    Prosopis africana pods and seeds, especially as 
+    it may interest the engineer for the design of a machine for 
+    threshing any crop that requires the application of the engineering 
+    properties of the crop. Similarly information on other engineering 
+    properties, such as the flow, aerodynamic and thermal properties 
+    are not available. In order to aid the design of this machine, some 
+    physical and engineering properties of Prosopis 
+    africana were determined in the first part of this 
+    paper.
+There is no report published on the design development and 
+    evaluation of a machine for decorticating Prosopis 
+    africana seeds. With the availability of reports on the 
+    properties of other similar crops and threshing, there is a need to 
+    therefore use the data obtained from the preliminary studies to 
+    design, develop and evaluate the performance of an appropriate 
+    decorticating machine, which will reduce the drudgery associated 
+    with the traditional methods of decorticating Prosopis 
+    africana pods.
+DESIGN CONSIDERATIONS, CONCEPTION AND SELECTION OF 
+    PARAMETERS
+Design Considerations
+The following were considered in the design of the Machine: 
+    ability to thresh Prosopis africana seeds 
+    without damage at a rate higher than the manual method, ease of 
+    operation, reduction of the power requirement and the drudgery 
+    involved in the traditional methods of threshing, economy to make 
+    the machine affordable and within the capacity of the local farmers 
+    and the choice of materials for the development of the machine to 
+    reduce the total power requirement.
+The Component of the Machine
+The machine shown in Figure 2 consists of a frame, the hopper, 
+    threshing unit made of a spiked tooth threshing drum and a 
+    perforated concave as well as winnowing section and the seed 
+    outlet. The frame was made of angle iron of adequate thickness by 
+    design (50mmx50mmx 5mm) for stability during operation. The drum 
+    was made of mild steel sheet of thickness 3mm, rolled into a 
+    cylindrical shape, with a solid shaft passing through the drum. 
+    There are beaters arranged on the drum in four rows at 25mm apart. 
+    The concave was perforated for the threshed seeds together with the 
+    chaff to pass through onto a stream of air from a fan to blow off 
+    the chaff. The clean seeds were collected at the seed outlet.
+
+Selection of Parameters
+Using the data obtained from literatures and the preliminary 
+    investigations carried out on some physical and engineering 
+    properties of the pod and seed by the following parameters were 
+    selected for the design:
+(i) Concave clearance of 20mm based on the average thickness of 
+    the pods.
+(ii) Concave perforations of 10mm being the average major 
+    diameter of the seeds.
+The following were obtained by design
+(iii) Operating speed of 700 rpm
+(iv) Dimensions of beaters 30mm x 40 x 5mm.
+(v) Diameter of rolled drum = 180mm
+(vi) Effective drum diameter of 180 + 2(40) = 260mm
+The minimum desired threshing efficiency was 0.95 = 95% 
+    
+DESIGN CALCULATIONS.
+The Threshing Drum.
+The principal parameters of the threshing drum are the drum 
+    length, the drum diameter, number of beaters on the drum and the 
+    drum speed. (Soja et al., 2004). The drum 
+    length was obtained from Equation 1 as reported by Kepner et al 
+    (1978) and Resnikov (1991).
+
+According to Resnikov (1991) the permissible feed rate of 
+    threshers is 0.4 - 0.6kg/s, therefore for a q of 
+    0.6 kg/s and q0 of 0.4 kg/s, 
+    the drum length (l) for 4 rows of beater was 0.40m. 
+    Operating the machine at a speed of 700rpm, the peripheral speed of 
+    the drum was obtained as 9.52 m/s which falls between the 
+    range recommended by Joshi (1981) being 8.17-13.67m/s.
+
+Weight of drum and beaters using mild steel was obtained as 
+    90.8N taken to be = 91N
+The Drum Shaft
+Assuming that the load due to the weight of the threshing drum 
+    and beaters is uniformly distributed along the section of the shaft 
+    and leaving an allowance of 10 mm between ends of drum and concave 
+    (for free rotation of drum) on both sides of the drum and 150mm on 
+    both sides for the frame and pulleys, a shaft length of 720mm was 
+    obtained. Placing the pulleys weighing 14N (for prime mover) and 8N 
+    (for fan) on both ends of the shaft as point loads, the shaft was 
+    designed for bending, deflection and shear failure to obtain the 
+    diameter from the relation

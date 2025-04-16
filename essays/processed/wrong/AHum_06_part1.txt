@@ -1,0 +1,36 @@
+Grammatical tones
+Grammatical tones are those tones, which are grammatically
+significant and, within the autosegmental framework of generative
+phonology, they exist independently of 'segmental'
+phonological strings. They are mapped onto specific positions in
+the grammatical constructions in which they feature and affect the
+tonal output of the strings in the surface form. Tone exerts a lot
+of influence on the grammar of Urhobo as most of the grammatical
+information available is revealed through the manipulation of
+tones. For instance, most tense and aspectual information are
+indicated by tones. The segmentalisation of these grammatical tones
+usually results in the modification of lexical tones borne by
+adjacent segments. We shall consider a few of them.
+Tone in the associative noun phrase
+The associative construction is also called the Noun + Noun
+phrase. This construction is indicated by a morpheme /re/ which
+bears a high tone and occurs between the two nouns. In normal
+conversational speech, the vowel of this associative marker (AM) is
+always elided but its high tone remains and gets relinked on the
+prefix vowel of the following noun and this results in tonal
+modifications on the second noun. Let us consider a few
+examples:
+From the examples above, we notice that while the first nouns in
+each phrase retain their lexical tones, the prefix vowels of the
+second nouns are all realised on the high tone given them by the
+associative marker. Consequently, examples 6(a), (b) and (d) whose
+second nouns in their citation form begin with a low tone become
+high because the high tone of the associative market relinks on
+their prefix vowel. Thus, we have a tonal modification from low to
+high. In 6(c), because the second noun already bears a high tone,
+no tonal modification takes place because the two high tones merely
+contract into one high tone.
+Tone in the verb phrase
+Most simple verbs in Urhobo are either monosyllabic or
+disyllabic and begin with a consonant segment. There are no minimal
+pairs in the verb class, which differ in meaning only as a result

@@ -1,0 +1,306 @@
+AN IMPROVED SOLAR CABINET DRYER WITH NATURAL CONVECTIVE 
+    HEAT TRANSFER
+INTRODUCTION
+Solar energy is fast becoming an alternative source of energy 
+    because of the high rate of depletion of the conventional energy 
+    sources like thermal, chemical, and petroleum energy. The quest to 
+    utilize the cheap and readily available solar energy and also to 
+    overcome the shortcomings of open sun drying process brought about 
+    the development of solar drying system to improve upon the existing 
+    food and agricultural products preservation techniques.
+Dehydration or drying is a simple and low cost way to preserve 
+    crops that might otherwise spoil. Drying of food crops is an energy 
+    intensive operation. High prices and shortages in fossil fuel 
+    increase the emphasis on using solar energy as an alternative 
+    source of energy. In non-industrialized tropical countries, like 
+    Nigeria, where sunlight is abundant, natural sun drying is one of 
+    the commonest methods of drying. Drying is generally carried out by 
+    direct exposure of the food crop to solar radiation in order to 
+    reduce moisture and thereby reducing weight; drying preserves 
+    nutritional quality of food; reduces the risk of contamination by 
+    toxic mould and disease carrying insects. The use of solar energy 
+    to dry crops is nothing new in tropics as many edible and even cash 
+    crops such as cocoa and coffee beans have traditionally been dried 
+    on racks placed in the sun. Although the traditional sun drying 
+    process is common and widely embraced by all, however, the process 
+    is slow and sometimes incomplete under unfavourable climatic 
+    condition. Often, the drying products are subjected to noxious 
+    effects of dust, dirt and insect infestation. As a result of 
+    inadequacies of the open sun drying process, research effort on 
+    drying agricultural produce have been on the increase over the 
+    years in order to develop and produce an economical, effective and 
+    systemized method of drying (Wilson, 1977).
+Bamiro (1983) proposed a new formula for determination of solar 
+    radiation that was shown to give good agreement when applied to the 
+    analysis of annual daity 
+    insolation on a seasonal basis. The formula predicted a linear 
+    relationship between the daily diffuse radiation and the daily 
+    total radiation in line with the Liu and Jordan model but with the 
+    diffuse component generally higher in qualitative agreement with 
+    observations in the tropics. This study was particularized for 
+    Ibadan, Nigeria. In the study by Fagbenle (1990), it was revealed 
+    that total solar radiation increases with latitude in Nigeria but 
+    the month of August experiences the least total solar radiation 
+    throughout the country with values ranging between 12 and 20 
+    MJ/m2-day depending on the location. In 
+    another study, Fagbenle (1993) enumerated two methods used for 
+    estimating total solar radiation and recommended maximum-likelihood 
+    quadratic fit for use in Nigeria. It has been observed that the 
+    solar intensity ranges from 550 to 1075 
+    W/m2 with a total incident energy per 
+    day of 17 to 25 MJ/m2 in llorin, Nigeria 
+    of latitude 8.462oN (Lasode, 
+    1999). The optimum collector tilt angle for sites in Nigeria with 
+    latitude 8.5oN or less is 
+    (latitude angle +10°) while for locations with latitudes greater 
+    than 8.50 N is (latitude angle + 
+    5o) (Fagbenle, 1991) 
+The major drying parameters pertinent to bed drying method are 
+    ; the temperature and relative 
+    humidity of the drying air, its airflow rate and the depth of the 
+    bed in the drying chamber. These are parameters that determine how 
+    fast or slow drying will proceed inside the solar cabinet dryer 
+    (Basunia and Abe, 2001). A lower relative humidity provides a 
+    better drying potential. A high humidity inhibits the rate of 
+    drying. The increase in the temperature of the drying air cause a 
+    reduction of its relative humidity and thus increases its moisture 
+    carrying capacity. The increase in air temperature increases the 
+    temperature of the food products being dried and this in turn 
+    causes the vapour pressure within the food crop to increase without 
+    any change in vapour pressure of the drying air. A high vapour 
+    pressure difference is thus set up which improves the drying 
+    potential of the solar cabinet box. Hence, the hotter the air the 
+    more moisture it will hold before becoming saturated.
+The most important factor in any successful drying process is 
+    the rate of airflow in and out of the dryer. A high velocity air, 
+    in addition to taking moisture will also sweep it away from the 
+    drying product's surface, thus preventing moisture from 
+    creating a saturated atmosphere, is strictly needed in natural 
+    convective heat flow drying processes. In designing any natural 
+    convection drying system great emphasis is placed on the depth of 
+    bed in the drying chamber since no external airflow delivery 
+    mechanism is involved. This is to allow for the static pressure 
+    head developed by a given airflow delivery to overcome the 
+    resistance offered by the bed so that air flow could occur. A 
+    proper bed depth ensures that there is no pressure drop across the 
+    bed and that enough air flows over the food crop on the bed in the 
+    drying chamber of the solar cabinet dryer (Basunia and Abe, 
+    2001).
+Lasode (1999) designed solar dryer with collector that could 
+    transmit 125W7m2 thermal power to the 
+    drying air. The dryer could raise the temperature of ambient air 
+    from 30oC to 
+    45oC and reduce relative humidity from 
+    80% to 34%. Tests later carried out on the dryer revealed that at 
+    the early stage of drying, the samples in the open sun dried faster 
+    than that in the solar dryer, but at the later stage, the rate of 
+    drying in the solar hot box became better than the open sun. On the 
+    overall, the samples in the solar dryer show no sign of mould 
+    formation, lighter colour, and better taste compared with that of 
+    open sun.
+The focus of this work is to improve on the study of Lasode 
+    (1999) by increasing the depth of the bed in the drying chamber, 
+    improving the air flow rate by providing adequate ventilation and 
+    increasing the thermal power of the drying air. The variables and 
+    mechanisms involved in improving the dehydration processes, and the 
+    design parameters and considerations involved in the construction 
+    of this solar cabinet dryer are detailed.
+PSYCHROMETRY AND 
+    DRYING PROCESS
+Consider the ambient air at TA = 
+    27oC and of relative humidity (R.H) ΦA = 70% at the location -ILORIN, 
+    8.462oN Nigeria. From the IHVE 
+    psychrometric chart (see 
+    Figure 1), if the dryer is to heat air to a temperature, 
+    TB = 53oC, the 
+    relative humidity of the air would reduce to about 
+    ΦB =16%. if 
+    moisture is removed from blanched yam of 60% moisture content (wet 
+    basis) with this heated air until an equilibrium relative humidity 
+    of Φc = 80% is attained then the temperature 
+    of the drying air will be reduced to Tc = 
+    32.5oC.
+Drying with heated air at constant rate is a constant wet bulb 
+    process described by path B to C in Figure 1. The absolute humidity 
+    changes from 0.016 to 0.0254. The change in the 
+    humidity ratio of heated air ΔWH is thus,
+ΔWH = 0.0254-0.016 = 0.0094
+that is, every kilogram of dry air entering the dryer will pick 
+    up 0.0094 kg of water.
+The drying path for unheated air is described by AD, its 
+    corresponding humidity ratio change is then 
+    ΔWC = 0.0007.
+By implication, the capability of the heated air for dehydration 
+    is nearly fourteen times greater than ambient or unheated air. The 
+    amount of energy absorbed by the air when being heated from state 
+    point A to B is calculated as the difference in enthalpy 
+    (hB- hA) between the 
+    two points, Δh= hB- 
+    hA =98.5 - 69= 29.5 KJ/ kg. 
+    This is the quantity of thermal energy needed for dehydration from 
+    point B toC.
+For the drying process, the energy balance equation is 
+    ; 
+where MR is the mass of water evaporated 
+    from the drying sample and absorbed by the drying air of mass 
+    MA; TB and 
+    Tc are the initial and the final temperature 
+    of the drying air respectively 
+    ; CA is the specific heat capacity 
+    of air while L=2.4MJ/kg is the latent heat of vapourization 
+    for free water at 32oC.
+DESIGN CONSIDERATION
+In designing a solar cabinet drying system the following point 
+    are considered;
+(a) Amount of moisture to be removed 
+    MR from a given quantity of crop to bring 
+    the moisture content to a storage level in a specified time which 
+    is calculated from the equation below - 
+where MI is the initial mass of the 
+    drying sample, mF and 
+    m0 are the final and initial moisture 
+    content for storage on percent (%)-wet basis respectively.
+(b) Total drying time: This is the daily 
+    sunshine hours for which drying will take place. The annual average 
+    daily useful sunshine hour in llorin, Nigeria is 6.208hr. 
+    [DMS, 1985-86]. Thus, the average drying rate 
+    DR; 
+    
+t is the total drying time required to remove 
+    MR (kg) of water from the wet produce. 
+    Average drying rate is determined from the ratio of mass of 
+    moisture to be removed by solar heat and drying time.
+(c) Quantity of air needed for drying.
+The quantity of air needed for drying can be calculated either 
+    from the energy balance equation (1) or by using 
+    psychrometric chart 
+    , The problem in designing a solar 
+    dryer is to determine a suitable initial temperature 
+    TA i.e. the temperature of the 
+    drying air before passing through the bed and the correct quantity 
+    of air mass o air 
+    MA necessary to remove a specified amount of 
+    moisture MR from the wet produce. The volume 
+    flow rate of air required for drying, QA is 
+    given by, (Basunia and Abe, 2001) as 
+where;
+QA is the volume flow rate of air 
+    required for drying m3/s and p represent 
+    the density of air 1.21 kg/m3. 
+    Mass, MA of air required to remove 
+    MR kg of water is calculated thus; 
+    
+(d) Daily Solar Insolation and the useful energy 
+    needed by the solar cabinet dryer.
+This is considered in order to determine the useful energy to be 
+    received by the dryer and also to determine the area of the solar 
+    collector that is needed to trap such energy. A south facing tilted 
+    collector when compared to other orientations gives maximum daily 
+    solar energy collection in the northern latitudes (it is the exact 
+    opposite in southern latitudes where it must be north-facing). The 
+    optimum tilt angle is made equal to the latitude of the 
+    location-ILORIN, in order to optimize solar collection by the 
+    collector following Sayigh (1980). The solar energy collected on a 
+    tilted surface is obtained by multiplying the horizontal solar 
+    radiation with the tilt factor rb. The tilt 
+    factor is the ratio of the beam radiation flux falling on a tilted 
+    surface to that falling on a horizontal surface.
+Consider a tilted surface facing south i.e. when Ϋ 
+    (Surface azimuth angle) =0
+
+where;
+δ -angle of declination; θ -angle between an incident beam of 
+    flux, and the normal to the plane
+σ -latitude; β- the slope; ŵ- the hour angle;
+Ϋ -Surface azimuth angle and θ2 -angle of 
+    incident on a horizontal surface
+The average monthly rb factor ranged from 
+    1.30 in October to 1.5 in November (Basunia and Abe, 
+    2001).
+Hence, total useful energy Eu , in kJ 
+    needed to evaporate moisture is calculated from the equation below 
+    ;
+
+where
+AC is the area of the collector, 
+    m2 needed to trap energy 
+    Eu
+I is the total global radiation on the horizontal surface, 
+    kJ/m2
+n is the efficiency of the collector Note: 
+    I also represent the total incident energy per day, the value that 
+    ranges between 17 and 25 MJ/ m2 for 
+    llorin, Nigeria.
+
+(e) Air Pressure Head
+A pressure drop causes the convection of air through the sample 
+    bed resulting from the difference between density of relatively 
+    cool ambient air and the warm air inside the dryer. The density 
+    difference Δp is calculated from the ideal gas law 
+    ;
+
+where
+P = Atmospheric pressure = 1.01x105N/m2
+R = Air gas constant = 287 J/kg K
+Thus the corresponding pressure difference as a result of 
+    natural convection is determined from equation (10) 
+    ;
+
+H is the height, in m of the hot air column from the base of 
+    dryer to the point of air discharge from the dryer while g is the 
+    acceleration due to the gravity.
+(f) Air flow Velocity
+Airflow velocity Vw is proportional to 
+    the pressure gradient as observed in natural convection heat 
+    transfer.
+
+where S = 0.32 m4/N.min is a 
+    constant which indicate the resistance offered by the sample to air 
+    flow; X represents the depth, in m of the food bed in the drying 
+    chamber and Vw is in m/min (Ayensu, 
+    1987).
+(g) Thermal power (collector heat flux) 
+    Jc in kW/m2
+
+The collector efficiency is the ratio of the thermal power 
+    generated by the solar collector to the daily average solar heat 
+    flux intercepted by area of the collector. It is calculated as 
+    indicated below;
+
+where F7 =550W/m2 is the average 
+    daily solar flux intercepted by the collector in llorin during the 
+    test period. The natural convection coefficient for heat transfer 
+    for the collector is calculated to be 16.29 
+    Wm2/Kfrom Equation (14).
+
+The design calculation is based on the climatic condition of the 
+    location, llorin, Nigeria of latitude 8.462oN [DIMS, 1985-86}. The annual 
+    average air temperature TA of the location 
+    for design of the dryer is obtained from averaging the average 
+    annual minimum and maximum temperatures of 21.4oC and 32.1oC to obtain 
+    TA = 27oC 
+    
+
+
+CONSTRUCTION OF THE SOLAR DRYER
+Figure 2 shows the schematic diagram of the prototype of the 
+    solar cabinet dryer constructed for experimental test. The 
+    configuration of the design is such as to produce a good air draft, 
+    improvement on the absorbent properties and increasing the solar 
+    collector area. The construction is made from locally available 
+    materials thus making it well suitable for domestic manufacture. 
+    The solar cabinet dryer consists of rock storage system, drying 
+    chamber, air intake and discharge vents and the glass collector.
+The solar collector which admit insolation (sunlight) and limit 
+    heat loss in the hot box is constructed using a double layer 
+    transparent glass sheet of transmittance > 0.7, thermal 
+    conductivity k = 0.6W7moK for 
+    wavelengths in the range 0.2-2.0μm and opaque to 
+    wavelength greater than 4.5μm. Although any transparent 
+    object can be used as collector for this type of drying system, 
+    however, glass was chosen because of its excellent transmittance 
+    and weathering resistance. The two side panels were made of double 
+    layer transparent glass, which provides additional heating and 
+    concentrate heat into the drying chamber and also serve as an 
+    inspection port for monitoring temperature and relative humidity 
+    during experimental test.

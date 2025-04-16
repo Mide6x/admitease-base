@@ -1,0 +1,160 @@
+INTERFERENCE BETWEEN SYSTEMS DUE TO HYDROMETEOR SCATTERING ON 
+    SATELLITE DOWNLINK SIGNALS IN TROPICAL REGIONS
+
+INTRODUCTION
+The utilization of communication satellites for providing new 
+    telecommunication services and enhancing existing ones continues to 
+    garner international support and patronage.
+Integrated services digital networks (ISDN) connections via 
+    satellite for telephony and data communication, internet services 
+    relying on very small aperture terminal (VSAT) systems, satellite 
+    television, remote sensing of the environment, and others are typical 
+    services that rely on satellite communication for dependable and 
+    efficient service delivery. In Sub-Saharan Africa, these services 
+    are still developing and, if well managed, have the potential to 
+    help the region keep pace with the modern information age.
+Many communication satellites in use operate at 
+    frequencies that are also used for terrestrial telecommunication 
+    services such as terrestrial telephony and television broadcast. 
+    This situation has created significant pressure on available 
+    bandwidth, resulting in bandwidth congestion at lower frequencies. 
+    Shifting to higher frequencies equal to or greater than 10 GHz to 
+    acquire additional bandwidth has come at a cost to the quality of 
+    the desired satellite channel. As the frequency increases, signal 
+    degradation due to interaction with hydrometeors also intensifies. 
+    Hydrometeor-induced signal attenuation and scattering, signal 
+    depolarization, and intersystem interference can become pronounced 
+    at frequencies above 10 GHz. For instance, rain scattering is 
+    severe at these frequencies due to the raindrop size being 
+    comparable to the signal wavelength.
+Additionally, atmospheric gases, namely, dry air (oxygen) and water 
+    vapor, exhibit significant specific attenuation in the frequency 
+    range of 22.2-30 GHz (ITU-R, P. 676-5, 2003).
+When the common volume formed by the intersection of terrestrial 
+    and satellite signals lies within the bright band (melting 
+    layer), reflectivity decreases at a rate of 6.5 dB/km in this region, 
+    leading to strong ice scattering and attenuation of the 
+    satellite channel. A weak satellite signal at the receiving end 
+    is vulnerable to severe interference from a robust terrestrial 
+    system operating in its vicinity at the same frequency if 
+    their beam centers intersect and contain precipitating particles. 
+    Various interference geometries are possible.
+This paper focuses on a scenario where a satellite downlink 
+    signal is interfered by a signal from a terrestrial microwave 
+    network operating at the same frequency as the satellite system. 
+    In such cases, there is typically a decline in the 
+    signal-to-noise ratio at the satellite terminal due to energy being 
+    redirected forward into its receiving 
+    antenna system.
+Assessing the received interference power is crucial 
+    for designing microwave communication systems. Past efforts 
+    have been made to quantify interference levels either 
+    through direct measurement or simulation. Some of these efforts 
+    include Crane (1974), Awaka (1989), Olsen et al. (1993), Holt et al. (1993), 
+    and Capsoni and D’Amico (1997). While these endeavors have yielded 
+    favorable results in temperate regions, minimal 
+    attention has been given to addressing this issue in tropical 
+    regions. Ajewole et al. (1999a) and Ajewole (2003) studied the 
+    problem using radio-climatological data from Nigeria to predict 
+    interference levels on propagation paths in Nigeria.
+Despite the extensive research conducted in temperate regions, the 
+    findings from such studies are often insufficient for tropical paths. 
+    This is because the nature and characteristics of tropical rainfall 
+    differ at times from those of temperate regions. Tropical 
+    rainfall is frequently convective, characterized by large 
+    raindrop sizes, high intensity, and often accompanied by 
+    severe lightning and thunderstorms. If a convective rain cell traverses 
+    the common volume formed by the intersecting beams of a 
+    satellite downlink antenna and a terrestrial microwave relay 
+    system, interference will occur in the satellite system as 
+    long as the frequencies match. Furthermore, the satellite signal 
+    experiences additional rain attenuation (Figure 1) along its path, 
+    thus, relying solely on transmission loss statistics will not be 
+    sufficient to predict the interference received by the desired 
+    satellite channel. This additional attenuation has the potential 
+    to further diminish the signal-to-noise ratio at the satellite terminal. 
+    Hence, the evaluation of this additional attenuation is crucial 
+    in determining the effective transmission loss on the path, and 
+    if it exceeds the link margin, it could lead to a complete 
+    outage of the satellite channel regardless of the interference levels 
+    from the terrestrial system. Therefore, it is imperative to account 
+    for this extra attenuation of the desired signal in analyzing 
+    intersystem interference for accurate determination of interference 
+    levels to aid in better planning and design of 
+    microwave communication systems in these regions.
+
+The present study examines hydrometeor scattering in 
+    additional locations within the 
+    equatorial region of Africa: Douala, Cameroon (9.70°E, 4.05°N), and Nairobi, Kenya (36.75°E, 1.30°S). The study subsequently calculates 
+    interference in these locations in terms of effective 
+    transmission loss and compares the results with those obtained in Ile-Ife, 
+    Nigeria (4.34°E, 7.33°N).
+
+THEORETICAL CONSIDERATIONS AND INPUT PARAMETERS
+The effective transmission loss is defined as the transmission 
+    loss minus the additional attenuation experienced by the desired signal 
+    (Capsoni and D’Amico, 1997). It is typically evaluated based on a joint 
+    and conditioned statistics of the transmission loss and 
+    the extra attenuation. It is expressed as:
+
+Where L is the transmission loss defined as the 
+    ratio of the interfering transmitted power 
+    Pt to the interfering 
+    received power Pr at the 
+    interfered station, evaluated using the Bistatic Radar 
+    Equation (BRE). Aw represents the extra attenuation 
+    on the desired signal. Utilizing the simplified form of the BRE (Capsoni 
+    et al., 1992), the transmission loss is 
+    expressed as:
+
+and the term CV denotes the common volume formed by the 
+    interfering beams, evaluated from the following integral:
+
+In equations (2.3) and (2.4) and Figure 
+    1, At 
+    (R1) and 
+    Ar 
+    (R2) indicate the attenuations 
+    along paths R1 from 
+    the transmitter to the common volume, and 
+    R2 from the common volume 
+    to the satellite receiver. 
+    Ag represents the attenuation due 
+    to gaseous absorption. Gt 
+    and Gr are the 
+    transmitter and receiver antenna gains, and λ is the wavelength of 
+    the radio signal. The quantities 
+    Ft 
+    (ύ1, 
+    Ǿ1) and 
+    Fr 
+    (ύ2, 
+    Ǿ2) represent the 
+    directivity function of the transmitting and receiving antenna 
+    systems, calculated in terms of their effective area. 
+    σbi is the bistatic 
+    scattering cross section defined as the scattering cross 
+    section per unit volume of precipitation. It is related to the 
+    radar reflectivity factor Z and the point rain 
+    rate R as Z = 10log 
+    z , where z = 
+    aRb . In this study, 
+    the tropical lognormal raindrop size distribution proposed by Ajayi and Olsen (1985) was assumed, and as the distribution corresponds well to 
+    convective thunderstorm rain types, the Z-R relationship suggested by Ajayi and Owolabi (1987) for tropical thunderstorm rain in the study was 
+    used with a = 461 and b = 1.31 
+    respectively.
+
+This study encompasses the frequency range of 4–35 GHz currently utilized by 
+    most service providers for terrestrial and Earth-space 
+    communications. The mean annual cumulative distribution of point 
+    rain rate P(R) recorded at the three locations 
+    is employed to predict interference levels, with probabilities of 
+    occurrence ranging from 1-10-3%.
+
+Signal attenuation due to rain was assessed using 
+    the Power law relationship between attenuation and rain rate, while 
+    attenuation due to atmospheric gases was computed following the ITU-R 
+    Rec. 676-3 (1997). The parameters of the power law 
+    relationship for attenuation by thunderstorm rain, applicable to 
+    tropical locations and utilized in the study, are detailed in Table 1 
+    for vertically polarized signals exclusively.

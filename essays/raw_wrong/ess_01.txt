@@ -1,0 +1,210 @@
+Meaning in Natural Language
+This general view of the status of language has enjoyed a 
+    lengthy ascendancy. Critics, such as Wittgenstein, have not 
+    prevailed. The recent focus by Dretske, Fodor, Pinker, and others, 
+    on a semantics for mentalese exists 
+    along side followers of Grice, who focus on the role 
+    speaker intent plays in determining the meaning in natural 
+    language. All hold that the principal bearers and determinants of 
+    semantic properties are something other than natural language.
+There is an alternative to the view that natural language has 
+    meaning only that is derivative, as an encoding of thought and the 
+    primary bearer of meaning. Since the cardinal aim of language is to 
+    convey information about how things are viewed in the world, in 
+    consonance with Locke's dire warning that taking words as 
+    standing "for the reality of things" is 
+    a perverting the use of words, and brings 
+    unavoidable obscurity and confusion into their 
+    signification, whenever we make them stand for 
+    anything but those ideas we have in our own 
+    minds.
+In the analysis of how the meaning of natural language can be 
+    understood as a special case of natural meaning. Language, of 
+    course, is at least complicated by the presence of intelligent 
+    language users. It is arguable that linguistic meaning is as much 
+    like natural meaning as it could be, given the presence of an 
+    intelligent agent in the causal web linking world and linguistic 
+    representation.
+The physical systems designed to convey information, 
+    non-intelligent instruments that are such that their display states 
+    mean one thing or another. Having developed a case for a meaning 
+    for linguistic displays that is related to natural meaning, three 
+    ways are set out in which meaning for natural language might be 
+    understood as derivative of natural meaning. Then, let us 
+    reconsider the arguments at the beginning of Paul Grice's 
+    classic paper, 
+    Meaning, to see if there is as great a difference between 
+    natural meaning and linguistic meaning as Grice makes out.
+Over the years since Grice' s "Meaning" appeared, 
+    attention to his work has largely focused on his theory of 
+    non-natural meaning. Independently, others have been developing 
+    accounts of various types of natural meaning. Much of this work has 
+    been done by Fred Dretske and Jerry Fodor, who have been interested 
+    in understanding the meaning of mental representations in terms of 
+    information they carry. While many have rejected Grice's 
+    highly intellectualized theory of meaning, as far as I know they 
+    have not discussed Grice's original distinction of the two 
+    types of meaning. That distinction remains very interesting, and it 
+    is useful, in light of subsequent 
+    developments, to revisit his 
+    paper.
+Grice begins by making a distinction between two types of 
+    meaning, then in the rest of the paper he attempts almost exclusively to the second of these, which 
+    he calls "non-natural meaning". At the 
+    very beginning of the paper, Grice invites readers to consider 
+    three sentences having to do with meaning:
+"Those spots mean measles."
+"Those spots did not mean anything to me, but to the 
+    doctor they meant measles."
+"The recent budget means that we shall have a hard 
+    year."
+These are all cases of natural meaning, or, following Grice, 
+    meaning(n). Note that not all bearers of natural meaning are 
+    natural events or facts - the last example is a budget. Generally, 
+    natural meaning concerns symptoms or signs or some state of 
+    affairs. Other examples might be "smoke means fire", 
+    "that drop in barometric pressure means rain", and 
+    "the fact that the car is exhausting blue smoke means that it 
+    is burning oil.".
+In the cases of natural meaning, the connection between the 
+    bearer of natural meaning and the state that it indicates does not 
+    owe to agency. But even in cases like these one could suppose that 
+    although no agent is a component of the causal connection, 
+    nevertheless the existence of the causal connection itself is the 
+    result of an intelligent agent. For example, one could suppose that 
+    God has established the connection between measles and its 
+    characteristic red spots, or between fire and smoke, perhaps just 
+    so that we might know when someone has measles or that there is a 
+    fire. If God were to act in these ways, he would be what Dretske 
+    has called a "structuring cause" - He 
+    would cause it to be the case that measles cause red spots, or that 
+    fire causes smoke. The meaning of smoke and spots would still be 
+    natural meaning, for God would not on each occasion of the 
+    appearance of spots or smoke cause them to appear. Rather He would 
+    have arranged things so that in the ordinary course of things, 
+    measles cause red spots and fire causes smoke, so that from red 
+    spots one may infer measles, and from smoke one may infer fire.
+Cases where natural meaning is at work as the result of 
+    structuring agents are particularly interesting for exploring the 
+    connection between semantics and pragmatics, and the relation of 
+    natural and non-natural meaning. Accordingly, considering the 
+    special case of instruments, devices, which are designed to convey 
+    information about some condition. These have, as it were, 
+    artificial natural meaning.
+The lights and gauges on the instrument panel of a car indicate 
+    various facts about the condition of the vehicle. That the leftmost 
+    light is on may indicate that the oil pressure is low. Or, as we 
+    might also put it, that the light is on means that the oil pressure 
+    is low. Although the light is an artifact, it functions as an 
+    indicator or symptom of states of affairs. Statements about what 
+    the display states of an instrument mean have the same logic as the 
+    natural meaning of red spots on the skin and clouds in the sky. 
+    Namely, they support inference to certain states of affairs, and it 
+    they do not support inference to anyone meaning anything by turning 
+    on the light. It is less clear (to use another one of Grice's 
+    tests for non-natural meaning) whether they support inference to 
+    something of the form:
+The fact that the leftmost light is on mean "the oil 
+    pressure is low".
+In part this uncertainty, at least on my part, is because I am 
+    not sure that this claim, that a fact means a sentence, is 
+    coherent. But perhaps we could say :
+The fact that the leftmost light is on means the same as would a 
+    talking car that said, "the oil pressure is low".
+This would relate the meaning of one state of affairs, the fact 
+    that the light is on, to the meaning of another state of affairs, 
+    one that involves producing an instance of a sentence. This at 
+    least seems coherent, unlike Grice's own example involving a 
+    quoted sentence. In any case, it seems reasonable to suspect that 
+    Grice' s example has paraphrases that are coherent in 
+    idiolects other than his own.
+The oil pressure light can malfunction. Then its being on might 
+    not mean that the oil pressure is low. Of course, it is supposed to 
+    mean that the oil pressure is low. And it usually means that. But, 
+    if it is malfunctioning, that is not what its being on now means. 
+    This may appear to be a difference with some forms of natural 
+    meaning, where there is an invariable connection between the thing 
+    or state said to have the meaning and the meaning. But it is not 
+    unusual even with paradigms of natural meaning for the connection 
+    not to be invariable. Clouds that usually mean storms sometimes 
+    appear without the storms, (and the storms may arrive unheralded by 
+    any clouds). Most disease symptoms can appear in a variety of 
+    conditions. S o there can be lack of 
+    an invariable connection between bearer of natural meaning and its 
+    meaning. We might then say "x usually means p". Common 
+    simple single-purpose dashboard indicators are always each directly 
+    connected with the sensors for the conditions they indicate. Such 
+    single purpose indicators 
+    may be supplanted by more sophisticated indicator systems. And in 
+    order to understand meaning, it may be useful to consider what 
+    would happen to meaning in more sophisticated indicator systems.
+Now let us turn to reconsider the rest of Grice's 
+    distinction between natural and non-natural meaning. Grice gives 
+    two examples of what he subsequently calls non-natural meaning, and 
+    then he draws five conclusions about the difference between natural 
+    and non-natural meaning. His examples:
+"Those three rings on the bell (of the bus) mean 
+    that the bus is full."
+"That remark, 'Smith couldn't get on 
+    without bis trouble and strife,' meant that Smith found his 
+    wife indispensable. "
+With regards to these, Grice says that it is characteristic of 
+    such cases of non-natural meaning that one can say "x means 
+    that p, but in fact not p". Thus his first conclusion is:
+1. Using the first of these, I can as well say, "But 
+    it isn't in fact full - the conductor has made a 
+    mistake"; and I can use the second and go on, "But in 
+    fact Smith deserted her seven years ago."
+However it seems to me that this may not be true of the bell 
+    ringing example! If the bus is not full, then those three rings on 
+    the bell did not mean that the bus is full. Perhaps they are 
+    supposed to mean that the bus is full, and perhaps they usually 
+    mean that the bus is full, and perhaps they were intended to mean 
+    that the bus is full, but they did not in fact mean the bus is 
+    full. Similar considerations apply to the second example. The 
+    remark - Smith' s remarking - did not mean that Smith finds 
+    his wife indispensable, although it is plausible to suppose that it 
+    was intended to be taken by Smith's auditors to mean that.
+Also, as mentioned above, there appear to be cases of natural 
+    meaning where there is not an invariable connection between a type 
+    of sign and a type of indicated state of affairs. Thus, I can say 
+    "spots like those usually mean measles, but not in this 
+    case." And one could say much the same of the three rings of 
+    the bell on a bus not yet full.
+Grice's second point about natural and non-natural 
+    meaning:
+I can argue from the first to some statement about 
+    "what is (was) meant" by the rings on the bell and from 
+    the second to some statement about "what is (was) meant" 
+    by the quoted remark.
+This point seems correct. However, these sentences seem 
+    elliptical for an explicit attribution of agency to the bell ringer 
+    and the remarker. It is not that something is meant by the quoted 
+    sentence, rather it is meant by the speaker in using the quoted 
+    sentence. Compare a statement about what was accomplished by blows 
+    to the midriff - this presumably is a covert attribution of agency, 
+    elliptical for what x accomplished by x's blows to the 
+    midriff. Similarly, in speaking about what was meant by 
+    rin gs on a bell, I am speaking 
+    about what x meant by x' s rings on a bell, or perhaps in the 
+    case of meaning, what x intended to mean by x's rings on a 
+    bell. The construction attributing meaning of this sort to bell 
+    rings and remarks instead of an agent may be a natural 
+    accommodation in cases where we don't know who the agent 
+    is.
+Taking into account from the first sentence to the conclusion 
+    that somebody (viz., the conductor) meant, or at any rate 
+    should have meant, by the rings that the bus is full, and I can 
+    argue analogously for the second sentence.
+Here Grice appears to be aware for the first time that we might 
+    say something about what the conductor should have meant, by the 
+    rings on the bell. But he does not seem aware that doing this 
+    creates difficulties for his theory. For he later goes on to hold 
+    that "A meant(nn)something by x" is 
+    (roughly) equivalent to
+But the last clause doesn't make sense - the conductor 
+    presumably did intend the rings of the bell to produce an effect in 
+    an audience, so what is the point of saying that he should have 
+    done this? After all, if he should have intended, but did not 
+    intend, to produce an effect in the audience, then presumably his 
+    rings on the bell don't mean(NN) anything at all.

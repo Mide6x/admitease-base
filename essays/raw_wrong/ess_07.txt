@@ -1,0 +1,221 @@
+GENERAL INTRODUCTION
+1.1 INTRODUCTION
+Iko [Ìkò] is one of the languages under the Lower Cross (LC) 
+    language group. It is a minimally described language spoken by the 
+    Iko people of Eastern Obolo Local Government Area (L.G.A.), who live along the Atlantic Coast in present day Akwa 
+    Ibom State of Nigeria.
+The continued existence of this language is severely threatened 
+    by the combined dominance of English, Ibibio and Obolo languages on 
+    the one hand, and the adverse sociological effects of the 
+    prevailing poor economic situation of the area on the other hand 
+    (Urua 2003).
+Kuju (1999) opines that a language should be considered 
+    endangered when it is no longer spoken by its youth. Also, Fakuade 
+    (1999) citing Hale (1992:.23) defines endangerment as “ 
+    the incidence of domination by a more powerful 
+    language”. Brenzinger, Heine and Sommer (1991:.25) is 
+    cited by Ugwoke (1999) to have defined an endangered language as 
+    one which has less than 5,000 speakers. And according to Bamgbose 
+    (1993), an endangered language is a language that is not used in 
+    formal education and whose communicative role is limited to 
+    in-group communication. In general, such a language is used mainly 
+    for traditional purposes such as rituals, festivals, village 
+    meetings, etc. We consider Iko to be an endangered language because 
+    it meets these criteria.
+The 1996 Universal Declaration of Linguistic Rights recognizes 
+    the existence of Endangered Languages (ELs) and the need to 
+    preserve them as the ‘inalienable’ and 
+    nonnegotiable possessions and rights of those who own them as God’s 
+    gifts. Unfortunately, Iko does not enjoy this linguistic right. The 
+    question is “How can Iko language be preserved, or following the 
+    Nigerian National Policy on Education, used in early formal child 
+    instruction when there has been no detailed description of the 
+    structure of the language?
+It is against this backdrop that this research aims to provide a 
+    systematic linguistic description of aspects of Iko phonology with 
+    a view to reversing the steady march of the language toward 
+    extinction.
+1.2 BACKGROUND INFORMATION ON IKO
+1.2.1 THE PEOPLE
+The Iko people inhabit the southern tip of Akwa Ibom State of 
+    Nigeria, the exact location being N40 
+    31.51 and E70 
+    46.61. This piece of information was obtained from a 
+    palmpilot, which is a Global Positioning System 
+    (GPS) device that can indicate one’s exact position at the push of 
+    a few buttons. 1 I owe this 
+    piece of information to Professor Dr Dafydd Gibbon of Universität 
+    Bielefeld, Germany.
+Not much is known about the migration history of Iko people.
+This is shrouded in mystery and secrecy, and Iko elders were 
+    reluctant to divulge it to us. The people claim that they have 
+    lived in their present location for as long as they could remember 
+    and that their ancestors, being fishermen, were searching for 
+    rivers and streams for profitable fishing when they found land in 
+    Iko.
+They initially settled on the Atlantic Coastline and the island 
+    of Iko Nta, but some of the people later moved inland to their 
+    present location. As at today, there are 
+    eight2 As at the time of the 
+    1991 census only four Iko villages viz: Iko Town, Iko Nta, Iko 
+    Ikpilaha and Atabrikang were officially recognized. The additional 
+    four villages were given official recognition later. Iko 
+    speaking communities namely, Okoro Eto, Ubum Irung, Akprikpe, 
+    Ekpitim, Edonwi (these constitute Iko Town), Iko Nta, Iko Ikpilaha, 
+    and Atabrikang. These eight communities, along with Kampa community 
+    constitute Iko Clan.
+However, the people of Kampa do not speak Iko. Actually, Kampa 
+    is culturally not part of Iko. Its inclusion in Iko Clan is purely 
+    for political and administrative convenience (Muffat Ijokhomans; 
+    Amos Ukafia p.c.., March 2003). 
+    We found out that the Kampa people speak Ubani, 
+    a different language altogether.
+The harmful effects of oil exploration and exploitation by oil 
+    prospecting companies, notable among which are EXXONMOBIL, 
+    TOTAL-FINA-ELF and SHELL PETROLEUM DEVELOPMENT COMPANY, ravage the 
+    natural environment of Iko communities.
+This, however, is not our focus in this research.
+The predominant occupations of Iko males are high-sea 
+    (commercial) fishing and boat building, while their women engage in 
+    subsistence fishing, farming and fish selling.
+There is some controversy with regards to the actual population 
+    of Iko people. Connell (1991) and Grimes (2000) put Iko population 
+    figure at about 5000. Urua (2003) on her part puts Iko population 
+    at 9554. Yet the people themselves claim multiples of these 
+    figures. According to Chief Anthony Jerry Anantia, the Village Head 
+    of Iko Town, and Clan Head of Iko Clan, the population of Iko is 
+    between 25,000 and 30,000 (p.c., 
+    March 2003). Unfortunately, the 1991 Nigerian National Population 
+    Census figure for Iko is unreliable because as at then Eastern 
+    Obolo, the L.G.A. from which Iko is now 
+    administered was under Ikot Abasi L.G.A. and 
+    figures of some non-Iko communities were in error computed for Iko 
+    since these communities were and still are administered from Iko 
+    for administrative convenience. On our part, we put Iko population 
+    at 3870. This number is arrived at by our computation of the 1991 
+    census figures for actual Iko villages as follows: Iko Town – 2309; 
+    Iko Nta – 623; Iko Ikpilaha – 552; Atabrikang – 386 (National 
+    Population Commission, 1991).
+The figure we have given above is different from that given in 
+    Urua (2003). This disparity is because in the latter the figure for 
+    Ikpetim clan in Ikot Abasi L.G.A. [5684] was in error computed for Iko because of the 
+    similarity of the name with that of an Iko village - 
+    Ekpitim. As at 1991, Ekpitim was not an 
+    autonomous village but was under the village administration of Iko 
+    Town.
+However, we would like to point out that over the years, and 
+    given the 1996 population projection figures of the 1991 census, it 
+    is most likely that Iko population has increased, though a greater 
+    percentage of these speakers, especially the youth, reside outside 
+    Iko community.
+1.2.2 THE LANGUAGE
+Iko belongs to what Essien (1991) and Urua (2000) call the 
+    Ibibiod group, and what Udoh (1998) calls 
+    Ibom languages. This is a cluster of 
+    genetically related languages within the Lower-Cross subfamily. 
+    Urua (2000:.3) following Connell (1991) provides a 
+    diagrammatic classification of Lower-Cross Languages as shown 
+    below.
+Ibibiod languages collectively have about three million speakers 
+    (Grimes 2000, cited in Urua 2003). Yet, individually, they are 
+    stigmatized as minority languages in Nigeria and 
+    treated as such by reason of the number of speakers of the 
+    individual languages, obviously in unfair comparison with the 
+    so-called major Nigerian languages namely, 
+    Hausa, Yoruba and Igbo. To be expected, Iko also bears this stigma 
+    of minority language, with its attendant consequences.
+Due to its geographical proximity with Obolo, Iko is often 
+    assumed to be a dialect of the latter. But as Connell (1991) points 
+    out, there appear to be no linguistic characteristics common to the 
+    two languages that cannot be attributed either to their common 
+    heritage or borrowing; certainly there is no question of mutual 
+    intelligibility between Obolo and Iko. However, there appears to be 
+    some level of mutual intelligibility between Iko and Ibeno its 
+    eastern neighbour, as testified by the Clan Head of Iko, Chief 
+    Anthony Jerry Anantia (p.c., 
+    March 2003).
+1.2.3 THE LINGUISTIC SITUATION IN IKO
+Iko has no orthography yet. The language has no detailed 
+    description of its phonological structure, upon which an 
+    orthography could be based. Therefore, there are no reading/ 
+    teaching materials in it. It is used in formal education only in 
+    the first three years of primary school, but it is not taught as a 
+    school subject. In the religious domain, the language is used in 
+    delivering church sermons and announcements, along with the Efik 
+    language Bible and Hymnbook. Iko is not used in the mass media at 
+    all. In fact, its current sphere of use is only in spoken or oral 
+    communication and this only within the community.
+Iko language is threatened by other languages which are in 
+    contact with it and which compete with it for dominance in the 
+    area. The three languages that pose the most serious threats to Iko 
+    are English, Ibibio and Obolo (Urua, 2003). The nature and manner 
+    of these threats are discussed below.
+English is the official language of Nigeria and by extension the 
+    language of upward social mobility.
+Consequently, Iko pupils and students are encouraged to acquire 
+    and master English language early. Secondary school students are 
+    not only taught in English, but are also compelled to use English 
+    in everyday conversation within the school premises, while the use 
+    of Iko language is effectively discouraged by the heavy penalties 
+    meted out to defaulters.
+This unfortunate situation which is rampant in the southsouthern 
+    and south-eastern parts of Nigeria, is informed by the erroneous 
+    belief that the use of the local language(s) will interfere with or 
+    even prevent a good mastery of English.
+The fallout of this situation is that students grow up with a 
+    distorted perception of their language as being inferior, primitive 
+    and undesirable, and its use outside the home unprofitable.
+Ibibio on its part is the unofficial lingua 
+    franca of Akwa Ibom State. It is a standardized language, 
+    has a larger population of speakers – Ibibio is spoken in fourteen 
+    out of the thirty-one L.G.As of Akwa Ibom State and 
+    is understood by most other language groups in the state. The use 
+    of Ibibio by secondary school students within Iko is equally 
+    discouraged in favour of English. Yet, Ibibio enjoys a prestigious 
+    status as the state’s unofficial lingua franca. 
+    Given the dearth of lucrative jobs within Iko community, Iko 
+    indigenes usually move to Ibibio speaking parts of the state in 
+    search of greener pasture, and invariably learn to communicate in 
+    Ibibio. Consequently, most Iko speakers also speak or at least 
+    understand Ibibio.
+Because of the seemingly prestigious status of Ibibio in the 
+    state, it is not uncommon to find Iko indigenes, especially the 
+    youth, conversing in Ibibio, even within their homeland.
+Obolo on the other hand is the dominant, standardized and 
+    prestigious (?) language spoken in Eastern Obolo L.G.A., and the unofficial lingua franca of 
+    the locality. This is hardly surprising considering that this 
+    language has an orthography on which were based such publications 
+    as Ikpa Uriak Melek Okwa 
+    Mbuban (1969), Ikpa 
+    Mbuban-Agañ Ayaya Inyaña-Ibot (1991), and 
+    Okwa Itoñ (2003) among 
+    others. These are respectively the Obolo language Hymnbook, New 
+    Testament Bible and the Book of Psalms. Interestingly, Ibibio, the 
+    so-called Standard language in the state has neither a translation 
+    of the Bible nor a Hymnbook.
+Obolo is taught as a school subject in all Obolo speaking 
+    communities of the L.G.A. It is also worth mentioning 
+    that Okoroette, the Local Government 
+    Headquarters/Secretariat is an Obolo speaking community. Non-Obolo 
+    indigenes working in the secretariat (including Iko native 
+    speakers) must of necessity learn to communicate in Obolo. The 
+    underside of this state of affairs is that every Iko speaker also 
+    speaks or at least understands Obolo. During our fieldtrips, we 
+    noticed that it is taken for granted that every person from Eastern 
+    Obolo L.G.A. (including non-Obolo indigenes) 
+    should understand Obolo language. For instance, we noticed a 
+    tendency by Obolo indigenes to address Iko speakers in Obolo 
+    language, even when they knew that their addressees were native Iko 
+    speakers.  
+The overall effect of this scenario is that over the years, as 
+    the relevance load of Iko language continues to drop, the language 
+    has been steadily marching toward extinction because the youth who 
+    should pass the language to the next generation are not doing so, 
+    due to the fact that they no longer speak Iko as a language of 
+    first choice. In fact, there is much pressure on native Iko 
+    speakers to make use of other languages if they want to be upwardly 
+    mobile economically. Indeed, whichever way one looks at it, Iko is 
+    a seriously endangered language and as Ladefoged (2000) predicts of 
+    endangered languages, Iko may perhaps “not be spoken a hundred 
+    years from now”, except serious intervention measures are taken to 
+    save it.

@@ -1,0 +1,35 @@
+of a difference in tone patterning. So whereas we can classify
+nouns according to their tone patterns, verbs cannot be so
+classified. In the citation form, all verbs and all monosyllabic
+subject and object pronouns are realised on the low tone. Although
+a number of tonal alternations are attested in the verb, these are
+usually motivated by the different grammatical configurations in
+which they function. Consequently, all verbs with the same syllable
+structure will behave alike in the same grammatical configuration.
+For example, all monosyllabic verbs will behave alike in terms of
+tone in a past tense construction and all disyllabic verbs will
+also behave alike. For reasons such as these, Urhobo verbs as well
+as monosyllabic subject and subject pronouns are assumed to be
+underlyingly toneless and receive tone depending on the grammatical
+configuration in which they function. As a result, tone bears a
+great syntactic functional load particularly in the verb phrase. In
+order to be able to analyse tonal alternations in the Urhobo verb
+phrase, it is necessary to recognise the existence of tonal
+morphemes (tomorphs) or grammatical tones as an essential part of
+the grammar. These tomorphs may be single tone units or tonal
+melodies, that is, fixed tonal patterns, which are grammatically
+significant and exist independently of segmental strings. They are
+quite distinct from lexical tones. They are obligatorily
+segmentalised in appropriate positions within the grammatical
+configuration and their segmentalisation often causes lexical tones
+to delink or at best form a glide.
+In this section, we shall consider grammatical constructions in
+the three basic tenses, namely, the present, the past and the
+future tenses.
+The present tense
+The present tense construction in Urhobo is used to convey a
+habitual as well as a present or continuous action. The morpheme
+marking the tense is a floating high tone, which occurs at the end
+of the subject noun phrase. In order for this tomorph to be
+realised, the final vowel of the subject noun phrase is lengthened
+slightly to accommodate it. If the subject NP already ends on a

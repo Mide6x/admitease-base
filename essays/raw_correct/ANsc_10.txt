@@ -1,76 +1,35 @@
 The Changing Rainfall Pattern and Its Implications for Flood Frequency in Makurdi, Northern Nigeria
 
-ABSTRACT: The study analyzes recent changes in the characteristics of extreme rainfall and their implications for flood frequency in Makurdi. Data on extreme daily rainfall, evapotranspiration, and flood occurrences were collected for analysis. The annual rainfall was analyzed for trends using the Spearman rank correlation coefficient, while annual rainfall variability was analyzed using the standardized rainfall anomaly index. Recurrence intervals were determined using the Gumbel Extreme probability theory. The results show, among other things, that there has been a significant downward trend in annual rainfall amounts; that the period between 1996 and 2001 witnessed the highest frequencies of extreme rainfall events and floods; that major floods were associated with high recurrence intervals; and that the seasonality of flooding in Makurdi occurs between May and October.
+ABSTRACT: This study analyzes recent changes in the characteristics of extreme rainfall and their implications for flood frequency in Makurdi. Data on extreme daily rainfall, evapotranspiration, and flood occurrences were collected for analysis. The annual rainfall was analyzed for trends using Spearman rank correlation coefficient, with annual rainfall variability analyzed using standardized rainfall anomaly index, and recurrence intervals analyzed using Gumbell Extreme probability theory. The results show a continuous downward trend in annual rainfall amounts, with the highest frequencies of extreme rainfall events and flood frequencies observed between 1996 and 2001. Major floods were associated with high recurrence intervals, and flooding in Makurdi typically occurs between May and October.
 
-Increasing flood risk is now recognized as the most significant sectoral threat from climate change in most parts of the world. This has sparked public debates on the perceived increased frequency of extreme rainfall events, particularly regarding increased rainfall intensities (Dyson, 2000). Several studies have linked extreme rainfall to the major cause of floods worldwide. Such studies include Gobo (1988), McEwen (1989), Oriola (1994), Babatolu (1996), FEPA (1998), Fowler and Kilsby (2003), Odekunle (2001), and Ologunorisa (2001, 2004). Other studies have identified the characteristics of extreme rainfall associated with flood frequency, including duration, intensity, frequency, seasonality, variability, trend, and fluctuation (Olaniran, 1983; Ologunorisa, 2001; Ologunorisa and Diagi, 2005).
+Increasing flood risk is now recognized as a significant threat from climate change worldwide. The study aims to examine recent changes in rainfall patterns and their implications for flood frequency in the seasonally flooded town of Makurdi, northern Nigeria.
 
-In Nigeria, studies on rainfall and their implications for flood frequency have largely been restricted to the southern parts of the country. Little or no attempt has been made in the literature to study the implications of recent changes in rainfall patterns on flood frequency in northern Nigeria, despite the increasing frequency of floods in this region. This is where the current study gains its relevance. The study aims to examine recent changes in rainfall patterns and their implications for flood frequency in the seasonally flooded town of Makurdi, northern Nigeria.
+Study Area: Makurdi:
+Makurdi, the administrative headquarters of Benue state, lies approximately between latitude 7.041° N and longitude 8.054° E. The town is situated along the coast of the River Benue. The climatic conditions in Makurdi are influenced by two air masses: the warm, moist southwesterly air mass bringing rainfall from May to October, and the warm, dry northeasterly air mass causing seasonal drought from November to April. The mean annual rainfall in Makurdi is about 1,290mm, with high temperatures throughout the year, peaking in February and March between 40°C and 22.5°C.
 
-Study Area: Makurdi
-
-Makurdi, the administrative headquarters of Benue State, lies approximately between latitude 7° 04'N and longitude 8° 54'E. The town is located along the banks of the River Benue. The climatic conditions in Makurdi are influenced by two air masses: the warm, moist southwesterly air mass and the warm, dry northeasterly air mass. The southwesterly air mass is a rain-bearing wind that brings rainfall from May to October, while the dry northeasterly air mass blows over the region from November to April, resulting in seasonal drought. The mean annual rainfall in Makurdi is about 1,290 mm (Akintola, 1986). Temperature in Makurdi is generally high throughout the year, with February and March being the hottest months. The daily temperature ranges from 22.5°C to a maximum of 40°C.
-
-Makurdi, like most other cities in the lower Benue Valley, is drained by the Benue River and its tributaries. Other minor rivers that drain Makurdi include Rivers Idye, Genebe, Urudu, Kpege, and Kereke, all of which empty into the River Benue. Due to the general low relief of Makurdi, large portions of the area are waterlogged and flooded during heavy rainstorms (FMWRRD, 1998).
+Makurdi, like other cities in the lower Benue valley, is drained by the Benue River and its tributaries. Due to the low relief, significant portions of the area become waterlogged and flooded during heavy rainstorms.
 
 MATERIALS AND METHODS
 
 Data Collection and Analytical Techniques:
+The data used are from secondary sources, including rainfall, evapotranspiration, and flood occurrence data in Makurdi. Rainfall data cover the periods 1927-2004 for annual rainfall and 1979-2004 for extreme daily rainfall. Flood occurrence information for 1994, 2001, and 2004 was collected from local newspaper reports and the Federal Environmental Protection Agency (FEPA) monographs. Basic statistical techniques and analytical methods such as Spearman rank correlations, Standardized Rainfall Anomaly Index (SAI), and Gumbel extreme value distribution were employed for analysis.
 
-The data used for this work are from secondary sources. These include data on rainfall, evapotranspiration, and flood occurrences in Makurdi. The rainfall data consist of two types: annual rainfall and extreme daily rainfall. The annual rainfall data cover the period from 1927 to 2004, while the extreme daily rainfall data span from 1979 to 2004. The evapotranspiration records are for the period 1979–2004. Information on flood occurrences for the years 1994, 2001, and 2004 was collected from local newspaper reports, and the history of flood occurrences in the study area was sourced from the monographs of the Federal Environmental Protection Agency (FEPA). Records of annual rainfall in Makurdi were collected from the publication of Akintola (1986) and the Nigerian Meteorological Agency, Makurdi branch. The extreme daily rainfall and evapotranspiration data were obtained from the archives of the Nigerian Meteorological Agency, Makurdi.
+RESULTS AND DISCUSSION
 
-Basic statistical techniques, including the computation of totals, means, and standard deviations, were used for the preliminary treatment of the data. The annual rainfall trend was determined using Spearman's rank correlation. To determine the significance of the correlation coefficient, it was tested using the Student's t-test at the 95% confidence level.
+Annual Rainfall Trend in Makurdi:
+Analysis shows a downward trend in annual rainfall over the 77-year period (1927-2004), with a significant negative correlation coefficient of -0.31. Short-term trends within the time series also indicate a decline in rainfall, particularly in the period 1968-1988.
 
-The Standardized Rainfall Anomaly Index (SAI) was used in the analysis of annual rainfall variability. The SAI is given by:
+Annual Rainfall Fluctuation in Makurdi (1927-2004):
+Fluctuations in annual rainfall totals reveal wetter periods from 1927 to 1970 and a continuous 24-year period of below-average rainfall from 1971 to 1995, suggesting a potential drying trend in Makurdi's climate.
 
-SAI
-=
-𝑋
-−
-𝜇
-𝜎
-SAI= 
-σ
-X−μ
-​
- 
+Annual Rainfall Variability in Makurdi:
+The station has experienced wet and dry sequences over the study period, with a shift towards drier conditions in recent years, contradicting earlier predictions.
 
-Where X is the annual rainfall total, 
-𝜇
-μ is the mean of the entire series, and 
-𝜎
-σ is the standard deviation from the mean of the series.
+Magnitude-Frequency of Extreme Daily Rainfall in Makurdi:
+Analysis of extreme daily rainfall events shows varying recurrence intervals for different magnitudes of rainfall, with high-intensity events contributing to flood risks.
 
-The extreme daily rainfall characteristics analyzed in this study include magnitude, frequency, seasonality, and duration. The Gumbel extreme value distribution was used to determine the magnitude and frequency of extreme rainfall and, consequently, the recurrence interval. The method of recurrence interval is typically used to describe the probability of recurrence or incidence of extreme events (Dury, 1964; Lang, 1997; Versace and Ferrari, 1997). It is primarily concerned with prediction, such as estimating the magnitude of daily, monthly, and annual rainfall totals likely to be exceeded on average once during a specific period (e.g., fifty years). Generally, recurrence intervals of rainfall data are carried out using two methods: (a) partial series and (b) annual series analyses. The partial series involves extracting all values above a given magnitude from the record of daily rainfall over the years of study, while the annual series involves selecting the maximum values occurring each year. In this study, the annual series method was used to determine the return periods.
+Seasonality of Extreme Daily Rainfall in Makurdi:
+The month of August recorded the highest frequency of extreme rainfall events, indicating seasonal variations in extreme rainfall occurrences.
 
-The procedures involve arranging the annual series in descending order of magnitude. The recurrence interval (RI) is determined as:
-
-RI
-=
-(
-𝑁
-+
-1
-)
-𝑀
-RI= 
-M
-(N+1)
-​
- 
-
-Where N is the number of events in the series, M is the rank of the individual event, and RI is the return period expressed in years.
-
-The rainfall values were then plotted against their recurrence intervals on Gumbel's probability paper, and a line of "best fit" was drawn on the scatter diagram as described by Dury (1964). The water budget graph was determined by superimposing monthly averages of evapotranspiration on monthly rainfall totals for the period 1979–2004. From this, the duration of flooding in the study area was determined as the period when rainfall exceeds evapotranspiration.
-
-RESULT AND DISCUSSION
-
-Annual Rainfall Trend in Makurdi: A trend analysis of the annual rainfall of Makurdi for the 77-year period (1927–2004) was carried out using Spearman's rank correlation coefficient statistics. The annual rainfall trend over the study period showed a negative correlation coefficient of -0.31. The significance of the trend was tested using the Student's t-test, and it was found to be significant at the 95% confidence level. This indicates that there is a downward trend in annual rainfall in Makurdi, signifying a decline in rainfall.
-
-The rainfall series for the period 1927–2004 was further broken into 20-year intervals (i.e., 1927–1946, 1947–1967, 1968–1988) and for a 16-year period (1989–2004) to depict short-term trends within the time series (see WHO, 1966, and Parthasarathy and Dhar, 1975). The results of the analyses are presented in Table 1.
-
-The results in Table 1 indicate that there is little variation between the short-term annual rainfall trends and that of the entire time series (1927–2004). The period 1968–1988 indicated an appreciable rainfall decline compared to the annual trend coefficient of -0.31. The overall rainfall trend in Makurdi over the study period is shown to be not significant at the 95% confidence level.
-
-Annual Rainfall Fluctuations in Makurdi (1927–2004): An analysis of the annual rainfall fluctuation in Makurdi was carried out using a 5-year running mean (Fig. 1). In terms of actual annual rainfall totals, the wettest years were 1933 (1891.9mm), 1963 (1757.4mm), 1947 (1750.4mm), 1955 (1750.1mm), and 1999 (1617.1mm), while the driest years were 1988 (841.1mm), 1958 (849.3mm), 1936 (851.1mm), 1973 (882.0mm), and 1983 (928.0mm).
-
-Fluctuations in rainfall totals involving increased annual rainfall were most prominent in the periods 1929–1932 (1400.0mm), 1945–1947 (1350.0mm), 1961–1969 (1400.0mm), and 1995–1999 (1350.0mm). Fluctuations in annual rainfall decreased in the periods 1950–1956 (1240.0mm), 1970–1973 (1080.0mm), 1980–1984 (1000.0mm), and 1990–1994 (850.0mm). A notable trend observed is that rainfall decreases in Makurdi began after 1985 and continued through 2004.
-
+Frequency and Duration of Heavy Rainfall in Makurdi:
+The frequency and intensity of heavy rainfall events have been analyzed to understand their impact on flooding in the region.

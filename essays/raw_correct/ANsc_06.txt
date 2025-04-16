@@ -1,215 +1,27 @@
 ABSTRACT
-Concentrations of the trace metals lead, iron, copper and zinc 
-    were estimated in crops harvested in some oil prospecting locations 
-    in Rivers State, Nigeria. The locations were; Agbada-Aluu (AA), 
-    Ebocha (EB), Idu Ekpeye (IE), Obagi (OB) and Trans Amadi Layout 
-    (TA), with the Teaching and Research Farm of Rivers State 
-    University of Science and Technology, Port Harcourt as control. 
-    Crops investigated were cassava (Manihot 
-    esculenta), cocoyam (Colocasia 
-    esculenta), okra (Hibiscus 
-    esculentus), pumpkin leaves (Telfairia 
-    occidentalis) and waterleaf (Talinum 
-    traingulare). Results of the mean lead concentrations 
-    were from 1.1 µg/g in cocoyam to 9.1 µg/g in 
-    okro, showing higher trends in the 
-    industrialized areas. While cocoyam had the lowest lead 
-    concentration, the concentration rest of the crops did not differ 
-    significantly from one another. Crops from locations TA, OB, IE and 
-    EB had significantly higher concentrations of lead, although IE, AA 
-    and TF were not significantly different from one another. Mean 
-    concentrations of iron were between 40 µg/g in cassava from TF, and 
-    651 µg/g in pumpkin leaves from TA - the industrial base of Rivers 
-    State -reflecting a high 
-    level of pollution from the various industries in that location. 
-    Differences in concentration of iron in crops showed pumpkin leaves 
-    to have the highest level of iron, followed by the other green 
-    vegetables - waterleaf and okra 
-    -although no significant differences occurred between okra, 
-    cocoyam and cassava. Copper concentrations were between 4.4 
-    µg/g in cocoyam from locations TF and 23 µg/g in pumpkin leaves 
-    from TA. Pumpkin leaves had the highest concentrations of copper, 
-    followed by okra, then waterleaf, with cocoyam and cassava having 
-    the least significant levels. Zinc concentrations in crops were 
-    between 29 µg/g in cocoyam from TF to 240 µg/g in pumpkin leaves 
-    from EB. Pumpkin leaves and okra contained the highest levels of 
-    the metal, followed by waterleaf, then cassava and finally cocoyam. 
-    In terms of location, TA, OB and EB had the highest concentrations 
-    in crops, the least occurring in TF and AA. These results reflect 
-    higher concentrations of metals in crops from the industrialized 
-    locations, with the green vegetables, particularly pumpkin leaves, 
-    having the highest uptake, while cocoyam invariably had the least. 
-    These findings give cause for concern, particularly as heavy metals 
-    are bio-accumulative in the system and portend a serious health 
-    risk to man and animals.
+
+Concentrations of trace metals such as lead, iron, copper, and zinc were assessed in crops harvested in various oil prospecting locations in Rivers State, Nigeria. The locations studied were Agbada-Aluu (AA), Ebocha (EB), Idu Ekpeye (IE), Obagi (OB), and Trans Amadi Layout (TA), with the Teaching and Research Farm of Rivers State University of Science and Technology, Port Harcourt, serving as the control. The crops examined included cassava (Manihot esculenta), cocoyam (Colocasia esculenta), okra (Hibiscus esculentus), pumpkin leaves (Telfairia occidentalis), and waterleaf (Talinum triangulare). The study revealed varying concentrations of lead across the different crops, with industrialized areas showing higher trends. Iron concentrations ranged from 40 µg/g in cassava to 651 µg/g in pumpkin leaves from TA, indicating significant pollution in industrial zones. Copper concentrations varied from 4.4 µg/g in cocoyam to 23 µg/g in pumpkin leaves, with pumpkin leaves having the highest copper content. Zinc concentrations ranged from 29 µg/g in cocoyam to 240 µg/g in pumpkin leaves, with pumpkin leaves and okra containing the highest levels. The findings suggest elevated metal concentrations in crops from industrialized areas, raising concerns for human and animal health due to potential bioaccumulation of heavy metals.
+
 INTRODUCTION
-Increased human activities such as industrialization, coupled 
-    with over-population and increased ambient temperature amongst 
-    other factors, have become major environmental issues in recent 
-    years. Activities of oil prospecting and other industries result in 
-    pollution through gas flares, constant oil spills, and industrial 
-    effluence which affect both aquatic and terrestrial ecosystems, 
-    with destruction of forest and farmlands [1,2]. Rivers State, which 
-    is located in the Niger Delta region of Nigeria, is endowed with 
-    abundant oil resources, giving rise to increased industrial 
-    activities. Refining and petroleum companies account for about 
-    70-75 percent of industrial activities in the region [3]. Petroleum 
-    refineries produce a wide variety of air and water pollutants and 
-    hazardous solid wastes. The specific mix of pollutants varies with 
-    the activities and processes involved. Frequently emitted 
-    pollutants include all the distillation products of refining. 
-    Because these facilities are usually sited in large industrial 
-    zones, often involving multiple petrochemical facilities, 
-    significant contamination of air, soil and water is usually 
-    associated with their presence. Residents of adjoining communities 
-    are potentially at risk from the inhalation of polluted air and the 
-    ingestion of polluted water. Large volumes of hazardous wastes are 
-    generated and must be appropriately disposed of, or they may 
-    adversely affect health through the contamination of soils and 
-    ground water [4]. Rapid industrialization, intensive agriculture 
-    and other anthropogenic activities have led to land degradation, 
-    environmental pollution and decline in crop productivity and 
-    sustainability. These have been of great concern to human and 
-    animal health.
-One of the prominent sources contributing to increased load of 
-    soil contamination is disposal of municipal and industrial wastes. 
-    These wastes are either dumped on roadsides or used as land fills, 
-    while sewage is used for irrigation. These wastes, although useful 
-    as a source of nutrients, are also sources of carcinogens and toxic 
-    metals. Other industrial activities that take place include those 
-    from steel, glass, and paint manufacturing. Discharges from these 
-    industrial activities pollute the air, water and soil, endangering 
-    the environment as they ultimately find their way into the food 
-    chain, albeit in small doses. These accumulate overtime and across 
-    trophic levels to pose serious health hazards to man [5].
-Exposure to very low levels of elements such as lead, cadmium 
-    and mercury have been shown to have cumulative effects since there 
-    is no homeostatic mechanism which can operate to regulate the 
-    levels of these toxic substances [6,7,8]. The major pollutants from 
-    industrial discharge have been shown to be lead, mercury, nickel, 
-    arsenic, zinc and copper. Lead intoxication has been reported to be 
-    associated with neurological problems, renal tubular dysfunction 
-    and anemia [6,9]. Although zinc and copper are essential trace 
-    elements which may also serve as plant nutrients, they may be used 
-    as components of paint pigments. Consequently, their undue presence 
-    in the environment through industrial discharge can also be 
-    hazardous to man [10,11].
-Heavy metal absorption is governed by soil characteristics such 
-    as pH and organic matter content [12,13]. Thus, high levels of 
-    heavy metals in the soil do not always indicate similar high 
-    concentrations in plants. The extent of accumulation will depend on 
-    the plant and heavy metal species under consideration. In an 
-    investigation of the uptake of Cd, Cu, Ni and Pb from air and soil 
-    by Achillea millefolium (milfoil) and 
-    Hordeum vulgare (barley) in Denmark, it was 
-    concluded that Cu and Pb plant concentrations correlated with 
-    aerial deposition but not with soil concentrations, [14]. In 
-    contrast, Ni and Cd content in the plants correlated with 
-    deposition and soil content.
-In Nigeria, a study of metal concentration near Warri refinery 
-    found three to seven times elevated levels of various heavy metals 
-    in the soil [15]. Although the petroleum industry is by far the 
-    largest industrial sub sector in the Niger Delta, at least six of 
-    the eight most polluting industrial sub sectors in Nigeria (steel 
-    works, metal fabrication, food processing, textiles, refineries and 
-    paint manufacturing) operate in the Niger Delta. The Industrial 
-    Directory for Rivers State lists over 500 companies, but most of 
-    these employ fewer than ten people. Only 112 companies employ more 
-    than 50 workers [16]. The medium and large scale industries are 
-    concentrated on the Trans-Amadi Industrial Layout. The petroleum 
-    industry, including the refinery, generates most of the estimated 
-    5,500 tons of hazardous wastes produced per year in Rivers State 
-    [17].
-The increasing industrialization, particularly due to oil 
-    exploration and exploitation in Rivers State, Nigeria has created 
-    consciousness of the pollution of the environment and possible 
-    dangers emanating from such activities. Whilst literature is 
-    replete with data on heavy metal concentration in water, aquatic 
-    life and the mangrove swamp, few data exist in the Niger Delta 
-    region on heavy metal concentration in food crops. This study was 
-    therefore designed to investigate the concentration of the heavy 
-    metal lead and the essential trace elements iron, copper and zinc 
-    in food crops harvested around some oil prospecting and other 
-    industrial areas of Rivers State in Nigeria.
+
+Recent years have seen a rise in environmental issues due to increased human activities, including industrialization, overpopulation, and rising temperatures. Oil prospecting and other industries contribute to pollution through gas flares, oil spills, and industrial effluents, impacting both aquatic and terrestrial ecosystems. Rivers State, situated in the Niger Delta region of Nigeria, experiences significant industrial activities, particularly in petroleum refining and production, accounting for a substantial portion of industrial operations in the region. Petroleum refineries produce various pollutants that contaminate the air, water, and soil, posing risks to nearby communities. The disposal of hazardous wastes from these industries, coupled with rapid industrialization and intensive agriculture, has led to environmental degradation, pollution, and reduced crop productivity, raising concerns for human and animal health.
+
+Heavy metals such as lead, cadmium, and mercury, commonly found in industrial discharge, pose health risks as they accumulate in organisms over time. Lead intoxication is linked to neurological issues, renal dysfunction, and anemia, highlighting the dangers of heavy metal exposure. Soil characteristics play a role in heavy metal absorption by plants, influencing their accumulation levels. Understanding the distribution of metals in crops from industrial areas is vital for assessing potential health risks associated with heavy metal exposure. This study aims to investigate the concentrations of lead, iron, copper, and zinc in food crops harvested in oil prospecting and industrial zones of Rivers State, Nigeria.
+
 MATERIALS AND METHODS
-Study Location
-The study locations were Agbada (Aluu) (AA), Ebocha (EB), Idu 
-    Ekpeye (IE), Obagi (OB), Trans-Amadi Industrial Layout (TA) and 
-    Rivers State University of Science and Technology Teaching/Research 
-    Farm (TF). The University teaching farm, which is not located in 
-    the vicinity of any industrial or oil-prospecting zone, was chosen 
-    as the control. Ebocha, Idu Ekpeye and Obagi are oil 
-    prospecting/exploration areas. Agbada (Aluu), on the other hand, is 
-    an abandoned gas flaring site with a derelict borrow pit, while 
-    Trans-Amadi is the industrial base in Rivers state, Nigeria.
-Collection of Samples
-Food crops used for the study were commonly consumed staples and 
-    vegetables. These were: Cassava (Manihot 
-    esculenta), a root crop and cocoyam corm 
-    (Colocasia esculenta); the vegetables were: 
-    pumpkin leaves (Telfairia occidentalis), 
-    waterleaf (Talinum trangulare) and okra 
-    (Hibiscus esculentus), a fruit vegetable. The 
-    crops were harvested at the peak of the harvest period between the 
-    months of May and July, from farms sited at oil prospecting or 
-    other industrial areas. The peak of the harvest period was chosen 
-    when farm crops were generally in their bloom, bearing in mind the 
-    fact that metal concentration in plants varies with the age of the 
-    plant as well as the season [2]. By arrangement with the respective 
-    farm owners, the various crops were randomly harvested from two or 
-    three farms within each location. Samples of each crop collected 
-    were wrapped in brown calico and transported to the laboratory for 
-    drying and analysis.
-Preparation of Samples
-Similar crop types collected from the different farms at each 
-    location were pooled. The green vegetables were removed from the 
-    stem before pooling, then washed in de-ionized water, drained in a 
-    colander and shredded prior to drying. The okra was similarly 
-    washed in de-ionized water and diced prior to drying. The root 
-    crops were also washed in water to remove soil and dirt, then 
-    peeled and sliced thinly before drying. All samples were dried in 
-    an air oven at 600C for about 72 hours, 
-    then cooled to ambient temperature, milled by means of a hammer 
-    mill and sieved through a mesh of 1mm diameter. The milled samples 
-    were stored in airtight plastic containers until required for 
-    analysis.
-Determination of metals
-Concentrated HNO3 (3ml) and 0.5ml 
-    H2SO4 were added to a 
-    50ml flask containing 1g ground oven-dried plant sample and 1ml of 
-    60% HCLO4 and 0.5 ml concentrated 
-    H2SO4. The flask was 
-    swirled gently and the contents digested slowly on an 
-    electrothermal heater to 2500C for 15 
-    minutes. The increase in temperature was gradual until it reached 
-    2500. The digest was then cooled and 
-    filtered through 541 Whatman filter paper into a volumetric flask 
-    and diluted to 50 ml with distilled water. The residual acid 
-    concentration of the digested sample was brought to 1% v/v after 
-    digestion. The digested samples were analysed for trace metals, 
-    using the Atomic Absorption Spectrophotometer, Model 451 [18]. The 
-    instrument was calibrated using standard solutions of lead, iron, 
-    copper and zinc. The absorbances obtained were used in calculating 
-    the concentrations of the metals in the different samples.
+
+Study Location: The research was conducted in various locations, including oil prospecting areas such as Agbada (Aluu), Ebocha, Idu Ekpeye, Obagi, Trans-Amadi Industrial Layout, and Rivers State University Teaching/Research Farm. Different crops were harvested from these locations for metal analysis.
+
+Collection of Samples: Commonly consumed staples and vegetables including cassava, cocoyam, pumpkin leaves, waterleaf, and okra were harvested at peak season for metal analysis. Samples were collected from multiple farms within each location and transported to the laboratory for processing.
+
+Preparation of Samples: The harvested crops were cleaned, dried, milled, and sieved before analysis to ensure accurate metal concentration measurements.
+
+Determination of Metals: Metals were analyzed using Atomic Absorption Spectrophotometry after digestion of the plant samples. Standard solutions of lead, iron, copper, and zinc were used for calibration, and metal concentrations in the samples were calculated based on absorbance readings.
+
 STATISTICAL ANALYSIS
-Statistical analysis of the data obtained was done using 
-    analysis of variance (ANOVA) according to the method of Wahua [19]. 
-    The least significant difference (LSD) was applied to show the 
-    means differences at 5% level of significance.
+
+Statistical analysis was performed using analysis of variance (ANOVA) to assess the differences in metal concentrations among the samples. The least significant difference (LSD) method was used to determine significant variations at a 5% level of significance.
+
 RESULTS
-Lead
-The results in Figures 1a, b and c show the mean concentrations 
-    of lead in various crops viz: cassava, cocoyam, okra, pumpkin 
-    leaves and waterleaf at various locations, namely: Agbada-Aluu 
-    (AA), Ebocha (EB), Idu Ekpeye (IE), Obrikom (OB), Trans-Amadi (TA) 
-    and the University Teaching and Research Farm (TF). In Figure 1a 
-    mean concentrations of lead in the various crops ranged from 1.1 µg/g in cocoyam from location TF to 9.1 µg/g in okra in 
-    location TA. Details of the lead concentration are as follows: 
-    Cassava (root): from 1.2 µg/g in TF to 7.4 µg/g in 
-    OB; Cocoyam (corm): between 1.1 µg/g in TF and 2.6 
-    µg/g in EB, Okra between 2.9 µg/g in EB and 9.1 µg/g 
-    in TA; for pumpkin leaves (Telfairia 
-    occidentalis), lead concentrations ranged from 2.4 
-    µg/g and 2.6 µg/g in locations AA and TF respectively, to 
-    8.6 µg/g in location TA. Waterleaf had lead concentrations 
-    between 2.0 µg/g in TF and 7.6 µg/g in EB.
+
+Lead concentrations varied across the crops and locations, with industrial areas showing higher levels. Cassava, cocoyam, okra, pumpkin leaves, and waterleaf exhibited different lead concentrations, with pumpkin leaves from TA having the highest lead content. The findings provide insights into the distribution of heavy metals in food crops from industrialized regions, emphasizing the potential health risks associated with heavy metal exposure.

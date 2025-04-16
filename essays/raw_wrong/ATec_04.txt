@@ -1,0 +1,214 @@
+URBAN AND RURAL ELECTRIFICATION: ENHANCING THE ENERGY 
+    SECTOR IN NIGERIA USING PHOTOVOLTAIC TECHNOLOGY
+INTRODUCTION
+Electric power is the most widely used form of power, for 
+    virtually all modern technologies, which is enjoyed by the majority 
+    of people living in the industrialized countries.
+The situation is quite different in the developing countries 
+    where the cost of establishment of centralized power generating and 
+    distribution facilities is too high. Incessant power outage, 
+    constant power shading due to excess loads on the national grid 
+    lines are the order of the day and the result is that most people 
+    have not been supplied with electricity.
+Nigeria is endowed with an annual average daily sunshine 
+    (measured with Campbell Stokes recorder) of 6.25 hours, 
+    ranging between about 3.5 hours at the coastal areas and 
+    9.0 hours at the far northern boundary. Similarly, it has an 
+    annual average daily solar radiation of about 5.25 
+    kWh/m2/ day, varying from 3.5 
+    kWh/m2/day at the coastal areas and 
+    7.0 kWh/m2/day at the northern 
+    boundary. Nigeria receives about 4.851x1012kWh of energy per 
+    day from the sun (Ojosu, 1990, Chineke, 2002a). This is equivalent 
+    to about 1.082 million 
+    tones of oil equivalent (mtoe) per day. In an analysis by 
+    Akinbanmi (1997), the following estimate was arrived at
+    ; that by year 1989, Nigeria’s oil 
+    reserve is expected to have reached 20 billion barrels and 
+    production should have also increased from 1.89 million 
+    barrels per day (mbpd) to 2.5 mbpd. This implies that the 
+    reserve/production ratio or the depletion time of Nigeria’s crude 
+    oil, if there is no further efforts to increase the reserve and if 
+    the production still remains at the expected 1989 level, may be 
+    within the next 25-30 years. Presently, the natural gas reserve 
+    stands at 106 trillion cubic feet (tcf) (about 178 billion barrels 
+    of oil equivalent) the depletion time of Nigeria’s natural gas may 
+    be in the next 180 years. Coal is abundant in Nigeria and estimate 
+    of reserves in over 2.75 billion tones of which the 
+    depletion time is to be 1,278 years from now (Chineke, 2002a).
+Solar electric power provides energy independence, economic 
+    value and environmental security. Solar electric (photovoltaic PV) 
+    modules have the potential to supply a significant portion of the 
+    industrialized and developing 
+    countries electric energy requirements. PV is however, 
+    already accepted in many applications, and is being applied in 
+    electrification projects. PV is still a relatively “young” 
+    industry. Total world wide manufacturing capacity is less than that 
+    of a medium capacity turbo generator. The technology is at an 
+    advanced stage and requires higher penetration rates to increase 
+    manufacturing volumes and decrease costs. Applications of PV 
+    technology range from small stand-alone systems to mega Watt scale 
+    fully integrated utility interconnected systems. PV and other 
+    renewable distributed resources are considered as some of the best 
+    technology for electrification in developing countries, especially 
+    where the costs of electrification (distribution and control 
+    systems) exceed the benefits to sparsely populated areas with small 
+    users, and do not provide a return on investment to utilities. The 
+    most promising renewable energy technology is photovoltaic, which 
+    provides electricity on site, directly from the sun without concern 
+    for energy supply or environmental harm. These solid-state devices 
+    simply make electricity out of sunlight silently with no 
+    maintenance, no pollution, and no depletion of materials. It is 
+    hoped that within the next few years, solar PV power will be 
+    competitive and probably the most preferred energy source 
+    http:// www.homepower.com/ . These advances 
+    in photovoltaic technology including the development of thin film 
+    devices hold the key to new power supply systems, which could speed 
+    up rural electrification in developing countries.
+The study was undertaken to present ways of helping out in the 
+    Urban and rural electrification programme in Nigeria, one way of 
+    which is by using photovoltaic technology. Presently, the electric 
+    power supply from our local power generating stations, which are 
+    oversubscribed is epileptic which flags the country’s development 
+    and that of West Africa.
+THE ENERGY SCENARIO IN NIGERIA
+Nigeria has solely depended on non-renewable sources for power 
+    generation for the electricity used in the country (Ajayi, 1998). 
+    It is quite clear that there is need to enhance the energy sector 
+    with a reliable renewable source like the photovoltaic cell, which 
+    generates its electricity from the sun. To alleviate the growing 
+    need for power in rural households not connected to grid 
+    electricity in Nigeria, Adeoti et al (2001) assessed the domestic 
+    load demand of rural areas which will serve as input data in the 
+    design of photovoltaic-based rural home electrification systems, 
+    and also assist governments in their rural electrification planning 
+    framework. Their work showed that rural households in Nigeria will 
+    require 2324.5 Wh/day or 850.8 kWh/yr in order to 
+    meet their basic power requirements for such loads as lighting and 
+    electronic appliances radios and televisions. Nigeria’s electricity 
+    sub-sector is being operated solely by the Power Holding Company of 
+    Nigeria (PHCN), which was formed in 1973 on a grid system. The 
+    Company, recognized by law, distributes power to rural, urban and 
+    semi-urban dwellers in Nigeria.
+As of 1999, the national grid has eight generating stations 
+    (Kasali, 1999), 28 major power transmitting stations and 45 
+    distributing districts with a total installed generating capacity 
+    of 5888 MW and an effective installed capacity of 5412 MW which is 
+    made up of plants which are over 30 years old (Okoro, 1999). The 
+    average MW capability is about 3355.40 MW, while the average 
+    MW availability is 2515.18 MW representing 0.4272 
+    capacity availability factor (Kasali, 1999; Okoro, 1999). The 
+    highest peak demand so far experienced, according to a 1999 report 
+    in the country, was given as 2470 MW, but the consumer still 
+    experiences load shedding because of out of the average MW 
+    availability, and there are substations, transmission and other 
+    losses to account for, including the suppressed load of about 600 
+    MW. Currently, available electric energy has been as low as 1800 
+    MW, giving way for increased power rationing and brown-outs. With 
+    this scenario, rural and urban development is being hampered 
+    leading to increasing poverty in the society, rural-to-urban 
+    migration, youth restiveness and other associated ills. Boosting 
+    the energy sector will help to improve the living standard of the 
+    people and kick-start the country’s development. Definitely, solar 
+    photovoltaic technology is a sure and viable option.
+GOVERNMENT INITIATED SOLAR SYSTEM PROJECTS IN JIGAWA STATE 
+    OF NIGERIA
+In 2001 several bodies and organization like solar Electric 
+    Light Fund (SELF), an NGO based in USA, and Jigawa state Government 
+    initiated a proposal to bring solar generated electricity (PV) to 
+    power essential services in 3 villages of Jigawa state. The project 
+    information are as presented below.
+1. Community water Pumping. The powerful solarpowered pumps 
+    supplied with this project are designed to run maintenance free for 
+    eight to ten years. It is currently supplying the village with 
+    clean, fresh water.
+2. Village Health Clinics: Solar lights enable health workers to 
+    see patients at night for the first time; vaccine refrigerators 
+    allow more effective vaccination programs and fans increase patient 
+    comfort.
+3. Village Schools Illuminated classrooms are allowing adult 
+    education classrooms for the first time and a place for children to 
+    work on their lessons. The head master has received computers and 
+    computer training.
+4. Streetlights: In a hot climate where people enjoy the cool of 
+    the evening, lights provide safe gathering places for socializing 
+    and commerce. Ten to twelve lights were installed in each 
+    village.
+5. Mosque Lighting, Lighting makes 
+    nighttime activities possible and a public address system 
+    facilitates the call to prayer.
+6. Micro-enterprise centers: the centers have been constructed 
+    to provide electricity to 6 very small businesses in each village. 
+    The shared PV systems, much less expensive than individual systems 
+    for each shop increase productivity and income for tailors, 
+    barbers, electronic repairmen and other businesses.
+7. Home Lighting Systems: Approximately 20 home lighting systems 
+    were installed in each village to demonstrate lighting that is 
+    better, safer and no more costly than the kerosene lamps they 
+    replace.
+8. Mobile Solar Irrigation pumps: In the one project village 
+    that has a year-round source of surface water efficient 
+    solar-powered pumps helps the poorest farmers grow crops during the 
+    dry season to provide a critical inflow of food and cash into the 
+    village.
+9. Groundnut Oil Expeller: The making and selling of groundnut 
+    oil is one of the few sources of income for village women. A 
+    solar-powered expeller installed in one project village saves time 
+    and labour while earning more income for women.
+This project is now fully operational and is demonstrating the 
+    transforming effect that a sustainable source of electricity has on 
+    village life in the areas of health, education, water supply 
+    security and economic development.
+COST COMPARISON BETWEEN PV SYSTEM AND DIESEL 
+    ENGINE
+The cost of electrical materials for 1989 and 1996 analysis 
+    indicates an increase of about 400% in the local cost between 1989 
+    and 1996. The inflationary trend drastically reduced the purchasing 
+    power of the rural population, whose present average annual income 
+    fell to less than US$360 and US$600 for low and middle-income 
+    earners respectively. The effect of this on the rural electricity 
+    grid supply was to render it impracticable. In addition, the use of 
+    diesel generates in the rural area presents problem, such as 
+    inadequate fuel supply, and a lack of service parts and of regular 
+    technical assistance (Adurodija et al, 1998). The African Credit 
+    Development Company Limited urged government to adopt PV or an 
+    alternative source of energy because it would reduce significantly 
+    the cost of GSM charges. Alluding to MTN-one of Nigeria’s mobile 
+    phone operations GSM operators spend over US$3732 on generators in 
+    each of their base stations roughly 520 – with cost being 
+    transferred to subscribers in 
+    terns of billing (Ita, 2005). Photovoltaic systems were 
+    once environmentally appealing but prohibitively expensive 
+    solutions to energy needs. Over the past 20 year, however, there 
+    has been a 10-fold reduction in the delivered price of energy from 
+    PV system, to current costs as low as US$4-5 per peak watt (Wp) and 
+    US$0.25-0.35/kWh. Small home – systems in developing 
+    nations typically supply 10-80 Wp costing US$ 10/Wp or more to 
+    install with US$ 1.00/kWp or more a representative operating 
+    cost. While this is still well above the costs of power from 
+    fossil-fuel plants, which in areas of optimal demand and fuel cost 
+    can reach 3-4 cents/KWh, there are reasons to be hopeful. The price 
+    of PV modules has decreased by roughly 20% for each doubling of the 
+    number of units produced as can be seen in Table 1.
+Investment in research and continuing support for pre economic 
+    pilot projects as a means to spur new markets both contribute to 
+    further decreases in cost and improvements in the technology. 
+    Beyond that, PV is a “flexible” technology where systems of many 
+    sizes can be easily constructed and very cheaply maintained to meet 
+    a range of power demands. PV systems have of course always been 
+    appealing where rural electrification by grid extension is 
+    prohibitively expensive or physically impractical. To see this, 
+    compare PV to the two traditional means to provide electricity: 
+    connection to local diesel or petroleum generator; or extension of 
+    a national or regional grid both of these can be expensive, and at 
+    times, unreliable.
+Private, diesel based mini-grids in developing nations often 
+    charge over US$ 1/kWh for access (Foly, 1995). At the same time, 
+    grid extension in rural area of development  
+    nations may exceed US$ 10,000/km, which if coupled with low daily 
+    load factors makes rural electricity services very expensive. In 
+    fact, when monthly loads are 10-15 kWh as can be the case in newly 
+    electrified areas, or in particularly poor districts this source of 
+    electricity is no cheaper than PV power is today. The estimated 
+    construction cost of a stand-alone PV system in Nigeria is shown in 
+    the Table 2.

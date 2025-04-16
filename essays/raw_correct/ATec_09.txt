@@ -1,0 +1,46 @@
+THEORETICAL APPROACHES IN SOFTWARE COMPLEXITY METRICS
+
+INTRODUCTION
+
+In software engineering, the endeavor is typically to design and develop functional computer-based solutions for problem-solving tasks. The viability and dependability of the emerging computer-based systems (or solutions) rely on the associated software. The comprehension of the original problems (or tasks) by software engineers influences the viability and dependability of the software design for the problems. The software engineer's comprehension of the original problems depends on how the problems are structured. A straightforward and well-structured problem (task) may impede the designer's full comprehension of the problem, thus leading to inappropriate and incomplete solutions. Software faults often arise from the design phase (i.e., design errors), improper modifications, or transient hardware errors that corrupt the stored program. Errors in software design most commonly arise from the complexity of the problem. Hence, it has been posited that a 25% increase in problem complexity would result in a 100% increase in emerging program or software complexity (Woodfield, 1989).
+
+Markusz and Kaposi (1985) highlighted the increasing awareness of the high risk and excessive costs associated with poor-quality complex software design. Maintaining large-scale complex software systems is a costly, time-consuming, and error-prone activity. Consequently, research into software complexity measurement has emerged as a means to understand how to control the degree of complexity in software design and development.
+
+This paper aims to delve into the theoretical aspects of software complexity metrics. Subsequently, the following will be examined in the upcoming sections:
+i. Meaning of and need for software complexity metrics.
+ii. Forms of software complexity.
+iii. Methods of dealing with problems of software complexity.
+iv. Review of existing methods of measuring software complexity.
+v. Summary and conclusion.
+
+1.2 MEANING OF AND NEED FOR SOFTWARE COMPLEXITY METRICS
+
+Software complexity metrics refer to measures of the error-proneness of the software development process, the ease of debugging and modification (Potier et al. (1982); Rault (1979); Schneidewind and Hoffmann (1979)). The necessity arises from the fact that in seeking solutions to a problem, designers need to consider various factors, including performance, reliability, availability, adaptability, maintainability, and complexity. Among these factors, complexity has a significant impact on many other factors, especially maintainability and dependability. The objective of software complexity metrics is to reduce faults in software design and development, fostering efficiency, reliability, and maintainability of software. It has been recognized that good software design requires more than just knowledge of a programming language. Structured programming and various software design methodologies aim to ensure software quality by imposing discipline on the designer, controlling the complexity of design tasks, and complementing the rules of the programming language (Markusz et al.).
+
+1.3 FORMS OF SOFTWARE COMPLEXITY
+
+Curtis et al. (1979) proposed two types of software complexity: computational and psychological. Computational complexity pertains to the quantitative aspects of the algorithm that solves a given problem, estimating the speed of program execution. Psychological complexity, on the other hand, measures the difficulty of designing, comprehensively maintaining, and modifying the program itself.
+
+Moreover, two levels of software complexity have been identified: internal and external complexity. Internal complexity of software examines the interactions within each module of the software, while external complexity refers to the amount of interaction a module has with its environment, as defined by other modules. Therefore, the overall complexity of a system comprises both the internal complexity of each module and the external complexity resulting from module interrelationships (Lew et al., 1988).
+
+Ramamoorthy et al. (1985) also identified two levels of software complexity: sequential complexity and complexity due to concurrency. They further stated that for distributed programs, which achieve concurrency through parallel execution of separate task communication, the program complexity consists of two components: local complexity and communication complexity. Local complexity refers to the complexity of individual tasks, disregarding their interactions with other tasks, while communication complexity reflects the complexity of interactions among the tasks. The two levels of complexity identified by Ramamoorthy et al. (1985) align with the two forms of complexity identified by Lew et al. (1988).
+
+1.4 METHODS OF DEALING WITH PROBLEMS OF SOFTWARE COMPLEXITY
+
+Developing reliable software for large systems presents challenges. In addressing the complexity of software design, two methods are typically considered:
+a) the divide and conquer technique (DCT), and
+b) software fault-tolerant technique (SFTT).
+
+The divide and conquer technique involves decomposing the original problem into sub-programs with well-defined interactions, leading to a structured design. The goal is to manage the complexity the designer must handle. Software fault-tolerant techniques involve the addition of software redundancy, such as n-version programming and recovery blocks. However, it has been noted that the use of any software fault-tolerant technique could introduce a trade-off between software reliability and complexity, potentially reducing software reliability.
+
+1.5 REVIEW OF EXISTING SOFTWARE COMPLEXITY METRICS
+
+The earliest attempts at measuring software complexity trace back to the work of Dijkstra (1968), who observed that the quality of a program decreases with the density of go-to statements within it. Hence, a simple measure of software complexity is the count of go-to statements in a program. While this measure is deemed inappropriate for some languages like FORTRAN, it can be suitable for ALGOL-type languages. Gilb (1977) noted that logical complexity measures the degree of decision-making within a system, with the number of if statements serving as a rough measure of this complexity. Farr and Zagorski (1965) found this metric to be a significant factor in predicting software costs.
+
+McCabe (1976) proposed a different approach to software complexity measurement based on modeling programs as directed graphs. The complexity of a program was then quantifiable by the cyclomatic complexity of the digraph, although the original formulation lacked rigor. Woodward et al. (1979) examined two measures of complexity: the Knot count and McCabe’s cyclomatic number. A knot is defined by indicating where a jump occurs in a program text. By counting the number of knots in a program, a measure of complexity can be derived. An incidence matrix corresponding to the directed graph was also suggested as a measure of knots in a program.
+
+Kaposi et al. (1979) measured the complexity of PROLOG programs, emphasizing the local complexity of partitions and their relationships within the program. The complexity of a partition was expressed as a function of certain parameters, leading to the sorting of partitions into complexity bands. Subsequent developments revealed a deficiency in the complexity function, prompting the introduction of new parameters into the equation by Markusz and Kaposi (1985), resulting in an improved measure of task complexity.
+
+Shatz (1988) proposed complexity metrics for distributed software using Ada, considering both local and communication complexity. Lew et al. (1988) recognized internal complexity measures in software design and aimed to develop an external complexity measure, which evaluates the interaction between a module and its environment.
+
+Weyuker (1988) evaluated four complexity measures based on nine desirable syntax properties, including the number of program statements, McCabe’s cyclomatic number, Halstead’s programming effort, and knot measure. The knot measure was disregarded for structured programs as its value is typically zero. Each metric provides a distinct perspective on program complexity, contributing to the understanding and evaluation of software design.
