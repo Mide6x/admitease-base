@@ -1,0 +1,218 @@
+Comparative evaluation of EDTA, pyridine and acetic acid 
+    for the assessment of available heavy metals from domestic and 
+    industrial sludges
+Introduction
+The increasing production of sludges derived from the treatment 
+    of industrial and domestic wastewaters causes a new environmental 
+    problem due to their final disposal. Sludge is recognized as a 
+    valuable resource that can be recycled as fertilizer and soil 
+    improvement material for land because it contains organic 
+    compounds, macronutrients, micronutrients and nonessential trace 
+    elements, organic micropollutants, microorganisms and eggs of 
+    parasitic organisms (Alloway and Jackson, 1991). The high content 
+    of organic matter and substantial N and P concentrations suggests 
+    its use preferentially as a fertilizer in agriculture or as a 
+    regenerator for soil. Although such application may be beneficial 
+    to soil, concern about possible environmental pollution hazards, 
+    for example, odor, water pollution, veterinary hazards and 
+    contamination by heavy metals has to be considered (Sterrit and 
+    Lester, 1980; Alloway and Jackson, 1991; Perez-Cid, et 
+    al., 1996; Baveye, et al., 1999). In order to assess the potential environmental impact of 
+    materials contaminated with metals, the determination of the total 
+    metal contents do not provide sufficient information, since the 
+    chemical forms (or species) of the metal in the sample matrix 
+    determine its mobilization capacity, bioavailability and related 
+    ecotoxicity (Ure and Davidson, 1995; Gupta, et 
+    al., 1996). In relation to this, sequential 
+    extraction method (Tessier, et al., 1979; 
+    Quevauviller, et al, 1993; McGrath, 1996 and 
+    Olajire, et al., 2003) and different 
+    leaching tests especially batch single extractions (McGrath, 1996 
+    and Ure, 1996) are the most common methods for estimating the metal 
+    mobility in soil and sediment samples. Various techniques have been 
+    introduced to remediate metalcontaminated soils. One of these 
+    techniques is to separate the metals from soil by using chelating 
+    agents to form soluble metal-chelate complexes. Chelating agents 
+    such as ethylenediaminetetraacetic acid (EDTA) is the most commonly 
+    used chelates because of its strong chelating ability for different 
+    heavy metals (Norvell, 1991; Peters and Shem, 1992; Kim and Ong, 
+    1998; Kim and Ong, 2000). The EDTA and acetic acid single 
+    extractions have been originally developed for soil and sludge 
+    analysis and they have been widely applied in this way (Ure, 1996; 
+    Tack and Verloo, 1996); however little or no works were found in 
+    the literature to have been carried out on comparative evaluation 
+    of EDTA, acetic acid and pyridine extraction of Pb, Hg, Cd and Zn 
+    from sludge samples. In our opinion, it could be useful and 
+    interesting to adopt this method to evaluate the potential mobility 
+    of heavy metals from sludge samples under complexing or 
+    acidification processes developed in the environment, particularly 
+    when the sludges are disposed on landfill. The aim of the present 
+    study was to investigate the leaching of heavy metals (Pb, Hg, Cd 
+    and Zn) from domestic and industrial sludges, in order to evaluate 
+    the mobilizable content of them. Knowing fully well that the 
+    leaching behavior of sludge may be dictated by the type of sludge 
+    sample from which the sludge is obtained, a second objective of 
+    this work was to find the similarities and/or differences in EDTA, 
+    pyridine and acetic acid leaching behavior of domestic and 
+    industrial sludges, which could be classified as highly organic 
+    matter containing and typically inorganic sludges, respectively.
+MATERIALS AND METHODS
+Sampling
+The description of the sampling sites is shown in Table 1. The 
+    industrial sludge samples proceeded from the wastewater treatment 
+    plants of industries located at Ogba Industrial Estate, which 
+    includes Chemiron Pharmaceutical industry (site 4); Wamco Dairy 
+    Industry (site 5), vegetable oil industries (site 6). Other 
+    industrial sludes were obtained 
+    from Apapa Industrial Estate and this includes Flour Mills (site 
+    7); Flour Mill Fertilizer section (site 8) and from Ijora 
+    Industrial area, which only includes Nitol Textile Industry (site 
+    9). The domestic sludge samples were collected at various locations 
+    of wastewaters that proceeded from residence (site 1), and those 
+    that proceeded from residence close to scrap metal dumping (site 2) 
+    and local oil factory (site 3) in Sabo area of Ogbomoso. The 
+    samples were grouped according to their district and the source as 
+    follows: DS1 (site 1), DS2 (site 2), DS3 (site 3), IS1 (sites 4, 5 
+    and 6), IS2 (sites 7 and 8) and IS3 (site 9) with DS, representing 
+    domestic sludges and IS, representing industrial sludges. All the 
+    sludge samples were collected by multiple sampling (about 2 kg) in 
+    polyethylene containers and dried in the laboratory at 105 
+    0C (Zufiaurre, et 
+    al., 1998) in an oven to a constant weight. The 
+    dried samples were ground in a mortar and then sieved using nylon 
+    fiber sieve. Then the portion of samples were thoroughly mixed and 
+    homogenized on a clean polyethylene sheet with occasional mixing by 
+    hand. Finally, the prepared samples were bottled in polyethylene 
+    containers, which were stored at laboratory temperature in 
+    desiccators prior to analysis.
+Reagents
+All reagents employed were of high quality analytical reagent 
+    grade. The stock solutions of metals (1000 g/ mL) were prepared by 
+    dissolving the appropriate salts of the metals in doubly distilled 
+    water. Concentrated nitric (65 %), hydrochloric (35 %) and 
+    hydrofluoric (48 %) acids were employed for the digestion of the 
+    samples. The 0.05 mol/L EDTA solution was prepared as an 
+    ammonium salt solution by dissolving the appropriate amount of the 
+    salt in concentrated ammonia solution and the pH was adjusted to 7+ 
+    0.05 by addition of a few drops of either ammonia or 
+    hydrochloric acid. The 0.43 mol/L acetic acid solution was 
+    prepared by adequate dilution of the glacial acetic acid and 0.50 mol/L pyridine solution was prepared by dilution of 
+    concentrated pyridine solution. The three extractant solutions were 
+    stored in stopped polyethylene bottles.
+Single extraction procedure
+The EDTA, acetic acid and pyridine single extraction were 
+    applied to all the pretreated sludge samples. Two replicates of 
+    each sample (for each extractant) were obtained and all the 
+    extractions were done in 50 mL capacity glass tubes, with the same 
+    tubes used for centrifugation, in order to prevent possible loss of 
+    sample. The extractions with EDTA, acetic acid and pyridine were 
+    carried out as described by Perez-cid, et al, 
+    2002. Approximately, 2.5, 1.0 and 1.5 g of 
+    pretreated sludge sample were placed into centrifuge tube and 25,40 
+    and 30 mL of 0.05 mol/L EDTA solution, 0.43 mol/L 
+    acetic acid and 0.50 mol/L pyridine were respectively added 
+    the mixtures were shaken for 1 h. at laboratory temperature 
+    by means of a magnetic shaker. In all cases, after shaking, the 
+    suspension was centrifuged for 12 min. at 2500 rpm. The 
+    supernatants were quantitatively transferred to volumetric flasks 
+    of 50 mL capacity, decanted into polyethylene bottles and stored at 
+    4 0C until analysis. Blank extractions 
+    were carried out in parallel for each set of analysis using the 
+    same procedure as described above.
+Total and pseudototal digestions
+The determination of the total metal content in the sludges was 
+    carried out by completely dissolving the matrix of the sample by 
+    means of wet digestion procedure. In this case, 1.0 g of the 
+    sludge sample was placed in a 250 cm3 
+    round-bottomed quick fit pyrex flask and 50 
+    cm3 mixture of 30 mL nitric acid (65%), 
+    6 mL hydrochloric acid (35%) and 14 mL hydrofluoric acid (48 %) 
+    were added in order to decompose the siliceous material present in 
+    the sludge. The flask was then connected to a 50 cm tall vigreux 
+    column, which was then connected to a 25 cm tall Liebig's 
+    condenser unit. The entire assembly was mounted on an electric 
+    heating plate. The samples were digested until clear solutions were 
+    obtained (approximately 6 h.). The solutions were cooled and 
+    filter through acid-washed Whatman No. 1 filter paper and 
+    then made up to a volume of 100 cm3 
+    using doubly distilled water. The solutions were stored at 4 
+    0C prior to analysis. The pseudototal 
+    digestions of the sludges were carried out as follows; 30 mL of 
+    nitric acid (65 %) and 6 mL of doubly distilled water were mixed 
+    with 0.1 g of the sludge samples and the entire procedure 
+    was followed as described for total digestion. A reagent blank was 
+    prepared for each of the digestion procedure, following the entire 
+    sequence of steps as described for sample preparation in each 
+    case.
+RESULTS
+The analytical results obtained in the studied domestic and 
+    industrial sludge samples after total and pseudototal digestions 
+    are summarized in Table 2. The values are given as measure of 
+    duplicate determinations. As can be seen and contrary to what is 
+    generally expected, not always are domestic sludges less polluted 
+    than industrial sludges. Thus, in the three categorized industrial 
+    sludges analyzed in this study, only sample IS1 has, for all the 
+    elements studied, total heavy metals contents considerably higher 
+    than those of the domestic sludges; the other two categorized 
+    industrial sludges (samples IS2 and IS3) display lower total heavy 
+    metal contents to the domestic sludges. The results of the 
+    pseudototal digestion of all samples are also given in Table 1. As 
+    was expected, the values were in all cases, smaller than those 
+    obtained with the total digestion procedure. However, it is 
+    important to emphasize that the results of pseudototal digestion 
+    were comparable to the total digestions for most of the elements 
+    analyzed in this study. The most significant differences between 
+    the two methods of digestions correspond to Hg in all the domestic 
+    sludge and in samples IS1 and IS2; and to Pb in industrial sludge. 
+    The EDTA, acetic acid and pyridine single extractions were applied, 
+    in duplicate, for metal leaching in all the studied samples. All 
+    the measurements were carried out using the standard addition 
+    technique and these results, expressed as a means of duplicate 
+    determinations are given in Table 3. From the results of Table 3, 
+    it was observed that more extraction efficiency was achieved in 
+    both types of sludges when EDTA was employed as chelating agent. 
+    So, greater amounts of Pb and Hg in industrial sludge samples were 
+    leached using EDTA extraction procedure; Cd and Zn were extracted 
+    in a similar way from both samples. In acetic acid extraction, Pb 
+    and Zn were significantly leached from industrial samples IS2 and 
+    IS3 whereas low extraction efficiency was observed for all the 
+    metals in domestic sludges and in industrial sample IS1. When 
+    pyridine was employed, the extraction efficiency was practically 
+    insignificant for most of the elements studied, except for Zn in IS 
+    1, with extraction efficiency of 52.8% and for Hg in IS1 and 
+    IS2, with extraction efficiencies of 44.7 % and 64.7 
+    % respectively. The rest of the elements were little or nothing 
+    leached in these samples, since the percentages of extraction were 
+    always lower than 11% except for Hg in sample DS3 (value around 
+    28.6%).
+DISCUSSION AND CONCLUSION
+The results of elemental analysis of domestic and industrial 
+    sludges using total and pseudototal digestion methods are given in 
+    Table 1. The levels of Hg and Cd in sample IS 1 are clearly higher 
+    than that of domestic sludge samples. The high Hg and Cd contents 
+    found in sample IS1 can be attributed to the usage of these 
+    elements in various products such as batteries, lamps and 
+    thermometers and in other industrial processes by industries in 
+    this location (i.e Ikeja Industrial Estate). The results 
+    have also demonstrated that industrial wastewaters have undergone 
+    some treatments before being discharged to the environment and that 
+    has actually accounted for the lower total heavy metal content as 
+    compared to the untreated wastewaters generated domestically. It is 
+    important to stress that the total metal content found in all the 
+    analyzed domestic sludge as well as industrial sludge except Hg in 
+    IS1, does not potent a pollution problem in agricultural uses 
+    (Sterritt and Lester, 1980). The values obtained for all the 
+    elements, using pseudototal digestion method are smaller than those 
+    obtained with total digestion procedure.
+In order to establish a more detailed comparison between the two 
+    digestion procedures, the percentages of relative extraction 
+    between pseudototal and total digestion are shown in Figs. 1 
+    (d) and 2 (d) for domestic and industrial sludges, respectively. 
+    According to these figures, it was found, for most of the elements 
+    analyzed in all sludge samples that a good agreement does exist 
+    between the compared results. The percentage of relative extraction 
+    ranged from 5.12 to 100% in domestic sludge for Pb, Cd and 
+    Zn. The lowest extraction efficiency corresponds to Hg in the 
+    domestic sludge. In the industrial sludges however, the percentages 
+    of relative extraction were also elevated for Zn and Cd, and the 
+    values ranged from 85.9 to 100%.

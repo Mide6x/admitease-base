@@ -1,0 +1,38 @@
+Preoperative HIV Screening at Guinness Eye Hospital in Onitsha, Nigeria
+
+INTRODUCTION
+Human Immunodeficiency Virus (HIV) screening is conducted in various contexts and for different reasons. Different categories of HIV testing have different requirements regarding counseling and consent. The categories of HIV testing include:
+- Voluntary HIV counseling and testing (VCT)
+- Routine HIV testing
+- Diagnostic HIV testing
+- HIV testing for blood, semen, and organ donation
+- HIV testing for research and surveillance
+- Required (mandatory) testing
+
+The traditional approach to HIV testing is "voluntary counseling and testing (VCT)," which focuses on extensive pretest counseling and emphasizes the social and preventive implications of being HIV-infected or knowing one's serostatus. VCT allows clients to decide whether to accept or reject the test. While VCT remains an essential service, there has been a recognition that this model may not fully address the needs of healthcare programs for preventing HIV transmission and treating HIV/AIDS.
+
+Routine HIV testing aims to achieve universal diagnosis and provide specific prevention interventions, while diagnostic testing is focused on diagnosing individual patients with HIV disease. These approaches may have overlapping areas. In settings with high HIV prevalence, diagnostic testing should be a routine practice for patients, especially those with advanced HIV disease who may not exhibit specific symptoms.
+
+HIV can be transmitted through contact with infected body fluids such as blood, tears, and aqueous humor. In ophthalmic surgery, contact with these body fluids is unavoidable. Needle prick injuries are the most common risk factor among healthcare workers, with approximately 1 in every 300 needle pricks leading to AIDS without proper antiretroviral treatment.
+
+In hospitals where sharp instruments are reused during surgeries, the risk of HIV transmission can be reduced by healthcare workers taking precautions such as avoiding contact with potentially infected body fluids, wearing gloves, goggles, and masks during clinical procedures. Knowing the HIV status of patients before surgery can reinforce appropriate preventive measures to reduce transmission.
+
+A study conducted in Ilorin, Nigeria, revealed that 62% of respondents felt inadequately protected against HIV infection, with 66.7% unwilling to care for AIDS patients. The study underscored the importance of enhancing peer education and counseling and revising government policies on HIV screening, especially for high-risk groups. Early detection and sustained prevention efforts have been associated with lower HIV rates in countries like Uganda.
+
+AIMS AND OBJECTIVES OF THE STUDY
+This study aims to review all surgical cases to assess the significance of HIV screening in relation to different eye diseases, patients' age, and gender, and to provide necessary recommendations.
+
+MATERIALS AND METHODS
+The case files of all patients who underwent surgery and received HIV screening or testing before surgery from September 1, 2005, to August 31, 2006, were reviewed. Routine HIV testing was conducted on patients who underwent surgery during this period, and the data were analyzed using the Statistical Package for Social Scientists (SPSS) software. The variables considered in the analysis included age, sex, diagnoses, types of surgery, and HIV screening results.
+
+RESULTS
+Within the study period, ophthalmic surgery was performed on 389 patients. HIV screening was conducted on 327 (84.1%) of the operated patients. Eighteen patients (5.5%), comprising 7 (2.1%) males and 11 (3.4%) females, tested positive for HIV. Only the screened patients were included in the study. The analysis showed the age and sex distribution of the screened patients, with the highest number in the 51-60 age group. The oldest patient was 89 years old, and the youngest was a 6-month-old baby. Among the patients, 37 (11.3%) were over 70 years old. The male-to-female ratio was 1.2:1, with the highest number of men and women in the 51-60 age groups, respectively.
+
+DISCUSSION
+HIV/AIDS presents a significant challenge for healthcare professionals. Despite high awareness of the risks among healthcare workers in Nigeria, insufficient attention has been given to implementing effective hospital infection control measures against HIV, such as using gloves and properly disposing of used syringes and sharp objects. The traditional approach of HIV testing, VCT, focuses on the social and preventive implications of being HIV-infected.
+
+In this study, routine and diagnostic HIV testing were adopted for all preoperative cases, emphasizing post-test counseling, especially for patients found to be HIV positive. The high prevalence of HIV in sub-Saharan Africa has raised awareness among healthcare workers, leading to debates on the ethics and morality of voluntary and mandatory HIV screening for healthcare personnel and patients. Similar discussions followed the initiative by the Lesotho Government to offer HIV testing and counseling to all individuals over 12 years of age by the end of 2007, aiming to promote early HIV diagnosis and prevention outcomes while also raising concerns about human rights violations.
+
+The study found a peak in HIV screening among patients aged 51-60, predominantly male, with cataracts being the leading cause of blindness in Nigeria and globally, often requiring surgical intervention. Cataract extraction, a common ophthalmic surgery, involves contact with body fluids that may contain HIV. Eye injuries were the second most common surgical eye disease in the study, necessitating urgent treatment and potentially increasing the risk of HIV transmission in cases of infected patients.
+
+Overall, the study highlighted the importance of HIV screening before ophthalmic surgery, especially among female patients over 20 years of age. The absence of HIV among children in the study underscores the benefits of early detection. It is recommended that HIV screening be conducted for all patients, regardless of age, before ophthalmic surgery.

@@ -1,0 +1,27 @@
+URBAN AND RURAL ELECTRIFICATION: ENHANCING THE ENERGY SECTOR IN NIGERIA USING PHOTOVOLTAIC TECHNOLOGY
+
+INTRODUCTION
+
+Electric power is the most widely used form of power for virtually all modern technologies enjoyed by the majority of people living in industrialized countries.
+
+The situation is quite different in developing countries where the cost of establishing centralized power generating and distribution facilities is too high. Incessant power outages, constant power shortages due to excess loads on the national grid, are common, resulting in many people not having access to electricity.
+
+Nigeria receives ample sunshine throughout the year, with varying levels of solar radiation. This natural resource could be harnessed to address the country's energy needs. Solar electric power, particularly through photovoltaic technology, offers energy independence, economic value, and environmental security. It has the potential to significantly contribute to both industrialized and developing countries' energy requirements.
+
+The study aims to explore ways to improve urban and rural electrification in Nigeria, with a focus on utilizing photovoltaic technology. The current state of electric power supply from local generating stations in Nigeria is unreliable, hindering the country's development.
+
+THE ENERGY SCENARIO IN NIGERIA
+
+Nigeria has predominantly relied on non-renewable sources for power generation. It is crucial to enhance the energy sector by incorporating reliable renewable sources like photovoltaic cells, which can generate electricity from solar energy. To address the power needs of rural households without grid access in Nigeria, assessing their energy demands is essential for designing photovoltaic-based electrification systems.
+
+The Power Holding Company of Nigeria (PHCN) operates the electricity sub-sector, providing power to rural, urban, and semi-urban areas. However, the current infrastructure faces challenges, with aging plants and insufficient capacity to meet demand, leading to power shortages and load shedding. This situation hampers rural and urban development, contributing to poverty and other societal issues.
+
+GOVERNMENT-INITIATED SOLAR SYSTEM PROJECTS IN JIGAWA STATE OF NIGERIA
+
+In 2001, organizations like the Solar Electric Light Fund (SELF) and the Jigawa state government collaborated to introduce solar-generated electricity to power essential services in three villages. The projects include water pumping, health clinics, schools, streetlights, mosque lighting, micro-enterprise centers, home lighting systems, mobile solar irrigation pumps, and groundnut oil expellers. These initiatives have demonstrated the positive impact of sustainable electricity on various aspects of village life.
+
+COST COMPARISON BETWEEN PV SYSTEMS AND DIESEL ENGINES
+
+The cost of electrical materials has significantly increased over the years, affecting rural populations' purchasing power. Diesel generators in rural areas present challenges such as fuel supply shortages and limited technical support. Transitioning to photovoltaic systems could significantly reduce costs and enhance energy access. While PV systems were once costly, advancements have led to a tenfold reduction in prices, making them a more viable option. Continued investment in research and pilot projects will further drive down costs and improve technology, making PV systems a flexible and cost-effective solution for rural electrification.
+
+Investing in PV systems over traditional diesel-based mini-grids or grid extensions can be more cost-effective and reliable in providing electricity to rural areas, ultimately improving living standards and fostering economic development.

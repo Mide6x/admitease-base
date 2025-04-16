@@ -1,0 +1,145 @@
+EXPERIMENTAL INVESTIGATION OF AIR LIFT PUMP
+ABSTRACT:- Air lift pump has been 
+    predominantly used for lifting of waste-water, aggressive fluid, 
+    transportation of solids and radioactive fluids in nuclear 
+    recycling plants and also for deep sea mining. The air lift pump 
+    performance depends on some fluid and geometric properties. 
+    Experiments were carried out by setting up a model air lift pump to 
+    unearth some of these parameters and their influence on the 
+    performance. Thereafter a Lift Dimensionless Number (LDN) and Pump 
+    Dimensionless Number (PDN) were derived to capture all the flow 
+    parameters. Using the experimental results obtained a logarithmic 
+    plot of the dimensionless numbers was obtained to established a 
+    relationship between the dimensionless numbers. It was generally 
+    observed that air lift pumps with smaller riser pipe diameters 
+    yielded higher lifts. From the experiment it was also noted that 
+    fluid with better adhesive properties (e.g. water) 
+    produced higher lifts. For all cases of injection pressures for 
+    different fluids and mixture of fluid and solid, the lift increased 
+    with increasing submergence. A logarithmic plot of LDN against PDN 
+    yielded a slope 0.22 and intercept -0.78. The study 
+    has therefore been able to generate dimensionless parameters for 
+    characterizing the lift pump.
+INTRODUCTION
+The air lift pump has been used for several years in the lifting 
+    of waste water, water aggressive fluids and also for transportation 
+    of solid mixture and for radioactive fluid in nuclear recycling 
+    plants(Weber, 1982).
+The method also appears well suited for deep-sea mixing provided 
+    the influence of the entrance air expansion on the degree of 
+    efficiency and on the lifting power of the air-liquid mixture is 
+    not too adverse. The usage of air lift pump for sampling Juveline 
+    Salmonds was reported by Brege et 
+    al(1990).
+The great variety of applications and nearly unlimited plant 
+    dimension requires a scientific base in order to guarantee an 
+    optimal computation for each special 
+    case.As such there have been many concerted efforts to 
+    fully characterize the pump. 
+    Versluys(1931) was the first to give a general theory. 
+    There have been many theories developed since then. However some 
+    notable experimental works have equally been carried out. For 
+    instance Heywood et al(1981) 
+    reported experimental investigation of air lift pumping of shear 
+    thinning suspensions. Similarly attempt was reported by Nigel et 
+    al(1981). Wurts et al (1994) 
+    determine the individual and combined pumping capacities for 
+    floating air lift pump powered by a centrifugal blower. A physical 
+    based model was developed by Francis (1996) to determine the air 
+    flow rate required to pump a specific flow rate of water in a given 
+    well designed for in-well air stripping of volatile organic 
+    compound from an aquifer. An experimental study of air lift pump 
+    with tapered up-riser pipe was carried out by Kumar et al (2003). 
+    They reported improved performance with a tapered riser pipe. The 
+    pump performance of a small air-lift system for conveying solid 
+    particles was investigated experimentally by Hitoshi Fujimoto et 
+    al(2003). The quasi-steady state 
+    characteristics of the flows were examined for various experimental 
+    conditions The critical boundary on which the particles can be 
+    lifted is discussed in detail using a simple theoretical model Some 
+    numerical approaches that have been attempted includes simulation 
+    of vertical conveying of solid by Weber (1982) and the use of 
+    integral model by Nenes et al (1996) . The integral model was used 
+    to simulate air lift pump for moderate deep water well by varying 
+    parameters such as pressure and void fraction. They reported close 
+    agreement with experiments.
+The basis of this work is however to develop some dimensionless 
+    relations from experiments that can be used to characterise the 
+    lift pump.
+EXPERIMENTAL SET UP
+In order to determine the various factors governing the 
+    performance of an air-lift pump experiments were performed using a 
+    model rig as shown in Figure 1.
+The rig consists of a reservoir tank made of transparent plastic 
+    material, in which stands the rise pipe (10mm – 25mm) also made of 
+    transparent plastic material. The air line is connected to the rise 
+    pipe and linked to the air compressor. The height of the liquid 
+    above the state level is referred to as the lift while the 
+    submergence is the length of the air pipe submerged below the 
+    static level.
+
+Description of the Experiment
+The reservoir tank was filled with water. The rising pipe of 
+    varying uniform diameter series (10mm – 25mm) was positioned in the 
+    reservoir tank with the air line in place.
+The pipe submergence was then measured and thereafter the air 
+    was pumped into the injection point of the riser pipe. The lift of 
+    the pump (liquid height above static level) was then measured.
+The experiment was repeated five times and thereafter another 
+    riser pipe of different diameter is put in place and the experiment 
+    repeated all over again.
+When all the uniform rise pipes had been used, the liquid in the 
+    reservoir was change to kerosene and then gasoline and later to 
+    liquid water-solid. For each case the whole experimental runs were 
+    repeated all over again.
+RESULT AND DISCUSSION
+Tables 1 (a-c) showed the results obtained when the experiment 
+    was run with kerosene. The air pressure was varied from13.8 
+    kN/m2 to 172.4kN/m2 and submergence
+
+from 30cm to 25cm. The graphical plot of the lift against 
+    submergence ratio (submergence/total liquid depth) for different 
+    fluids is shown in figure 2. It was observed that the pump lift 
+    increases with increasing pipe submergence ratio. This should be 
+    expected, since a greater height of the fluid will be required to 
+    restore back to equilibrium for high pipe submergences.
+A plot of the pump lift (height) against pressure for different 
+    liquids is presented in Figure 3. By examining Table 1 it could be 
+    observed that the smaller riser pipe yielded higher lift than the 
+    pipe of higher dimensions. The slippage seems to be well pronounced 
+    in bigger diameter pipes.
+ 
+The results obtained when a mixture of sand and water was used 
+    are presented in Table 2 while a graphical representation is shown 
+    in Figure 4. From the results it was observed that for all the air 
+    pressures and different submergence, the correspondent lift is 
+    lower comparative to the other pure liquids. The mixture is 
+    obviously denser and of considerably low cohesive properties that 
+    the other pure liquids.
+Based on all the aforementioned observations, it could be 
+    deduced then that the liquid 
+    lift(L) depends on the viscosity of the liquid ( μ ) 
+    ), its density ( ρ ) 
+    submergence
+ 
+depth(Hd), actual liquid 
+    static depth(Hs), diameter of 
+    pipe(d) and injection 
+    pressure(P). In other words, 
+    L= f ( μ , ρ , Hd, Hs, d, P). Using Dimensional Analysis a relation 
+    was developed as LDN =f( PDN) where,
+  
+    
+From Table 3 generated from the experiments a logarithmic plot 
+    of LDN against PDN was obtained as shown in Figure 5. The slope of 
+    the graph was obtained as 0.22 while the intercept of the 
+    graph was obtained as -0.76 (for the best line of fit). This 
+    yielded a relation LDN = 0.17PDN0.22
+ 
+CONCLUSION
+From all of the above it can be established that pipe size, 
+    configuration, submergence, air pressure and fluid type determine 
+    to a considerable extent the maximum lift produced by an air lift 
+    pump. It has also established the possibility of using 
+    dimensionless relations to characterise the pump 
+    

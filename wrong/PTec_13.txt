@@ -1,0 +1,94 @@
+Where is the world going with BLUETOOTH?
+For Nigerian subscribers, perhaps the easiest that come to mind 
+    about the bluetooth technology is the wireless headset or handsfree 
+    as the case may be. The best outside these could be that of 
+    transferring files like pictures, music among others from mobile to 
+    mobile or computer to computer.
+But the truth is that the world has gone beyond all these. There 
+    are bluetooth enabled wrist watches, pens sunglasses among others. 
+    Yet mobile technology service providers and inventors are always 
+    coming up with some wacky and most unusual uses of this technology, 
+    using it to solve problems and most importantly, permeate sectoral 
+    barriers.
+Just last week, the Bluetooth Special Interest Group, SIG, 
+    announced that the industry coalition of leading health care and 
+    technology companies charged with establishing a system of 
+    interoperable personal telehealth solutions, Continua Health 
+    Alliance, has selected Bluetooth wireless technology, to support 
+    its telehealth solutions.
+SIG announced that once finalised, Continua will include the 
+    upcoming Bluetooth low energy wireless technology specification in 
+    version two of its Continua Health Alliance Design Guidelines. The 
+    selection of Bluetooth low energy technology extends the current 
+    Continua standard for the Bluetooth health device profile and is 
+    the only wireless technology specification included in Continua’s 
+    version one design guidelines.
+Bluetooth low energy technology is a power efficient, 
+    short-range, wireless technology that offers connectivity between 
+    mobile devices and small, battery powered devices such as watches, 
+    and health and fitness sensors. Bluetooth low energy technology 
+    features low power consumption, small size and low cost, and 
+    integration in mobile phones, all providing Continua a reliable 
+    solution to enable mobile devices for a wide range of personal 
+    telehealth audiencesBut 
+    that is not all about Bluetooth technology. More than 12,000 
+    companies, along with countless enthusiasts, researchers and 
+    inventors, are currently developing innovative solutions with 
+    Bluetooth wireless technology.
+The technology community is producing some amazing, unusual, and 
+    out-of-this world applications that are now making life not just 
+    easier, but also more fun. Mobile Week, has decided to present some 
+    of the Bluetooth wireless technology enabled products available in 
+    the market and even those that are yet to debut.
+eSoles
+Start-up company, eSoles, unveiled a Bluetooth enabled shoe 
+    insert that lets the user keep track of his workout on his mobile 
+    phone while running, cycling, walking, skiing, and even jumping 
+    rope. The customized insole features 11 pressure sensors and 
+    transmits data, including cadence, power output, balance, speed, 
+    and distance to user’s mobile phone using Bluetooth wireless 
+    technology.
+However, available in the market now is a prototype of the shoe 
+    insert which is being tested and expected to hit the market in 
+    2010.
+BlueGuard automatic door opener
+This automatic door opener turns a mobile phone into a wireless 
+    key. The BlueGuard can detect up to 10 Bluetooth mobile phones, 
+    giving access to authorized individuals without the need to swipe a 
+    card. It works with gates, overhead doors, and parking barriers for 
+    industrial use.
+The product is targeted towards the convenience of not having to 
+    use keys.
+The unit detects up to 10 separate cellphones at up to 33 feet, 
+    which is standard low-power Bluetooth range, and hooks up to the 
+    door-opening system to enable you to get hands-free entrance.
+However, manufacturers of the product says “this is more of an 
+    industrial use, and attaches to gates, overhead doors and parking 
+    barriers, so it’s less of you getting into your home. Still, it’s 
+    quite useful” they added.
+Vena bluetooth enabled asthma inhaler
+The Vena respirator has added IR and bluetooth connectivity. It 
+    marks the first demo unit and will connect via smartphone or 
+    computer to help keep track of when it’s being used and can provide 
+    reminders for patients who need to scheduled doses. The information 
+    can also be sent to relevant doctors and anonymously to health care 
+    specialists who like to mine these numbers and find trends 
+    
+Human Space Invaders
+Bluetooth technology features with this device, a re-creation of 
+    the video game classic. A player acts as his own game controller, 
+    moving left and right while a camera tracks his movements and turns 
+    them into game inputs. The game is displayed on a video projector, 
+    while a Bluetooth wireless monitor keeps track of the player’s 
+    heart rate, which can also be used to vary the difficulty of the 
+    game.
+Perhaps the Bluetooth Special Interest Group (SIG), came with 
+    the vision of what the technology is about to become. The group 
+    comprised of leaders in the telecommunications, computing, consumer 
+    electronics, automotive and network industries. This group is 
+    driving development of Bluetooth wireless technology and bringing 
+    it to market. The Bluetooth SIG includes Promoter group companies 
+    Ericsson, Intel, Lenovo, Microsoft, Motorola, Nokia and Toshiba, 
+    along with over 12,000 Associate and Adopter member companies. The 
+    Bluetooth SIG, Inc. headquarters are located in Bellevue, 
+    Washington, U.S.A.

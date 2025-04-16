@@ -1,0 +1,22 @@
+INTRODUCTION
+In the early stages of language learning, there was a surge of enthusiasm among students of language and linguistics. There was a prevailing sense of optimism, with many believing that numerous language-related issues were on the verge of resolution, leading to a significant breakthrough.
+
+However, in the 1970s, this optimism waned as people began to recognize the importance of semantics - the study of meaning in language. The challenge lies in determining the type of meaning used and whether its application is valid. This essay aims to revisit the various types of meaning identified by theorists, not to introduce new insights but to highlight the topics of discussion, the issues raised, and the emergence of advanced theories due to their limitations.
+
+CHALLENGES IN MEANING ANALYSIS IN NATURAL LANGUAGES AND PRAGMATISM
+The term "semantics" gained popularity in the late 19th century with the publication of "The Meaning of Meaning" by two esteemed language scholars. They proposed that semantic analysis of a language should elucidate how words, sentences, and even non-linguistic elements like gestures and facial expressions are comprehended, interpreted, and linked to real-world objects and situations (Udofot, 2004: 6).
+
+Scholars emphasized that several factors, including the speaker, the listener, their cognitive development levels, shared beliefs, backgrounds, and the context of communication, interact to render a symbol or sentence meaningful. A challenge arises when determining if a word or sentence retains the same meaning for the same speaker within various contexts.
+
+To address this issue, nominal theories emerged, suggesting that the meaning of a word or thing is the name assigned to it. However, this theory falls short in explaining the meanings of abstract nouns like beauty, happiness, freedom, verbs like to know and feel, and onomatopoeic sounds, thereby lacking a comprehensive model for analyzing meaning in natural languages.
+
+Conceptual theories posited that meaning is the mental concept or idea of a word. Nonetheless, these theories promote subjectivity and introspection, and their definitions of meaning in terms of Symbol-Image-Referent relationships are applicable primarily to concrete objects rather than abstractions, attributive adjectives, verbs, and structural words, thereby contradicting the principles governing human cognition and imagination.
+
+Contextual theories suggest that the meaning of a word or utterance is determined by its use. However, this theory's limited application to observable and demonstrable situations diminishes its effectiveness. Bloomfield's Behaviorism, a form of contextualism, fails to account for situations where the mentioned entity is absent during communication.
+
+Given the limitations of the aforementioned theories, componential analysis of meaning emerged, employing semantic features to convey word meanings. However, this approach's focus solely on word meaning neglects the broader scope of communication, as humans utilize not only words but also sentences for conveying messages. Additionally, the reliance on binary opposites and the limited applicability of truth conditions pose further challenges.
+
+Despite the shortcomings of these theories, a more recent and advanced theory has emerged, considering various factors crucial in meaning analysis. Proponents of this theory, including Morris (1938) and Carnap (1958), emphasize the importance of the situational context, shared knowledge, and linguistic context in analyzing meaning. This advanced theory, encompassing pragmatics, delves into not only observable aspects but also the users' choices, social interaction constraints, and language's impact on participants, integrating elements from conceptual, contextual, deictic, and speech act theories.
+
+CONCLUSION
+Despite the limitations of earlier theories, they have paved the way for the development of subsequent theories. The pragmatics theory, which incorporates elements from conceptual, contextual, implicatures, language, culture, style, and deictic theories, demonstrates how these earlier theories have influenced the evolution of linguistic analysis.

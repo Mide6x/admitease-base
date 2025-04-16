@@ -1,0 +1,44 @@
+Analysis of Teaching Media
+
+The teaching strategy that we have developed will be utilized to guide the selection, design, and implementation of teaching methods and media.
+
+Traditional teaching methods in higher education, such as lectures, readings, exercises, discussions, and practicals, are typically used to facilitate learning. While these methods individually contribute to the learning process, the feedback on students' actions is often overlooked. Feedback is usually integrated into assessment processes and supervised practical sessions.
+
+When educators are faced with large classes and considering the conversational nature of the teaching-learning process, the potential roles of various media come into question.
+
+According to Romiszowski (1988), media serves as the conduit for transmitting messages from the source (human or inanimate) to the learner. Educational media can be categorized as discursive, adaptive, interactive, and reflective, meeting predefined criteria. A comprehensive list of media characteristics should outline the requirements for a learning environment, including:
+
+1. Audio-visual media method
+2. Hypermedia method
+3. Interactive media method
+4. Adaptive media method
+5. Discursive media method
+
+Audio-Visual Media Method
+a. Lecture
+Lectures, commonly used by educators, lack interactivity and adaptability. While lectures provide essential information, they do not promote student reflection. To compensate for this limitation, some instructors supplement lectures with interactive techniques like posing questions to encourage student engagement and feedback.
+
+b. Print
+Print materials are crucial for conveying information and allowing students to control the pace of their learning. Although print lacks interactivity, incorporating learning objectives, in-text questions, supplementary texts, and self-assessment questions can enhance student engagement and reflection.
+
+c. Audio-Vision
+Audio-cassettes offer auditory learning experiences and can be more interactive than print. They provide a unique medium for students who may struggle with reading. Audio commentary can offer interpretive guidance, enhancing the learning experience.
+
+d. Television
+Television, particularly in distance learning scenarios, provides visual learning experiences. While not inherently interactive or adaptive, television can engage students through dynamic presentations and rhetorical techniques.
+
+e. Video
+Videos offer a controllable and adaptive learning experience. They allow students to engage with content at their own pace and facilitate reflective activities. However, videos may lack full interactivity and feedback.
+
+Hypermedia Method
+Hypertext systems enable users to navigate information databases efficiently. While lacking intrinsic feedback, hypertext systems facilitate knowledge acquisition and exploration of interconnected information.
+
+Interactive Media Methods
+a. Simulation
+Simulations allow users to interact with models of real-world scenarios, promoting experiential learning. While simulations offer intrinsic feedback and interactivity, they may not support reflective practices.
+
+b. Microworld
+Microworld programs enable students to interact with and observe outcomes based on their commands. These programs encourage reflection and interaction at a descriptive level, enhancing learning experiences.
+
+c. Modelling
+Modeling programs empower learners to create and analyze their models, promoting understanding of theoretical concepts. Modeling provides feedback on student actions, making it a valuable tool for academic learning.

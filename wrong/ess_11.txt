@@ -1,0 +1,225 @@
+1.2 Focus of the Study
+Phonology studies the sound system of languages and aims at 
+    demonstrating the patterns of distinctive sounds found in a 
+    language. It makes possible general statements about the nature of 
+    sound systems found in languages of the world; is also concerned 
+    with the range and functions of sounds in specific languages, and 
+    with the rules, which can be written to show the types of phonetic 
+    relationships that relate and contrast linguistic units (Crystal, 
+    1991:.261). The Phonological Rules of a language mainly deal 
+    with its phonological processes and the distinctive features of its 
+    segments. Considering what phonological processes and distinctive 
+    features are, a study of a language’s Phonological Rules would then 
+    capture and take care of a reasonable aspect of the language’s 
+    phonology.
+A Phonological Rule, in the words of Trask (1996:.273), is 
+    “any rule which, in some analysis, is posited as involved in 
+    deriving a pronunciation”. That is, it deals with rules 
+    appealing to morphological and lexical information as well as 
+    phonetic (allophonic) rules. Phonological Rules also convert 
+    phonological representations into phonetic forms by really 
+    explaining and bringing out the exact condition under which a 
+    phonological process takes place. This can be stated in terms of 
+    classes of sounds to which the rules apply, and the classes of 
+    sounds can be described in terms of features of which they are 
+    composed. A Phonological Rule in English, for instance, may state a 
+    consonant is palatalized when it occurs before a front vowel and 
+    can be written thus:
+Such many other rules could be found in English or any other 
+    natural language through careful study. In the process of studying 
+    a language’s Phonological Rules, it would be easy to recognize the 
+    language’s segments’ distinctive features, and this would really 
+    pay off since there is scanty literature on an in-depth explanation 
+    or revelation of a language’s Phonological Rules. This is the 
+    essence of this research, which will automate for documentation, 
+    the establishment of Phonological Rules in Anaang, a Lower Cross 
+    Language spoken in Akwa Ibom State of Nigeria.
+1.3 Background Information on the Anaang People
+The name, Anaang implies both languages and ethnic group 
+    (people). This section and the next therefore gives some 
+    information about the people of Anaang as well as the Anaang 
+    language.
+1.3.1 Origin and Migration
+History has it that the Anaang people, together with other 
+    Bantus originated from the central Benue valley in Nigerian and 
+    probably moved through the Northern sector of the Cross River to 
+    the Enyong Creek. They eventually traveled through the present day 
+    Eastern Ibibio land (Ikono) to settle at the location of present 
+    day Abak (Greenberg, 1963, cited in Nyarks, 2002:.21). Essien 
+    (1983:.5-6, cited in Nyarks 2002) - who argues that life had 
+    already existed along the banks and valleys of the rivers and in 
+    Cross River thousands of years before the Bantus migrated to that 
+    side - points out the origin of the Anaangs to be Ibom, near Aro 
+    North-West and East of the Cross River along the highland of 
+    Cameroon. He notes that the Anaangs were there many thousands of 
+    years before the Cameroonians settled there.
+In a bid to find a new location for their unification and 
+    maintain their identity as a people, the Anaangs migrated from the 
+    Cross River coast to Abak, through Eket, Oron and Western Nsit 
+    where some of them also settled. That is why Udoh (1983:.9) 
+    notes that the roots of Afaha Eket in Eket Local Government Area, 
+    Afaha Ikot Ebak in Essien Udim Local Government Area, Afaha Obong 
+    in Abak Local Government Area, Afaha Nsung in Okobo Local 
+    Government Area, Afaha Nsit in Nsit Ibom Local Government 
+    Area and many other Afahas (italics mine) could be traced 
+    to one stock. They accept all Afaha people as blood Kinsmen i.e imaan. Esema (2002:.7), who 
+    corroborates this account, also notes that the Anaang people 
+    religiously accept and follow the adage, “Afaha Ikidde 
+    Afaha ikpa ekong”, meaning literally that an Afaha man 
+    can do no harm to a fellow Afaha man.
+Notwithstanding the oral traditions1 
+    During an interview with Dr. C.T. 
+    Udoh, a seasoned Historian, he maintained that the Anaangs have 
+    always been where they are now. They dispersed to their present 
+    location from Abak. and written records regarding Anaang 
+    origin and migration, there seems to be a consensus that the 
+    present Anaang counties and councils are a result of migration from 
+    Abak. Forde and Jones (1967:.83, cited in Nyoyoko, 1997:.9) give a reticent and vivid account of this:
+The Anaang society appears to have originated from a 
+    single society or group of villages all situated close to the 
+    present Abak Local Government Area headquarters. Thus, each of 
+    these villages is regarded as the parent village from which new 
+    settlements lived off in various directions…ancestors came from 
+    Ikot Imo in Abak Local Government Area. However, most traditions 
+    identify the place of secondary dispersal with Afaha 
+    Obong.
+1.3.2 Location and Population
+In Nigeria, the Anaang people are in Akwa Ibom State, 
+    South-South of the country. They are the second largest ethnic 
+    group in Akwa Ibom State, occupying the Northwestern part of the 
+    state with a total land area of 2.73square kilometers and an 
+    average density range between 600 and 800 people per square mile. 
+    (Nyoyoko, 1997:.9, Micheal and Obot, 2001:.14). From 
+    the 1991 census result, the people number about 1 million (Connel 
+    1991:.8; Urua, 1996:.51; Grimes, 2000:.167). 
+    Udondata (2006:.2) puts the Anaang population at 4 million, 
+    though he does not state his source and date, but the 2006 census 
+    result puts Anaang total population at 2.4 
+    million2This information is 
+    from the National Population Commision..
+They are bounded in the North by the Isogbo Igbo (Abia State), 
+    in the West by the Ngwas (Abia State) and Ndoki (Rivers State) and 
+    in the South, East and Northeast by the Ibibios. They occupy eight 
+    of the thirty-one L.G.As of Akwa Ibom State, namely; 
+    Abak, Essien Udim, Etim Ekpo, Ikot Ekpene, Obot Akara, Ika, Oruk 
+    Anam and Ukanafun.
+1.3.3 Nomenclature:
+The name, Anaang, was first mentioned in 1854 by Sigismund 
+    Wilhelm Kolle (a German missionary in Sierra Leone) in his book 
+    Polyglotta Africana, where he reported that 
+    Anaang was one of the languages spoken by liberated slaves in 
+    Sierra Leone (Udoh, 1983:.83). There is the need to mention 
+    that usage of the name bore a different spelling - 
+    “Annang”. After Sigismund Koelle in 1854, this 
+    spelling has been used even until this 
+    21st century. Other linguists (and 
+    non-linguists) however prefer to write it as Anaang. Going by the 
+    Lower Cross phonology, a syllabified pronunciation of 
+    “Annang” would be /unclear 
+    / while that of Anaang would be 
+    unclear. Even a child at the 
+    infantile lisping stage would agree that s/he normally hears adult 
+    natives pronouncing the latter, not the former. 
+    “Anaang” (rather than “Annang 
+    ) is therefore a better 
+    graphical expression of the native speakers’ pronunciation of the 
+    name. I therefore prefer the usage of Anaang in this work over and 
+    above every other.
+The name, Anaang, according to Udoh (1983:.2) and Umana 
+    (2002:.1-2) is derived from the characteristic behaviours of 
+    a tribe who are clothed with fury, indignation, intolerance and 
+    vindictiveness. Perhaps, in line with this, Udoh (1983:.99) – 
+    who believes that Anaang is a part of Ibibio - says Anaang is from 
+    the Ibibio words 
+    Anaanga (to be 
+    intoxicated with alcohol), Anaang 
+    Ide (to be intoxicated with bravery), 
+    Unnang (black dyed 
+    raffia worn by Ekpo 
+    Onyoho masquerader). He infers therefore 
+    that Anaang means ‘wild’ or 
+    ‘warrior’ since the Anaangs fought many wars 
+    against the Ngwa Igbos to preserve and protect their farmlands and 
+    territories against invasion.
+1.3.4 Ethnic Affinity
+Just like Udoh (1983:.99) already mentioned above, there 
+    is the belief that Anaang is a part of Ibibio. In line with this, 
+    Udoh (1983:.2) however notes that Anaang and Ibibio only have 
+    common dialects and intermarriage traditions with none a part of 
+    the other. Based on this commonness, the ancestors of the Anaangs 
+    and the Ibibios were classified by the colonial masters and 
+    missionaries as one race or group of family. One of the 
+    colonialists had once written that “the Anaang are Ibibio 
+    people speaking a dialect of Ibibio, populating the areas covered 
+    by the Abak Division and Western half of the Ikot Ekpene 
+    Division” (Udoh, 1983:.84).
+This may have been because of the fact that the colonialists had 
+    not yet entered the Anaang land, and when they did, they heard them 
+    speak similar dialects of Ibibio with similar patterns and then 
+    grouped them as one family or race. One of the Colonial District 
+    Officers in Abak District, Mr. S. E. Johnson 
+    had stated in 1932 that the Anaang sub tribe seemed to have been 
+    the last to have come in contact with the Europeans because they 
+    were the last area in the Calabar Province to be opened up by the 
+    Government (Udoh, 1983:.84). Following the colonialists’ 
+    claims, some Ibibios are still of the strong view that Anaang is a 
+    sub-tribe of Ibibio. To give credence to his view, Udoh (1983:.86) quotes an Anaang anthropologist to have said that “it is 
+    generally believed that the entire group now forming the 
+    Southeastern state belongs to the Bantoid group 
+    … the Anaang have the same history 
+    of migration as the Efik-Ibibio.” The point here is that the 
+    Anaangs, Efiks and Ibibios may have migrated differently from 
+    wherever they were originally, to settle at the Cross River 
+    coast.3 Based on this also, 
+    Udoh (2003:.34) notes some historians like Noah (1994:.27) to have concluded that the different ethnic groups in Akwa 
+    Ibom state may have migrated from one place, even though they 
+    settled in their present abodes at different times. As a 
+    result, they intermarried, shared certain things and features and 
+    became one. However, a time came (as noted by Essien 1983:.14, cited in Nyarks, 2006:. 2) when the Anaang ancestors 
+    wanted to secure a special entity for themselves in order to 
+    separate themselves from the Ibibios and exist as a distinct tribe 
+    with their own language, tradition and culture. This led to their 
+    migration story as related in section
+1.3.1. Quote Wardhaugh****
+Still to prove the Anaang ethnic affiliation with Ibibio, Udoh 
+    (1983:.89) mentions that the Ibibio State Union held her 
+    inaugural meeting in Ikot Ekpene (an Anaang land) in 1928, and the 
+    Anaangs joined the Union freely. But Udoh (1983:.16) mentions 
+    that the Anaang people who resisted the inclusion of their tribe in 
+    Ibibio wanted the name to be written Ibibio and Anaang Union. 
+    Therefore, the name was not agreed by the majority of Anaang 
+    people. He maintains that the Union, not created to transform the 
+    Anaang people into Ibibio was a joint programme set up by the two 
+    ethnic groups for unification and development.
+In line with Udoh’s account, Umana (2002:.3) reveals 
+    that:
+The first politico-cultural organization recorded in the annals 
+    of people movement in Nigeria was the Anaang Union formed by one 
+    Udosen Obot of Ikot Ekpene in 1927 
+    … the progenitor of the then Ibibio State College 
+    … The land on which the college stands 
+    was donated by Udosen Obot to the Anaang Union and later to the 
+    Ibibio State Union which emerged as the amalgam of Anaang Union and 
+    Ibibio state movement in 1928. The Anaang Union was so popular that 
+    it soon embraced the whole of the mainland divisions of the then 
+    Calabar Province, metamorphosing…into the Ibibio Union in 1928. The 
+    metamorphosing brought about serious ethnic squabbles between the 
+    Ibibios and the Anaangs causing the name to be changed in 1953 
+    (August) to Ibibio and Anaang Union.
+In as much as this is not a political document to speak for or 
+    against any ethnic group as a parent body or affiliate, it is apt 
+    to note from the arguments in this section that if given the 
+    latitude, there would continue to be claims and counter-claims 
+    beyond doubt about the parenthood and offspringship of various 
+    ethnic groups in the state as just seen above. Therefore, it would 
+    be more sensible to toe Udoh’s (2003:.34) line of 
+    appreciating the need of a people to carve out an identity, whether 
+    separate or related to other groups. It would really pay off to 
+    respect such sentiments at any time they are expressed in as much 
+    as we all look forward to language development because one mark of 
+    identity of a people or ethnic group is the language they speak, 
+    for example Oro, Ibibio, Anang, Ekid, etc. With the 
+    culturally-related outlook of the various groups in Akwa Ibom 
+    state, coupled with mutual intelligibility of some languages, it 
+    would be better to talk about ethnic affinity than ethnic 
+    affiliation.

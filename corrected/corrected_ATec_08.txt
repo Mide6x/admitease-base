@@ -1,0 +1,34 @@
+LABORATORY MEASUREMENT OF THE ELECTRICAL RESISTIVITY OF SOME NIGERIAN CRYSTALLINE BASEMENT COMPLEX ROCKS
+
+INTRODUCTION
+The primary challenge in directly measuring the electrical resistivity of crystalline basement rocks lies in establishing effective electrical contact with the rock outcrop. Consequently, resistivity is typically estimated from sounding data, where the bedrock is often covered by regolith, leading to reduced resolution. The resistivity of the substratum determined in this manner may lack precision, particularly when the overlying geoelectrical unit has a very low resistivity. In such cases, an indistinct "infinite" resistivity is commonly assigned to the bedrock (Verma et al., 1980; Beeson and Jones, 1988; Olayinka, 1990; Olorunfemi et al., 1991; Hazell et al., 1992). An alternative method involves conducting resistivity measurements of the rock in a laboratory setting.
+
+In this study, the electrical resistivity of Pre-Cambrian to Upper Cambrian crystalline basement rock units from southwestern Nigeria was measured in the laboratory. This study is based on the theory proposed by Van der Pauw (1958), who developed an analytical expression for the specific electrical resistivity of a material bounded by a simply connected arbitrary shaped closed curve without singularities. The expression involves currents and potential differences measured at the boundary of the curve. Four electrodes are utilized, and the rock specimens need not have a regular shape, although uniform thickness is essential. Electrical contact with the sample is established by injecting the filter tip of the electrode with a 0.1 molar potassium chloride solution.
+
+The resistivity of 102 rock samples, including quartzites, gneisses, charnockite, amphibolite, biotite granite, and granodiorite from five locations in southwestern Nigeria, was determined. The results indicate that basement rocks generally exhibit high resistivities, ranging from 1.01 × 103 to 2.82 × 106 ohm-m. Gneisses exhibit the lowest resistivities, followed by banded gneiss, augen gneiss, biotite granite, charnockite, granodiorite, amphibolite, and quartzite with the highest resistivity.
+
+EXPERIMENTAL PROCEDURE
+Determining the specific resistivity of samples with arbitrary shapes necessitates measuring potentials and current flows at the sample boundary. This is achieved by making contacts at the circumference of the samples with small areas compared to the sample's surface area. Special electrochemical electrodes using silver and chloride ions meet this requirement. Additionally, the sample must have uniform thickness and no isolated holes, achieved by slicing the sample twice to create a reference surface and complete the slice.
+
+For small cyclic contacts 1, 2, 3, 4 at the sample's circumference, the resistances are defined as follows:
+
+where V and I represent the potential at and the current through the specified nodes or branches, respectively.
+R12,34 = R34,12 and R23,41 = R41,23 according to the reciprocity relation derived from Telegen's theorem for a two-port electrical network (Agunloye and Hussain, 1982).
+
+Van der Pauw (1958) demonstrated that the specific resistivity of a specimen under the specified conditions is:
+
+where X is the natural logarithm of 2.0, d is the sample's thickness, and f is a function of ε as given by
+
+The electrical measuring system comprises a current source, current adjuster, selector, data precision model 1350 digital multimeter, and four non-polarizable silver-silver chloride electrodes. A fine silver mesh sheet, 30 × 20 mm, is prepared by removing surface impurities with emery and immersing it in a 1 molar HCl solution for seven days to obtain a coated electrode. The electrode is rolled into a cylindrical shape with filter paper at the free end, ensuring reliable contact and minimal electrode impedance. A rock sample is sliced to a uniform thickness, and electrodes are positioned on the sample boundary using an insulating plate. Electrical contact is established by injecting the filter paper with 0.1 molar KCl solution.
+
+RESULTS
+The results show a wide range of resistivities among the various rock types, indicating that resistivity alone is not indicative of lithology. Gneisses exhibit the lowest resistivities, followed by biotite granite, granodiorite, charnockite, amphibolite, and quartzite. The resistivity ranges, means, and standard deviations for each rock type are presented in Table 1.
+
+Most gneiss samples have resistivities below 7000 ohm-m, with only 8% exceeding 9000 ohm-m. Biotite granite samples exhibit resistivities between 8020 and 62,000 ohm-m, while quartzites display the highest resistivities ranging from 50,600 to 2,820,000 ohm-m, with approximately 77% having resistivities below 1,000,000 ohm-m.
+
+Variations in resistivities are observed even within the same rock exposure, indicating differences in mineralogy. Localities also influence resistivity variations within the same rock type, further suggesting mineralogical disparities.
+
+DISCUSSION AND CONCLUSIONS
+The laboratory measurements of electrical resistivity for crystalline basement rocks in southwestern Nigeria reveal high resistivities, consistent with previous findings. The resistivity varies among rock types, reflecting differences in mineral composition and porosity. The results also align broadly with previous studies on resistivity in Nigerian and African crystalline basement rocks.
+
+The correlation between rock resistivity and susceptibility to chemical weathering suggests a link to mineral formation temperatures. For instance, quartzite's high resistivity and low porosity contribute to its resistance to weathering compared to gneisses. These findings provide valuable insights into fractured basement rocks and complement geophysical sounding interpretations.

@@ -1,0 +1,47 @@
+SEPARATION OF CASHEW NUT SHELL LIQUID BY COLUMN CHROMATOGRAPHY
+
+INTRODUCTION
+
+Cashew nut shell liquid (CNSL) is a natural product with a bitter taste and dark brownish color. It is a caustic phenolic oil. CNSL is obtained from cashew nuts either by roasting, extraction in hot oil or in a solvent, or by mechanical expression of the oil from the shell of cashew nuts. CNSL is essentially a mixture of four phenolic compounds, namely anacardic acid, cardol, cardanol, and 2-methylcardol. These natural products could serve as an alternative source of phenolic compounds previously sourced from petrochemicals. CNSL has various uses such as in the manufacture of brake linings for automobiles, heat and waterproof paints, corrosion-resistant varnishes, and insulating enamels for the electrical industry. Ohler (1979) reported that fresh CNSL contains about 90% by weight of anacardic acid, a derivative of o-carboxyphenol that readily decarboxylates on heating and converts to cardanol. Cardanol is the component responsible for the aforementioned applications of CNSL. The remaining 10% of CNSL consists of cardol, a resorcinol that is mainly responsible for the vesicative activity of CNSL. The actual composition, color, and stability of CNSL depend on the duration and conditions of storage, as well as the method of production and the heat application. Column chromatography is a method that can be used for the separation of liquid mixtures even when they have similar solubilities in a particular solvent. Normally, a glass column about 30 cm long and 2 cm in diameter, narrowing at one end to an outlet, is used in the laboratory (Norman and Waddington, 1983). Hamilton and Sewell (1982) reported that in adsorption (column) chromatography, separation is the result of polar interactions between the active groups on the stationary phase and polar or polarizable functional groups on the solute molecules. CNSL was transformed into a cake by first reducing its viscosity with the addition of chloroform, then silica gel was added to it, and it was allowed to cake in an oven. The CNSL cake was then introduced into the column, and the solvent was allowed to drip into the column to separate CNSL into its constituents. The objectives of this study are to separate the CNSL in the cake into its constituents, determine the RF and RM values of each constituent, and recover cardanol, the most useful component, for its synthesis into a cation-exchange resin.
+
+MATERIALS AND METHODS
+
+MATERIALS
+
+Cashew nut shell liquid was obtained from ACET Nigeria Ltd., Owo, Nigeria. Benzene, chloroform, and silica gel for chromatographic analysis (particle size 0.13 - 0.25 mm or 60 - 120 mesh) are of analytical grade and were obtained from BDH Laboratory Supply, England.
+
+METHODS
+
+Preparation of CNSL cake
+
+80 mL of CNSL was dissolved in 60 mL of chloroform to reduce its viscosity. Then, 170 g of silica gel (60 - 120 mesh) was continuously added until the solution became paste-like. The paste was dried in the oven at a temperature of 110 ± 10°C for three hours to obtain the CNSL cake. Drying the CNSL cake in the oven simultaneously effected the decarboxylation of anacardic acid to cardanol.
+
+Separation of CNSL
+
+A 50 cm3 burette was used as the column. The mobile phase consisted of equal portions of benzene and chloroform. All glassware used, including beakers, separating funnels, and glass rods, were washed with chromic acid, rinsed with distilled water, and dried. Cotton wool was inserted into the bottom of the column down to the constricted end using a glass rod. Then, 37 g of silica gel was poured into the column while tapping the column. The silica gel was wetted by adding the mobile phase into the column through a separating funnel clamped on a stand above the burette. As the mobile phase passed through the silica gel packing, the void volume was noted when the first drop of the mobile phase from the burette appeared at the outlet.
+
+A second cotton wool was placed on top of the wetted silica gel to prevent any disturbance of the column when the CNSL cake was added. The CNSL cake was then added to the remaining part of the column, leaving a little space above for the mobile phase dropping from the separating funnel.
+
+Once the cake was introduced to the column and the mobile phase was added, the separation process began. The components were eluted at different rates by the mobile phase. The first eluant appeared very fast, coming out within one hour of the commencement of separation.
+
+The second and third eluants (components) were held to the stationary phase for much longer periods, about 18 and 28 hours, respectively. The components (eluants) were collected in different beakers, and the mobile phase was allowed to evaporate at room temperature. The RF-value, RM-value, yield, and percentage composition of each component were then determined. Three runs were made to check the reproducibility of the results. More detailed procedures are available elsewhere (Oghome, 2003). Frais (1972) stated that compounds may be classified by their RF-value. The RF-value of a component is constant under given experimental conditions such as the mobile phase, stationary phase, temperature, pH, and pressure.
+
+Column Chromatography
+
+In column chromatography, a sample is introduced at the top of the column, and subsequent development by the mobile phase may eventually elute the separated components from the column in order of their polarity, with the less polar ones eluting first. Each component can be identified if the RF-value can be calculated. When traversing a length of the column, a volume of the mobile phase equal to the volume of the voids (Vi) in that length will be used. If a volume Vx is used before a given component is eluted, the mobile phase front will have moved a distance equal to the column length x Vx / Vi. The RF of that component can be calculated from the expression (Heald and Smith, 1974):
+
+The RM value reflects the affinity of the solute for the stationary phase and is defined by:
+
+The greater the RM value, the more polar the substance. Therefore, the more polar a species, the slower it will be moved along a developing chromatogram.
+
+Determination of Acid Number
+
+The raw CNSL and the pure cardanol were analyzed for their acid number. 2.03 g of cardanol and 2.04 g of CNSL were weighed into two separate 250 mL Erlenmeyer flasks, and 100 mL of ethanol was added to each flask. 0.5 mL of methyl orange was added as an indicator. The mixture was shaken until the sample was completely dissolved in the ethanol solvent. The mixture was then titrated against a standardized 0.1 N KOH solution. The acid number was calculated using the following expression:
+
+RESULTS AND DISCUSSION
+
+The three main components of CNSL after carboxylation achieved by heating the CNSL cake in the oven at 110°C, which are cardanol, cardol, and 2-methylcardol, were found to be soluble in the mobile phase, a mixture of equal portions of benzene and chloroform. However, when contacted with the silica gel adsorbent (the stationary phase), the solutes showed different affinities for the stationary phase and were separated into three bands in the chromatographic column before being eluted. The RF-value for each component was determined from the volume of solvent used in eluting it using Eq(1) for each of the three experimental runs. The mean RF-value and the standard deviation for each component were calculated. The mean RM-values for each component were then calculated using equation 2. The mean RF and RM values for each component are shown in Table 1.
+
+The RM-value reflects the affinity of the solute for the stationary phase. The component with the highest RM-value of 0.760 was 2-methylcardol, which was eluted last and took about 28 hours to elute. This was followed by cardol (RM = 0.679), which took 18 hours to elute. The least polar component, cardanol (RM = -0.028), was eluted in less than 1 hour. Cardanol, being the component of interest, could therefore be easily separated by this column chromatographic technique. The mean value of the yield and the standard deviation of each component are shown in Table 1. The mean value of the yield was used to calculate the percentage composition of the decarboxylated CNSL. The largest proportion of the decarboxylated CNSL was cardanol. The percentage composition obtained in this study agreed with those of Ohler (1979), although the composition of CNSL components is known to vary naturally with the plant species and may also be affected by the method of extraction of the oil from the cashew nuts. The average quantity of cardanol recovered from the initial 80 mL of raw CNSL was 53.56 g.
+
+The pH of CNSL and cardanol were determined to be 6.69 and 3.43, respectively. The results show that cardanol is more acidic than raw CNSL. The acid number of CNSL and cardanol were determined to be 13.68 and 16.60 mg of

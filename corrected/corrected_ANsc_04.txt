@@ -1,0 +1,31 @@
+Determinants of Management Outcome in Open Tibia Fractures in Ile-Ife
+
+Abstract
+
+Background: Fractures of the normal tibia shaft are significant traumas commonly sustained by young adults during high-energy injuries, often resulting in open fractures due to its superficial location and subcutaneous characteristics. This study aimed to identify the presentation patterns and factors influencing management outcomes in open tibia fractures.
+
+Methods: This prospective hospital-based study involved 89 patients aged 4 to 80 years with open tibia fractures, with or without fibula involvement. All patients received tetanus prophylaxis, intravenous antibiotics, wound irrigation, debridement, and skeletal stabilization.
+
+Results: Students and traders comprised the majority of cases (57.3%). Most open tibia fractures (77.5%) were treated with above knee Plaster of Paris casts. The majority were Gustilo and Anderson type II (36.0%) and type I (24.7%) cases. Correlations were found between wound infection and Gustilo and Anderson grading, injury to debridement time, osteomyelitis, delayed union, and union time. Common complications included wound infection (39.3%) and delayed union (33.7%).
+
+Conclusion: Higher Gustilo and Anderson grading correlated with more severe wound and bone infections in open tibia fractures. The timing between injury and debridement impacted treatment outcomes.
+
+Introduction
+
+An open fracture involves a break in the skin and soft tissue, leading directly to the fracture. The Gustilo and Anderson classification system aids in prognosis and treatment principles. Treatment goals include infection prevention, fracture healing, and full limb functional recovery. Treatment essentials comprise immediate wound debridement, fracture stabilization, wound coverage, antibiotics, and bone grafting.
+
+Patients and Methods
+
+This study conducted at Obafemi Awolowo University Teaching Hospital, Ile-Ife included 89 patients with open tibia fractures. Treatment guidelines involved surgical emergency management, wound swabs, imaging, antibiotics, thorough debridement, fracture stabilization, and follow-up assessments.
+
+Data Analysis
+
+Descriptive statistical methods were used to analyze study results. Statistical analysis was performed using SPSS software, ANOVA, and Pearson's Correlation. Significance was determined at P < 0.05.
+
+Results
+
+Out of 92 patients initially enrolled, 89 were followed up. Most patients were males (64%) aged 32.7 ± 17.1 years. Motor vehicular accidents were the primary cause of open tibia fractures. Complications included wound infection, delayed union, and others related to limb function.
+
+Discussion
+
+Most cases occurred in individuals aged 20 to 50 years, with males being more affected than females. Motor vehicular accidents were the leading cause of fractures. The study highlighted challenges with Plaster of Paris cast treatment for severe open tibia fractures, especially in Gustilo and Anderson type III cases.

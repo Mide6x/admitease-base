@@ -1,0 +1,39 @@
+The Environmental Effects of Excreted Pharmaceuticals
+
+Concerns about the potential effects of pharmaceuticals, their metabolites, and other chemicals, including household products, are becoming a prominent issue in Europe, the United States, Canada, and other countries worldwide. The presence of these compounds and the inconsistencies in their disposal have made their presence in the environment unavoidable.
+
+Once released into the environment, most pharmaceutically active compounds (PhACs), also known as active pharmaceutical ingredients (APIs), are typically transported to the aqueous domain. They are expected to undergo only partial degradation and transformation into other products through photo-transformative, physicochemical, and biological degradation reactions.
+
+However, current evidence suggests otherwise. Annually, tons of these harmful chemicals are discharged into rivers and other surface waters through effluents from sewage treatment plants, as these plants generally cannot eliminate all trace constituents. The sources of these compounds in natural waters extend beyond the excretion of parent compounds and their metabolites by individuals and pets to include the disposal of unused medications into sewage systems, underground leakage from sewage system infrastructures, the release of treated or untreated hospital wastes, disposal by pharmacies and physicians, and the disposal of surplus humanitarian drugs into domestic sewage systems.
+
+A recent study conducted at three plant sites in India (Ankleshwar, Nandesari, and Vapi) by Greenpeace revealed that approximately 250-270 million liters of liquid waste and 100 million pounds of solid waste are generated daily and annually, respectively. About 19% of this waste comes from drugs, 5% from organic chemicals, and 8% from pesticides. Most of this waste is dumped into groundwater and local waterways surrounding the plants. Consequently, these water bodies now contain toxic chemicals such as benzene, 1,3- and 1,4-dichlorobenzenes. For example, dichlorobenzene is a persistent chemical substance resistant to microbial degradation.
+
+The presence of excreted pharmaceuticals and chemicals, even at low levels, poses analytical challenges. The environmental and public health impacts of long-term, low-level exposure and synergistic effects have the potential to be detrimental to human health, the environment, and flora and fauna. Therefore, it is essential to explore options to prevent excreted pharmaceuticals and chemicals from entering the environment and reaching drinking water, surface waters such as rivers and lakes, groundwater, and sediments. This proactive approach will help anticipate their potential long-term (chronic) effects on humans, aquatic life, and the environment. This issue has become more pronounced due to increasing concerns stemming from population density and pharmaceutical consumption.
+
+Of more concern is the increasing persistence of pharmaceuticals in the environment. Even for compounds with short lifetimes, the effects of long-term exposure and synergistic effects must be addressed. Available literature indicates that the quantity of pharmaceuticals already excreted into the environment is substantial and will continue to rise with increasing population and pollution levels, leading to a disruption of the delicate balance of ecosystems and environmental biomes, niches, food chains, and biodiversity.
+
+The presence of pharmaceuticals such as antibiotics in the aquatic environment poses a potential threat to ecosystem function and human health. Scientific research conducted at Trent University in Canada revealed that after a 100-day exposure of Japanese Medaka fish to effluent water samples containing concentrations of 0.1 ppt estrone (a type of estrogen) and other chemicals, the fish displayed intersexual changes, exhibiting both male and female characteristics. At 1000 ppt, all the males transformed into females.
+
+Another study by researchers in London found that exposure to even a ppt of estrogen triggers the production of Vitellogen, a female protein responsible for egg yolk formation, in male fish. American researchers, in a separate report, discovered that exposure to excreted pharmaceuticals resulted in male walleyes' sterility, birth defects in alligators, and other water-dwelling birds and wildlife species.
+
+In humans, the effects of excreted pharmaceuticals can be linked to cancers, hormonal imbalances, immune disorders, birth defects, carcinogenic properties, fetal deaths, reduced fertility, male and female reproductive dysfunctions, and interference with hormonal and endocrine systems regulating insulin and thyroid hormones.
+
+While some may debate the adverse human health effects of cumulative lifetime exposures to low concentrations and complex mixtures of pharmaceuticals, we must not disregard their effects, however subtle, on vulnerable subpopulations such as children, women of childbearing age, the elderly, and individuals with suppressed immune systems. We should not downplay this issue by comparing it to other global concerns like climate change.
+
+To counter these negative trends and prevent future occurrences, the following measures can be implemented:
+
+1. Educate individuals on the impact of dumping pharmaceuticals into the environment and promote responsible actions for the future and environmental protection.
+   
+2. Government and non-governmental organizations (NGOs) should collaborate to raise awareness about the dangers of improper pharmaceutical disposal and encourage reporting of any environmental changes attributable to pharmaceutical presence.
+   
+3. Stimulate academia through government support and enact environmental legislation to facilitate research on the short- and long-term effects of excreted pharmaceuticals in the environment.
+   
+4. Enforce existing legislation more rigorously to curb the indiscriminate disposal of pharmaceuticals, chemicals, agricultural products, and pesticides into water bodies by individuals and industries.
+   
+5. Establish a database for research on excreted pharmaceuticals in the environment to enhance understanding, assess impacts, and propose solutions based on the twelve principles of Green Chemistry, which emphasize waste prevention, renewable materials, safe synthetic methods, and low toxicity of chemical products, among others.
+   
+6. Provide approval and incentives to companies utilizing green technologies for pharmaceutical waste disposal.
+   
+7. Develop policy and technological frameworks to identify potent pharmaceuticals for future research on their potential effects in the environment.
+
+By taking these steps, humanity can progress towards a more sustainable approach in safeguarding the environment and future generations.

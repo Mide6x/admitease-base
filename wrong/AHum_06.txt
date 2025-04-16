@@ -1,0 +1,178 @@
+Grammatical tones
+Grammatical tones are those tones, which are grammatically 
+    significant and, within the autosegmental framework of generative 
+    phonology, they exist independently of 'segmental' 
+    phonological strings. They are mapped onto specific positions in 
+    the grammatical constructions in which they feature and affect the 
+    tonal output of the strings in the surface form. Tone exerts a lot 
+    of influence on the grammar of Urhobo as most of the grammatical 
+    information available is revealed through the manipulation of 
+    tones. For instance, most tense and aspectual information are 
+    indicated by tones. The segmentalisation of these grammatical tones 
+    usually results in the modification of lexical tones borne by 
+    adjacent segments. We shall consider a few of them.
+Tone in the associative noun phrase
+The associative construction is also called the Noun + Noun 
+    phrase. This construction is indicated by a morpheme /re/ which 
+    bears a high tone and occurs between the two nouns. In normal 
+    conversational speech, the vowel of this associative marker (AM) is 
+    always elided but its high tone remains and gets relinked on the 
+    prefix vowel of the following noun and this results in tonal 
+    modifications on the second noun. Let us consider a few 
+    examples:
+
+From the examples above, we notice that while the first nouns in 
+    each phrase retain their lexical tones, the prefix vowels of the 
+    second nouns are all realised on the high tone given them by the 
+    associative marker. Consequently, examples 6(a), (b) and (d) whose 
+    second nouns in their citation form begin with a low tone become 
+    high because the high tone of the associative market relinks on 
+    their prefix vowel. Thus, we have a tonal modification from low to 
+    high. In 6(c), because the second noun already bears a high tone, 
+    no tonal modification takes place because the two high tones merely 
+    contract into one high tone.
+Tone in the verb phrase
+Most simple verbs in Urhobo are either monosyllabic or 
+    disyllabic and begin with a consonant segment. There are no minimal 
+    pairs in the verb class, which differ in meaning only as a result 
+    of a difference in tone patterning. So whereas we can classify 
+    nouns according to their tone patterns, verbs cannot be so 
+    classified. In the citation form, all verbs and all monosyllabic 
+    subject and object pronouns are realised on the low tone. Although 
+    a number of tonal alternations are attested in the verb, these are 
+    usually motivated by the different grammatical configurations in 
+    which they function. Consequently, all verbs with the same syllable 
+    structure will behave alike in the same grammatical configuration. 
+    For example, all monosyllabic verbs will behave alike in terms of 
+    tone in a past tense construction and all disyllabic verbs will 
+    also behave alike. For reasons such as these, Urhobo verbs as well 
+    as monosyllabic subject and subject pronouns are assumed to be 
+    underlyingly toneless and receive tone depending on the grammatical 
+    configuration in which they function. As a result, tone bears a 
+    great syntactic functional load particularly in the verb phrase. In 
+    order to be able to analyse tonal alternations in the Urhobo verb 
+    phrase, it is necessary to recognise the existence of tonal 
+    morphemes (tomorphs) or grammatical tones as an essential part of 
+    the grammar. These tomorphs may be single tone units or tonal 
+    melodies, that is, fixed tonal patterns, which are grammatically 
+    significant and exist independently of segmental strings. They are 
+    quite distinct from lexical tones. They are obligatorily 
+    segmentalised in appropriate positions within the grammatical 
+    configuration and their segmentalisation often causes lexical tones 
+    to delink or at best form a glide.
+In this section, we shall consider grammatical constructions in 
+    the three basic tenses, namely, the present, the past and the 
+    future tenses.
+The present tense
+The present tense construction in Urhobo is used to convey a 
+    habitual as well as a present or continuous action. The morpheme 
+    marking the tense is a floating high tone, which occurs at the end 
+    of the subject noun phrase. In order for this tomorph to be 
+    realised, the final vowel of the subject noun phrase is lengthened 
+    slightly to accommodate it. If the subject NP already ends on a 
+    high tone, it is easy to perceive a lengthening of both the high 
+    tone and the final vowel. If on the other hand, if the subject NP 
+    ends on a low tone, the present tense tomorph is segmentalised on 
+    the lengthened portion of the final vowel. We said earlier that 
+    when the subject pronoun or verb is not bearing a tomorph, it is 
+    realised on a low tone. Consequently, if the subject NP is a 
+    pronoun, the first part of the vowel bears a low tone while the 
+    lengthened portion bears the high tone. Let us examine some 
+    examples. (Note: pr.t= present tomorph.)
+The past tense
+In the full form of the past tense, the verb appears with a 
+    suffix, which is realised in two phonological shapes depending on 
+    the vowel harmony requirements of the verb stem vowel. (Vowels in 
+    this language fall into two groups with regard to vowel harmony and 
+    the harmony feature is the Advanced Tongue Root [ATR]). 
+    Consequently, the vowels /i, e, o, u,/ are [+ATR] while /ẹ, a, o/ 
+    are [-ART]. For a detailed discussion of vowel harmony in Urhobo, 
+    see Aziza (1994, 1997)). The 
+    alternating forms of the verb suffix are - ri and re. If the verb 
+    stem vowel is [+ ATR], it takes the suffix -ri but if the verb stem 
+    is [-ATR], it takes -re. This suffix occurs only when the verb is 
+    not followed by an object; where it is, the suffix is deleted.
+As for tonal alternation, the past tense construction assigns a 
+    high tomorph, which is segmentalised on the only vowel segment of a 
+    monosyllabic verb stem or on the final vowel of a disyllabic verb 
+    stem. When the verb stem is followed by a noun object, the final 
+    vowel of the verb stem is either elided or undergoes glide 
+    formation resulting in the past tense tomorph being set afloat. 
+    Since it is a grammatical tone, it obligatory relinks on the prefix 
+    vowel of the following noun object resulting in the delinking of 
+    the lexical tone in that position if it is a low. However if it is 
+    a high, it contracts with the high tomorph and so the effect of the 
+    relinking is vacuous. Let us consider some examples:
+
+The future tense
+In its full form, the future tense is marked segmentally by a 
+    particle, which occurs between the subject noun phrase and the verb 
+    stem of the clause. This particle is realised in two phonological 
+    shapes /che/ and /cha/ depending on the vowel harmony requirement 
+    of the verb stem vowel. If the verb stem vowel is [-(-ART], it 
+    selects /che/ and if it is [-ART], it selects /cha/. This future 
+    tense is used to indicate an action that is yet to commence or one 
+    that is being contemplated.
+Tonally, the future tense construction is marked by a H - L - H 
+    tone sequence which is distributed as follows:
+a) the first high tone is segmentalised on the final vowel of 
+    the subject noun phrase (or the only vowel segment of a 
+    monosyllabic subject pronoun).
+b) the low tone is mapped onto the future tense particle, and
+c) the second high tone is mapped onto the only or first vowel 
+    of the verb stem and spreads onto any following vowel segment 
+    within the verb stem; hence, all verb stem vowels are realised as 
+    high. We shall consider some examples:
+
+The examples above show that tonal alternations in this 
+    construction result from the segmentalisation of the two high tones 
+    marking the future tense. The segmentalisation of the first high 
+    tone onto the subject NP results in the automatic delinking of the 
+    inherent or lexical tone in that position if it is low. (This is 
+    unlike what happens with the present tomorph whose segmentalisation 
+    results in the lengthening of the final vowel of the subject NP so 
+    as to accommodate the tomorph.) The second high tone of the future 
+    tense spreads onto other vowel segments within the verb stem if the 
+    verb stem is other than monosyllabic. It is unlike the past tense 
+    tomorph, which does not spread. However like the past tense 
+    tomorph, if the final vowel of the verb stem is elided or becomes a 
+    glide, this tomorph obligatorily relinks and the result is 
+    automatic delinking of a following inherent tone. In each case, the 
+    effect of segmentalisation is vacuous if the inherent tone is also 
+    a high.
+Negation and interrogation
+Negation in Urhobo is marked by a floating L H tone sequence, 
+    which is mapped onto the final vowel in the phonetic realisation. 
+    In order to accommodate the tone sequence, the final vowel is 
+    lengthened. In the orthography this is represented by doubling the 
+    final vowel. Thus we have the following:
+
+On the other hand, interrogation is marked by a floating low 
+    tone, which is realised on the final vowel of the utterance. If the 
+    statement already ends on a low tone, the addition of this question 
+    morpheme results in our perceiving the utterance on an extra low 
+    level. However, if the statement ends on a high tone the addition 
+    of the question morpheme results in the creation of a HL contour 
+    but there is no lengthening of the final vowel. The following are 
+    some examples:
+
+From the foregoing, it is clear that tone has both lexical and 
+    grammatical functions in Urhobo and that it is as important, if not 
+    even more important, than the consonant and vowel segments used in 
+    utterances.
+The need for tone-marking in the writing system
+We decided to give a technical treatment to our section 3 in 
+    order to show that tone in Urhobo is not just a matter of choice or 
+    something that is haphazardly done but that it is a systematic 
+    phenomenon which is well entrenched in the grammar of the language. 
+    Tone can differentiate the meaning of words as well as distinguish 
+    different grammatical constructions.
+A number of people object to the use of tone marks in writing 
+    simply because it is not used in English and so they consider it 
+    untidy. They seem to forget that English is not a tone language in 
+    the sense that Urhobo is. Whether you say 
+    'clear' with a high, mid or low tone, 
+    the meaning is the same in English. But as we have seen, a change 
+    in tone can change the meaning of words in Urhobo. If tone is not 
+    marked in writing many sentences would be ambiguous and a lot of 
+    time and meaning would be lost.

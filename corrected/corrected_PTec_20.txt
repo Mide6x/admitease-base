@@ -1,0 +1,26 @@
+UNIFIED SMART HOME:
+ITU Approves G.hn as Standard for Wired Home Networking
+
+The International Telecommunications Union (ITU) appears to be monitoring the global technological advancements in the Nigeria ICT sector. Over the weekend, the world telecom body approved a new standard known as G.hn for wiring new digital services like High Definition TV (HDTV) and Internet Protocol TV (IPTV) in homes.
+
+According to the ITU, this cutting-edge technical standard will introduce a new era in smart home networking systems and applications. It is anticipated that this standard will enable service providers to offer HDTV, IPTV, and other services on more cost-effective platforms.
+
+This standard will also facilitate consumer electronics manufacturers in seamlessly networking various home entertainment, automation, and security products, thereby simplifying consumers’ purchasing and installation processes.
+
+Devices compliant with G.hn will support high-bandwidth multimedia content at speeds of up to 1 Gbit/s over household wiring options, including coaxial cable, standard phone lines, and power lines.
+
+This development aligns with the ITU Secretary-General Dr. Hamadoun Toure's recent statement in Abuja, Nigeria, that within the next five to seven years, all homes in Africa may have access to affordable broadband, internet, HDTV, and IPTV.
+
+The approval of this standard underscores the visionary actions of prominent Nigerian business figures like Chief Raymond Dokpesi, Otunba Mike Adenuga Jr., and Mrs. Funke Opeke, who have made significant investments in broadband infrastructure, foreseeing the future of global connectivity.
+
+The implementation of this new standard will provide a significant boost for Africa by offering much higher throughput compared to current wireless and wired technologies.
+
+The approval of this standard will enable manufacturers of networked home devices to advance their research and development programs, with chipsets utilizing G.hn technology expected to be available in early 2010.
+
+Mr. Malcolm Johnson, Director of ITU’s Telecommunication Standardization Bureau, stated, "G.hn is a technology that repurposes the existing cabling in most homes to enable energy-efficient smart appliances, home automation, and telemedicine devices. The strong industry support for this innovation underscores its potential to revolutionize home networking."
+
+The physical layer and architecture of the standard were approved by ITU-T Study Group 15 on October 9. The data link layer is expected to receive final approval at the group's meeting in May 2010.
+
+The Home Grid Forum, in collaboration with the Broadband Forum, is working on a certification program to assist semiconductor and systems manufacturers in producing standards-compliant products. Products meeting the G.hn standard will bear the HomeGrid-certified logo.
+
+At the recent ITU-T Study Group 15 meeting, a new standard focusing on the coexistence of G.hn-based products with other technologies was agreed upon. Known as G.9972, this standard outlines how G.hn devices will interact with power line devices using technologies like IEEE P1901. Additionally, there are plans to extend G.hn to support SmartGrid applications.

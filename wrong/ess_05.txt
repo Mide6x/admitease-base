@@ -1,0 +1,151 @@
+INTRODUCTION
+The study of meaning is a tasking exercise. Meaning has been 
+    viewed as the most elusive and controversial phenomenon in language 
+    study. Its' vague nature gives 
+    room for diverse interpretations depending on the speaker, the 
+    hearer and the situation. Philosophers, anthropologists and 
+    linguists have tried to give solution to the unstable and ambiguous 
+    nature of meaning but could not. It is because of the status of 
+    meaning, certain problems associate with its analysis in natural 
+    languages. Several theories of meaning have been propounded to 
+    address these problems. This paper therefore aims at discussing 
+    some problems associated with the analysis of meaning and a current 
+    theory which has reasonably addresses these problems.
+PROBLEMS ASSOCIATED WITH THE ANALYSIS OF MEANING IS 
+    NATURAL LANGUAGES.
+There are certain problems associated with the analysis of 
+    meaning in natural languages. Some of the problems are discussed 
+    below. The problem of graded boundaries hinders proper analysis of 
+    meaning in natural languages. Jackendoff (1996) cited in Udofot 
+    (2004:.140) observe that:
+In talking about the colour "red" in 
+    English one is faced with a broad range of lavender so that at a 
+    point one may have a problem of hues from orange to lavender so 
+    that at a point one may have a problem of noticing where orange 
+    stops and lavender begins...
+According to her, there is also borderline case where a 
+    particular colour can be seen as red, orange or lavender depending 
+    on the context. Similar problems exist for a word like 
+    fat: What for instance is the lower boundary of 
+    a fat woman? When or at what size can a woman be described as thin, 
+    medium or fat? are relevant to the problem of graded boundaries.
+Ambiguity is another problem 
+    encountered in the analysis of 
+    meaning in natural languages. Ambiguous words or utterance are 
+    those open to diverse interpretations depending on the linguistic 
+    context. For example the expression "she is nice", calls 
+    for different interpretations. The word 
+    "nice" could mean 
+    "caring, kind, accommodating, beautiful, 
+    and other virtues. Another aspect of ambiguity of utterance is 
+    seen, when an utterance is seen, when an utterance requires a true 
+    or false response which cannot always be true or false. That is to 
+    say, the utterance can be interpreted as true under a set of 
+    conditions in a possible universe and false under another. Lyons 
+    (1977:.169) observes: "it there is a possible 
+    world in which a sentence is both true and false, we can say that 
+    the. sentence expresses two district propositions.
+Also seen as a problem in meaning analysis is the fact that what 
+    does not exist for a particular person or people, does not feature 
+    in their speech and has no name or meaning for them (Udofot 
+    2004:.136). What this means is that object to which humans 
+    refer in their utterance have meaning only when they are within 
+    their knowledge. They may not necessarily be objects that exist. If 
+    such objects are mentioned outside the knowledge of the hearer(s), 
+    it brings a serious problem in its analysis.
+In the same vein, absence of the shared knowledge, as well as 
+    the beliefs, conventions and presuppositions between the speaker 
+    and the hearer can cause a very serious problem in the analysis of 
+    the meaning of a given utterance. The presence of these contextual 
+    features is important for a proper interpretation of an 
+    utterance.
+Another problem associated with meaning analysis is subjectivity 
+    and introspection of concepts. It is difficult to have objective 
+    meaning of words and utterances if everyone has to look into the 
+    mind. Haas (1973:.20) said 'an empirical science 
+    like linguistics cannot be content to rely on a procedure of 
+    looking into their minds; each into his own". Also, 
+    some theories define meaning in terms of "symbol - Image - 
+    Referent relationships" which only apply to concrete things 
+    not obstructions. For instance, one cannot see the mental picture 
+    of liberty, air; courage 
+    courage and so on.
+Moreover, the fact that people have different ideas about things 
+    is a problem in meaning analysis. Udofot (2004) has it that "a 
+    well described picture can be perceived differently by different 
+    people depending on their intellectual capacities, power of 
+    imagination and backgrounds ( p62). 
+    A person who has not experienced an eclipse of the sun can never 
+    arrive at having a clear image of it no matter how well it is 
+    described. Potter (1957) in his summation had it "that 
+    many people think through movements, gestures, ritual acts and many 
+    other ways instead of seeing with the mind's eye.
+Also, not all concepts are observable. This is viewed as a 
+    problem in meaning analysis. As earlier stated, abstract nouns for 
+    instance, are not observable. To explain a word like 
+    "nice" one would say something like 
+    beautiful, hand 
+    some, charming," assuming that the 
+    hearer already knows in his mind the meaning of these words. In 
+    doing this one has to go to the mental bank where the meanings of 
+    the words used in explaining another word are stored.
+Furthermore, interpreting meaning based on the 
+    in image visualized by the hearer is a 
+    shortcoming in meaning analysis. Here meaning is conceptualized in 
+    terms of the image that a particular object calls up in the mind 
+    which is associated with the world. The image conceptualized may be 
+    false. For instance, the difference between a hen and duck can 
+    easily be visualized by calling up their images but scientifically 
+    one would have to resort to descriptions using such terms as + LONG 
+    NECK (Udofot 2004:.142).
+It could also be however established as a problem the situation 
+    where propositions vary depending on the time and place of 
+    utterance. This means that every utterance occurs in a particular 
+    spatio-temporal situation (Lyons; 1968:.413). This consist of 
+    the speaker, the time of speech, the person spoken to, the action 
+    of the speaker and hearer at the time and the other object and people also present. Lack of knowledge of all these can 
+    seriously hamper meaning analysis.
+Finally, a problem is viewed where many expressions used in 
+    natural languages do not have single referents. For instance, the 
+    expression "that young-man is my brother". One cannot 
+    maintain whether a true or false proposition is expressed without 
+    considering who the speaker and the reference. Also one may not 
+    actually know the extent of relationship between the speaker and 
+    the referent. Is he a biological brother, cousin, a male family 
+    member or member of the same denomination?
+A CURRENT THEORY WHICH HAS REASONABLY ADDRESS THESE 
+    PROBLEMS.
+A current theory recommended which has reasonably address the 
+    above stated problems associated with the analysis of meaning in 
+    natural languages is the pragmatic theory. Pragmatics according to 
+    Levinson (1983:.24) is the "ability of language 
+    users to pair sentences with the context in which they would be 
+    appropriate". Pragmatics has a 
+    "user-centred" description of language.
+Pragmatics theory enables one to interpret not only the literal 
+    meaning of an utterance but also the meanings that 
+    drive from the nouns of formality 
+    and politeness. This formality exists in the environment where the 
+    language is used couple with the unstated meanings gotten from the 
+    shared previous knowledge of the speaker and the situation in which 
+    the utterances are used. Pragmatics is a recommended theory because 
+    it is eclectic in nature. This means that it is all encompassing. 
+    It incorporates the dimensions of context, concept, culture, 
+    deixis, presuppositions, implicatures, besides paralinguistic 
+    features in the interpretation of meaning. Pragmatics more or less 
+    gives a comprehensive analysis. Pragmatics takes into account both 
+    observationble 
+    and unobservable aspects of a language events. According to Ndimele 
+    (1997:.117) it cuts across "the choices the users make, 
+    the constraints they encounter in using their language for social 
+    interaction and the effect their use of language has on other 
+    participants".
+CONCLUSION
+The paper looks at the problems associated with the analysis of 
+    meaning in natural language. The 
+    problems cut across graded boundaries, ambiguity, absence of 
+    objects in a particular society; absence of shared knowledge, 
+    beliefs, convention, subjectivity and introspection, perception, 
+    multiple referents for a particular object among others. Pragmatics 
+    has been discussed as a current theory which has reasonably 
+    addressed these problems.

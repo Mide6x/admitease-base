@@ -1,0 +1,35 @@
+AN IMPROVED SOLAR CABINET DRYER WITH NATURAL CONVECTIVE HEAT TRANSFER
+
+INTRODUCTION
+Solar energy is increasingly considered as an alternative energy source due to the rapid depletion of conventional energy sources such as thermal, chemical, and petroleum energy. The desire to harness the cost-effective and readily available solar energy, as well as to address the limitations of open sun drying processes, has led to the development of solar drying systems aimed at enhancing existing food and agricultural preservation techniques.
+
+Dehydration or drying is a simple and cost-effective method to preserve crops that would otherwise spoil. Drying food crops is energy-intensive, and the rise in fossil fuel prices and shortages have emphasized the need to explore solar energy as an alternative source. In tropical countries like Nigeria, where sunlight is abundant, natural sun drying is a commonly used method. Drying is typically done by exposing food crops directly to solar radiation to reduce moisture content, preserve nutritional quality, and prevent contamination by mold and insects. While the traditional sun drying method is widely practiced, it can be slow and incomplete under unfavorable weather conditions, leading to issues like dust, dirt, and insect infestation.
+
+Bamiro (1983) introduced a new formula for calculating solar radiation, showing good agreement when applied to analyzing annual insolation on a seasonal basis. This formula predicted a linear relationship between daily diffuse radiation and total radiation, with a higher diffuse component compared to traditional models, especially in tropical regions. Fagbenle (1990) and (1993) studied solar radiation in Nigeria, highlighting the variation in solar intensity and recommended methods for estimating total solar radiation. The optimal collector tilt angle for Nigerian sites with latitudes of 8.5°N or less is (latitude angle + 10°), while for latitudes greater than 8.5°N, it is (latitude angle + 5°) (Fagbenle, 1991).
+
+The essential drying parameters for bed drying methods include the temperature and relative humidity of the drying air, airflow rate, and bed depth in the drying chamber. These parameters determine the speed and efficiency of drying inside the solar cabinet dryer (Basunia and Abe, 2001).
+
+Lasode (1999) designed a solar dryer with a collector capable of transmitting 125W/m2 thermal power to the drying air, raising the air temperature from 30°C to 45°C and reducing relative humidity from 80% to 34%. Tests revealed that while samples dried faster in the open sun initially, the solar dryer showed better drying rates in later stages, resulting in samples with no mold formation, lighter color, and improved taste compared to open sun drying.
+
+The focus of this study is to enhance Lasode's work by increasing the bed depth, improving airflow rate with better ventilation, and increasing the thermal power of the drying air, aiming to optimize the dehydration process in the solar cabinet dryer.
+
+PSYCHROMETRY AND DRYING PROCESS
+Considering ambient air at TA = 27°C and relative humidity (R.H) ΦA = 70% in Ilorin, Nigeria (8.462°N), the psychrometric chart indicates that heating the air to TB = 53°C would reduce its relative humidity to about ΦB = 16%. If this heated air is used to remove moisture from blanched yams with 60% moisture content until an equilibrium relative humidity of Φc = 80% is reached, the drying air temperature would decrease to Tc = 32.5°C.
+
+Drying with heated air at a constant rate follows a constant wet bulb process, with the absolute humidity changing from 0.016 to 0.0254. The humidity ratio change for heated air ΔWH is 0.0094, indicating that each kilogram of dry air entering the dryer would pick up 0.0094 kg of water. In contrast, the humidity ratio change for unheated air ΔWC is 0.0007, showing that heated air is significantly more effective for dehydration.
+
+The energy balance equation for the drying process considers the mass of water evaporated from the sample, the initial and final temperatures of the drying air, the specific heat capacity of air, and the latent heat of vaporization for free water at 32°C.
+
+DESIGN CONSIDERATIONS
+When designing a solar cabinet drying system, several points are considered:
+(a) Amount of moisture to be removed (MR) from a given crop quantity to achieve a desired storage moisture content within a specified time.
+(b) Total drying time, determined by the daily sunshine hours available for drying. The average drying rate is calculated based on the mass of moisture to be removed and the drying time.
+(c) Quantity of air needed for drying, which can be calculated using the energy balance equation or a psychrometric chart.
+(d) Daily solar insolation and the necessary energy for the solar cabinet dryer, crucial for determining the collector area required to capture solar energy efficiently.
+(e) Air pressure head and airflow velocity, essential factors affecting natural convection heat transfer.
+(f) Thermal power (collector heat flux) calculation based on the efficiency of the collector and the daily solar heat flux.
+
+CONSTRUCTION OF THE SOLAR DRYER
+The schematic diagram of the prototype solar cabinet dryer designed for experimental testing is shown in Figure 2. The construction aims to achieve good air circulation, enhance absorbent properties, and increase the solar collector area. Locally available materials are used for construction, making it suitable for domestic manufacturing. The solar cabinet dryer features a rock storage system, drying chamber, air intake and discharge vents, and a glass collector.
+
+The solar collector, made of double-layer transparent glass with high transmittance and thermal conductivity, helps trap sunlight and minimize heat loss. The two side panels, also made of double-layer transparent glass, serve to concentrate heat into the drying chamber, act as an inspection port for monitoring temperature and humidity, and improve heating efficiency.

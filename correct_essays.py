@@ -2,12 +2,14 @@ import os
 import shutil
 import re
 from transformers import T5Tokenizer
-import openai
+# import openai
+from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
-openai.api_key = os.getenv('OPEN_AI_KEY')
+# openai.api_key = os.getenv('OPEN_AI_KEY')
+client = OpenAI()
 
 def ensure_directories():
     """Create 'wrong' and 'corrected' directories if they don't exist"""
@@ -17,8 +19,9 @@ def ensure_directories():
 def correct_essay(text):
     """Correct grammar, punctuation, and translate non-English text to proper English"""
     try:
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+        # response = openai.Completion.create(
+        response = client.chat.completions.create(
+             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a professional essay editor. Correct grammar, "
                  "punctuation, and translate any non-English text (including pidgin) to proper English. "

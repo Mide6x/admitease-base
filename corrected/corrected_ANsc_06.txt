@@ -1,0 +1,27 @@
+ABSTRACT
+
+Concentrations of trace metals such as lead, iron, copper, and zinc were assessed in crops harvested in various oil prospecting locations in Rivers State, Nigeria. The locations studied were Agbada-Aluu (AA), Ebocha (EB), Idu Ekpeye (IE), Obagi (OB), and Trans Amadi Layout (TA), with the Teaching and Research Farm of Rivers State University of Science and Technology, Port Harcourt, serving as the control. The crops examined included cassava (Manihot esculenta), cocoyam (Colocasia esculenta), okra (Hibiscus esculentus), pumpkin leaves (Telfairia occidentalis), and waterleaf (Talinum triangulare). The study revealed varying concentrations of lead across the different crops, with industrialized areas showing higher trends. Iron concentrations ranged from 40 µg/g in cassava to 651 µg/g in pumpkin leaves from TA, indicating significant pollution in industrial zones. Copper concentrations varied from 4.4 µg/g in cocoyam to 23 µg/g in pumpkin leaves, with pumpkin leaves having the highest copper content. Zinc concentrations ranged from 29 µg/g in cocoyam to 240 µg/g in pumpkin leaves, with pumpkin leaves and okra containing the highest levels. The findings suggest elevated metal concentrations in crops from industrialized areas, raising concerns for human and animal health due to potential bioaccumulation of heavy metals.
+
+INTRODUCTION
+
+Recent years have seen a rise in environmental issues due to increased human activities, including industrialization, overpopulation, and rising temperatures. Oil prospecting and other industries contribute to pollution through gas flares, oil spills, and industrial effluents, impacting both aquatic and terrestrial ecosystems. Rivers State, situated in the Niger Delta region of Nigeria, experiences significant industrial activities, particularly in petroleum refining and production, accounting for a substantial portion of industrial operations in the region. Petroleum refineries produce various pollutants that contaminate the air, water, and soil, posing risks to nearby communities. The disposal of hazardous wastes from these industries, coupled with rapid industrialization and intensive agriculture, has led to environmental degradation, pollution, and reduced crop productivity, raising concerns for human and animal health.
+
+Heavy metals such as lead, cadmium, and mercury, commonly found in industrial discharge, pose health risks as they accumulate in organisms over time. Lead intoxication is linked to neurological issues, renal dysfunction, and anemia, highlighting the dangers of heavy metal exposure. Soil characteristics play a role in heavy metal absorption by plants, influencing their accumulation levels. Understanding the distribution of metals in crops from industrial areas is vital for assessing potential health risks associated with heavy metal exposure. This study aims to investigate the concentrations of lead, iron, copper, and zinc in food crops harvested in oil prospecting and industrial zones of Rivers State, Nigeria.
+
+MATERIALS AND METHODS
+
+Study Location: The research was conducted in various locations, including oil prospecting areas such as Agbada (Aluu), Ebocha, Idu Ekpeye, Obagi, Trans-Amadi Industrial Layout, and Rivers State University Teaching/Research Farm. Different crops were harvested from these locations for metal analysis.
+
+Collection of Samples: Commonly consumed staples and vegetables including cassava, cocoyam, pumpkin leaves, waterleaf, and okra were harvested at peak season for metal analysis. Samples were collected from multiple farms within each location and transported to the laboratory for processing.
+
+Preparation of Samples: The harvested crops were cleaned, dried, milled, and sieved before analysis to ensure accurate metal concentration measurements.
+
+Determination of Metals: Metals were analyzed using Atomic Absorption Spectrophotometry after digestion of the plant samples. Standard solutions of lead, iron, copper, and zinc were used for calibration, and metal concentrations in the samples were calculated based on absorbance readings.
+
+STATISTICAL ANALYSIS
+
+Statistical analysis was performed using analysis of variance (ANOVA) to assess the differences in metal concentrations among the samples. The least significant difference (LSD) method was used to determine significant variations at a 5% level of significance.
+
+RESULTS
+
+Lead concentrations varied across the crops and locations, with industrial areas showing higher levels. Cassava, cocoyam, okra, pumpkin leaves, and waterleaf exhibited different lead concentrations, with pumpkin leaves from TA having the highest lead content. The findings provide insights into the distribution of heavy metals in food crops from industrialized regions, emphasizing the potential health risks associated with heavy metal exposure.

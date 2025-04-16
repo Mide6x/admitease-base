@@ -1,0 +1,277 @@
+THEORETICAL APPROACHES IN SOFTWARE COMPLEXITY 
+    METRICS
+INTRODUCTION
+In software engineering, attempt is usually made to design and 
+    develop workable computer-based solutions for problem solving 
+    tasks. The workability and reliability of the emerging computer 
+    based systems (or solutions) depend on the associated software. The 
+    understanding of the original problems (or tasks) by software 
+    engineer will influence the workability and reliability of the 
+    software design for the problems. The software engineer’s 
+    understanding of the original problems depend on how the problems 
+    are structured. A simple and well structured problem (task) may 
+    hinder designer’s full understanding of the problem and hence lead 
+    to inappropriate and incomplete solution. Faults in software do 
+    arise from design phase (i.e. design errors), 
+    improper modification or transient hardware errors which corrupt 
+    the stored program. Errors in software design most often arise from 
+    the complexity of problem. Thus, it has been asserted that 25% 
+    increase in problem complexity would lead to 100% increase in 
+    emerging program or software complexity (Woodfield, 1989).
+Markusz and Kaposi (1985) noted the growing awareness of the 
+    high risk and excessive cost associated with poor-quality complex 
+    software design. Maintenance of large scale complex software 
+    systems is a very expensive, time consuming and error prone 
+    activity. Hence, research into software complexity measurement, as 
+    a means of understanding how to control the degree of complexity of 
+    software design and development, has emerged.
+In this paper, attempt is made to examine the theoretical issues 
+    involved in software complexity metrics. To this end, we shall be 
+    examining the following in the subsequent sections:
+i. Meaning of and need for software complexity metrics.
+ii. Forms of software complexity
+iii. Methods of dealing with problems of software complexity
+iv. Review of existing methods of measuring software 
+    complexity
+v. Summary and conclusion
+1.2 MEANING OF AND NEED FOR SOFTWARE
+COMPLEXITY METRICS
+By software complexity metrics we refer to measures of the 
+    error-prone of the software development process, the ease of 
+    debugging and modification (Potier et al. 
+    (1982); Rault (1979); Schneidewind and Hoffmann (1979) 
+    ). The need for the fact that in 
+    seeking solution to a problem, there are many factors that designer 
+    needs to consider, namely; performance, reliability, availability, 
+    adaptability, maintainability and complexity. Of all these factors, 
+    complexity impinges on many of these other factors especially 
+    maintainability and dependability. The aim of software complexity 
+    metrics therefore is to seek for ways of reducing faults in 
+    software design and development and promotes the efficiency, 
+    reliability and maintainability of software. To this end it has 
+    been observed that there is much more to good software design than 
+    knowledge of programming language. Structured programming and the 
+    various software design methodologies therefore seek to control 
+    software quality by imposing a discipline on the designer which 
+    controls the complexity of design tasks and supplements the rules 
+    of the programming language. (Markusz et al, 
+    Op.cit.).
+1.3 FORMS OF SOFTWARE COMPLEXITY
+Curtis et al (1979) proposed two types of 
+    software complexity: computational and psychological.
+By computational complexity we refer to the quantitative aspects 
+    of the algorithm which solves a given problem, estimating the speed 
+    of the execution of a program. Psychological complexity on the 
+    other hand measures the difficulty of the processes of design, 
+    comprehensive maintenance and modification of the program 
+    itself.
+Furthermore two levels of software complexity have also been 
+    identified, viz; internal and external 
+    complexity. Internal complexity of software looks at the kind of 
+    interaction within each module of the software while the external 
+    complexity of a software is the amount of interaction a module has 
+    with its environment which is defined by other modules. Thus the 
+    overall complexity of a system is made up of both the internal 
+    complexity of each module and the external complexity due to module 
+    interrelationships (See Lew, et al, 988).
+Ramamoorthy et al, (1985) also identified two 
+    levels of complexity of software, namely; the sequential complexity 
+    and complexity due to concurrency. The authors went further to say 
+    that for distributed program, which realises concurrency by 
+    parallel execution of separate task communication, the program 
+    complexity consists of two components, namely 
+    ; local complexity and communication complexity. By local 
+    complexity we refer to the complexity of the individual tasks, 
+    disregarding their interactions with other tasks. The communication 
+    complexity on the other hand reflects the complexity of the 
+    interaction among the tasks. The two levels of complexity 
+    identified by Ramamoorthy et al (1985) are akin 
+    to the two forms of complexity identified by (Lew, et 
+    al., 1988).
+1.4 METHODS OF DEALING WITH PROBLEMS OF SOFTWARE 
+    COMPLEXITY
+There are problems associated with developing reliable software 
+    for large systems. In dealing with problems of complexity of 
+    software design, two methods are usually considered, namely 
+    ;
+a) the divide and conquer technique (DCT), and
+b) software fault tolerant technique (SFTT).
+In divide and conquer technique, attempt is made to decompose 
+    the original problem into sub-programs with well defined 
+    interactions, leading to a structured design. The aim is to control 
+    the degree of complexity the designer has to deal with. The use of 
+    software fault tolerant techniques requires addition of software 
+    redundancy such as n-version programme and recovery blocks. 
+    However, it has been observed that the use of any software fault 
+    tolerant technique (SFTT) could cause a conflict between software 
+    reliability and complexity, and possibly reduces software 
+    reliability.
+1.5 REVIEW OF EXISTING SOFTWARE COMPLEXITY 
+    METRICS
+The earliest attempts at measuring software complexity date back 
+    to the work of Dijkstra (1968). Dijkstra (op.cit) observed 
+    that the quality of program is a decreasing function of the density 
+    of go to statements found in it. Hence, a very 
+    simple measure of software complexity is the number of go 
+    tos in a program. This was observed as an inappropriate 
+    measure of unstructuredness for some languages like FORTRAN, but 
+    can be used for ALGOL type of language. However, it has been noted 
+    that go tos are essential ingredient for 
+    writing structured FORTRAN (Neely, 1976).
+Gilb (1977) observed that logical complexity is a measure of the 
+    degree of decision making within a system and that the number of 
+    If statements is a rough measure of this 
+    complexity. Farr and Zagorski (1965) found this metric to be a 
+    significant factor in predicting software cost. It were opined that 
+    it is reasonable generally to count not only the ifs but all the 
+    branch creating statements (decision points) in a program.
+McCabe (1976) adopted a different approach to software 
+    complexity measure. He developed a theory based on the modelling of 
+    programs as directed graphs. The complexity of the program was then 
+    said to be measurable by the cyclomatic complexity of the digraph. 
+    The original formulation of McCabe’s theories was said to lack 
+    rigour.
+In 1979, Woodward et al, examined two 
+    measures of complexity, namely; the Knot count and McCabe’s 
+    cyclomatic number. A knot is defined by drawing an arrowed line on 
+    one side of the program text, indicating where a jump occurs from 
+    one line of text, to another line of the program text. This was 
+    demonstrated using a FORTRAN program. A knot is stated 
+    mathematically as follows: If a jump from line a to line b is 
+    represented by the ordered pair of integers (a,b), then jump (p,q) 
+    gives rise to “knot” or crossing point with respect to jump (a,b) 
+    if ;
+
+By counting the number of “knots” in a program a measure of 
+    complexity can be obtained. It has been observed that the use of 
+    knot count as a measure of complexity is simpler in FORTRAN 
+    programs because FORTRAN language is a language with one statement 
+    per line. For the programming languages which permit many 
+    statements per line, the number of knots becomes ill-defined, 
+    except the programs are reformatted.
+An incidence matrix corresponding to the directed graph was also 
+    proposed as a measure of knots in a program from the lower and 
+    upper bounds. Thus for a directed graph with (i,j) edge, where 
+    i>j or i<j and p= min (i,j) and q = max (i,j), the lower 
+    bound can be obtained by counting the number of entries to nodes 
+    strictly between p and q to nodes strictly outside the range p to 
+    q, and also the number of exits from nodes strictly between p and q 
+    to nodes strictly outside the range p to q. The upper bound can be 
+    obtained by adding into the count number of nonzero elements if 
+    i<j and if i>j. The number of knots in a program is dependent 
+    on the ordering of the statements in a program. The authors came up 
+    with knot count of
+
+to simulate an n-way case using the computed GO TO.
+The authors also found an interesting link between knot count 
+    and cyclomatic complexity measure V(G) of McCabe (1976). Using a 
+    directed graph concept, a program is first represented in directed 
+    graph and then the McCabe’s cyclomatic complexity is estimated as 
+    follows:
+.
+This was shown to be equal to the number of predicates (i.e. decision points) in the program plus one. Using a 
+    sample of 26 FORTRAN subroutines from a numerical algorithms 
+    library, the author concluded that the knot count provides a much 
+    clearer indication of program readability while the cyclomatic 
+    complexity V(G) is usually greater then the number of knots.
+Kaposi et al, (1979) measured the complexity 
+    of PROLOG programs. PROLOG is a language based on first order 
+    predicate logic, in which the specification of the problem and the 
+    means of realising the solution can be expressed. The rules of the 
+    PROLOG language demand the explicit statement of the problem on 
+    hand, and the composition of the solution as a strict hierarchical 
+    structure of related and explicitly specified parts called 
+    partition. Each partition could be considered as an autonomous 
+    entity, hence the complexity of the designer’s task could be 
+    related to the local complexity of partitions rather than to the 
+    global complexity of the PROLOG programs as whole.
+The complexity of a partition appears to depend on the data 
+    relating it to its environment, the number of subtasks within it, 
+    the relationships among subtasks, and the data flow through the 
+    structure. Local complexity was then expressed as a function of 
+    these four arguments as parameters. The complexity function was 
+    considered as the unweighed sum of the complexity parameters as 
+    follows
+.
+The partitions were sorted into four complexity bands according 
+    to the value of their complexity function as follows:
+
+Later development showed a deficiency of the complexity function 
+    of the equation formulated by Kaposi et al 
+    (op. cit) in capturing all of the aspects of task 
+    complexity. Thus, Markusz and Kaposi (1985) proposed the 
+    introduction of new parameters into the complexity function of the 
+    earlier equation. The proposed complexity function then became 
+    .
+
+From their experiment they found out the new measure represent a 
+    considerable improvement in quantifying the difficulty of design 
+    tasks. They concluded by saying that the complexity measures 
+    proposed could be applied in two ways;
+i) to prevent errors, controlling the quality of newly designed 
+    software as a means of quality assurance, to detect the areas of 
+    potential design weakness in existing software; and
+ii) to guide the process of reconstruction into functionally 
+    equivalent but complexity controlled firm.
+Shatz (1988) proposed complexity measure for distributed 
+    software using Ada as a programming language for implementation. 
+    Reviewing the previous work of complexity metric on Ada (see Gannon 
+    et al, 1986, Bombach and Basili, 1987); the 
+    author observed that none of the existing research then has 
+    explicitly considered the concurrency features of Ada languages. 
+    Shatz (op.cit) opined that for distributed program, which 
+    realises concurrency by parallel execution of separate tasks and 
+    which constrain the concurrency by introducing task communication, 
+    the program complexity consists of two components, local complexity 
+    (LC) which reflects the complexity of the individual tasks, 
+    disregarding their interactions with other tasks; and communication 
+    complexity (CC) which reflects the complexity of the interactions 
+    among the tasks. Hence, a distributed program’s complexity (TC) was 
+    then formulated as:
+.
+The communication complexity metric was based on counting the 
+    number of communication statements in the program. For Ada program, 
+    this implies counting the number of Entry call statements and 
+    Accept statements. Hence, this metric was found to correspond to 
+    McCabe’s cyclomatic metric which counts decision points. For local 
+    complexity the knot, count metric, which examines the relations 
+    between the decision points, was introduced. Lew et 
+    al, (1988) realised the existence of many internal 
+    complexity measures which have proved useful in software design. 
+    The author then aim at developing an external complexity measure. 
+    An external complexity metric of a program measures the amount of 
+    interaction between a module and its environment. This is expressed 
+    as
+
+which is the sum of interaction between module i and the other 
+    modules j, i + j;
+where; Ci = external complexity of a 
+    module i
+TICij = total information content of the 
+    message from i to j, and
+TICji = total information content of the 
+    message from j to i.
+However, the overall complexity of a system is made up of both 
+    the internal complexity of each module, and the external complexity 
+    due to module interrelationship. Thus, the complexity of a module 
+    (Mi) in a system is the weighted sum of the 
+    internal and external complexities, Ki and 
+    Ci
+respectively, i.e.
+.
+In attempt to evaluate software complexity measures, Weyuker 
+    (1988) outlined a set of nine desirable syntax properties. Four of 
+    the complexity measures were subject to evaluation based on the 
+    properties. The tested complexity measures include the number of 
+    program statements, McCabe’s cyclomatic number, Halstead’s 
+    programming effort and knot measure. The last metric was ignored on 
+    the ground that the knot measure of any structured program is zero, 
+    as use was made of structured programming language for 
+    implementation. The statement count as a measure of program 
+    complexity is the number of program statements. This was considered 
+    very simple way of computing program complexity. The McCabe’s 
+    cyclomatic number defines the complexity of a program as
+.
+Halstead’s programming effort in defining the program complexity 
+    first of all defined the following terms:
+

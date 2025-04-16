@@ -1,0 +1,60 @@
+MWEB Introduces HN 7740S with VoIP
+MWEB Nigeria has introduced another innovation, the new Hughes 
+    HN 7740S modem to the Nigerian market.
+A statement made available to THISDAY disclosed that the Hughes 
+    HN 7740s modem is a high-performance broadband satellite router 
+    with many technologically advanced features including Voice over 
+    Internet Protocol (VoIP), support broadband over satellite data 
+    capabilities and advanced compression techniques to ensure optimal 
+    data transmission.
+Another key feature of the HN 7740S modem is that it is highly 
+    resilient to changing weather conditions automatically adapting to 
+    conditions to ensure optimal performance regardless of weather 
+    conditions.
+MWEB Nigeria VSAT Manager, Dotun Faseru said “The HN 7740S 
+    enables applications such as Telephony connectivity for remote 
+    branch offices, VOIP services for small to medium enterprise, with 
+    combined payphone and internet connectivity, High speed 
+    internet/intranet access, Video services including remote site 
+    security monitoring, diverse satellite backup of primary broadband 
+    access, interactive distance education with two-way VOIP 
+    connectivity and real time multimedia streaming and large file 
+    content distribution”.
+The HNS DW7740DVB-S2 modem used by MWEB is VOIP ready and comes 
+    with two useable voice ports, therefore no additional Voice 
+    Appliance equipment will be required, unless the customer requires 
+    more than two iWay VOIP telephone lines, over the PingTone 
+    platform.
+MWEB stressed that it has competitively positioned this new 
+    product against other VoIP service providers and reiterates that 
+    its VoIP service is cost efficient and affordable to large 
+    corporate customers and small business users. It enables a clear 
+    quality voice call through its QoS function, and guarantees enough 
+    bandwidth for its voice channel on a dedicated bandwidth.
+It also provides unsurpassed performance for even the most 
+    bandwidth – intensive applications, allowing both voice and data 
+    applications to work seamless with each other over the same 
+    satellite connection.
+The HN 7740S has the flexibility to handle a wide range business 
+    IP Networking requirements for large scale businesses, with the 
+    support of two simultaneous LAN subnets and two-wire simultaneous 
+    foreign exchange subscriber (FXS) analog voice ports; thus allowing 
+    for a clear and quality voice call.
+MWEB Nigeria’s NOC has an inbuilt Adaptive Coding Modulation 
+    (ACM) on the outbound channel to allow it gain significant 
+    bandwidth efficiencies and provide high availability services as 
+    well, especially during unfavorable weather conditions. Once MWEB’s 
+    NOC sense a signal degration on the modem it sends more power to 
+    the modem automatically so as not to lose the connection and as 
+    such MWEB’s clients’ would still be working optimally during 
+    rainstorms; thus providing customers with unsurpassed network 
+    connectivity throughout the day.
+MWEB Nigeria GM John Ugbe said “Customers can now receive 
+    incoming calls from any voice network including fixed telephone 
+    lines and GSM lines. This will also enable our business customers 
+    to send facsimile (fax) documents using conventional fax equipment 
+    on the iWay VOIP line making business efficiencies smoother. Each 
+    line activated on iWayVAP (voice appliance) will be assigned a 
+    number and all calls originated from iWayVAP will display the 
+    caller’s identity to enable customers to see beforehand who is 
+    calling them”, he concluded.

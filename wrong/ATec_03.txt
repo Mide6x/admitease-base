@@ -1,0 +1,261 @@
+Adsorption kinetics and intraparticulate diffusivities of 
+    Hg, As and Pb ions on unmodified and thiolated coconut 
+    fiber
+ABSTRACT: As, Hg and Pb are examples of heavy metals which are 
+    present in different types of industrial effluents responsible for 
+    environmental pollution. Their removal is traditionally made by 
+    chemical precipitation, ion-exchange and so on. However, this is 
+    expensive and not completely feasible to reduce their 
+    concentrations to the levels as low as required by the 
+    environmental legislation. Biosorption is a process in which solids 
+    of natural origin are employed for binding the heavy metal. It is a 
+    promising alternative method to treat industrial effluents, mainly 
+    because of its low cost and high metal binding capacity. The 
+    kinetics was studied for biosorption experiments using coconut 
+    fiber for As (III), Hg (II) and Pb (II) ions adsorption. The 
+    specific surface area and surface charge density of the coconut 
+    fiber are 1.186x1025 
+    (m2/g) and 5.39 
+    x1O24 
+    (meq/m2), respectively. The maximum 
+    adsorption capacity was found to be the highest for Pb (II) 
+    followed by Hg (II) and As (III). The modification of the adsorbent 
+    by thiolation affected the adsorption capacity. Equilibrium 
+    sorption was reached for the metal ions at about 60 min. The 
+    equilibrium constant and free energy of the adsorption at 30 
+    0C were calculated. The mechanism of 
+    sorption was found to obey the particle-diffusion model. The 
+    kinetic studies showed that the sorption rates could be described 
+    by both pseudo first-order and pseudo second-order models. The 
+    pseudo second-order model showed a better fit with a rate constant 
+    value of 1.16 x 10-4/min. 
+    for all three metal ions. Therefore, the results of this study show 
+    that coconut fiber, both modified and unmodified, is an efficient 
+    adsorbent for the removal of toxic and valuable metals from 
+    industrial effluents.
+Introduction
+As, Hg and Pb have detrimental effects on human, plants and 
+    animals. The toxicity of these heavy metals to marine life and 
+    consequently to man has been established for many years. The 
+    sources of As pollution come from discharges of various industries, 
+    such as smelting, petroleum-refining, pesticides, herbicide, glass 
+    and ceramic manufacturing industries (Volesky and Holan, 1995). Pb 
+    pollution particularly results from battery manufacturing, 
+    automobile exhaust fumes and metal finishing industries. Hg 
+    pollution results from metallurgical industries, chemical 
+    manufacturing and metal finishing industries. Other sources of 
+    these heavy metals also exist and these have increased as a result 
+    of an increase in urbanization and industrialization. The chemistry 
+    of these heavy metals is complex and interesting, especially when 
+    they find their way into human metabolism. For example, the 
+    oxy-anions of arsenate (V) exist in four different arsenate species 
+    as H3AsO4 
+    H2AsO4-, 
+    HAsO42- and 
+    AsO43- in the pH 
+    range <2,3-6,8-10 and >12, respectively (Igwe, et 
+    al., 2005a, Sadiq, 1997). Hg in the liquid form is 
+    not dangerous and it is used in a number of industries. In the 
+    vapour form, Hg becomes very poisonous. It attacks lungs, kidneys 
+    and brain. The vapour crosses blood brain barrier and gets oxidized 
+    in brain and blood stream. As affects the skin, causing skin cancer 
+    in this most severe form. A massive outbreak of arsenical 
+    dermatosis, observed in some parts of west Bengal state of India, 
+    is linked to high levels of As in tube well water (0.2-2.0 mg/L) (Muhan and Agrawal, 2006; Namasivayam and 
+    Senthilkumar, 1998). Pb is a heavy metal poison which forms 
+    complexes with oxo-groups in enzymes to affect all steps virtually 
+    in the process of hemoglobin synthesis and porphyry metabolism 
+    (Ademorati, 1996). The incidence of these heavy metal occurrences 
+    in wastewater and the above implications has resulted in research 
+    on the treatment and/or recovery of these heavy metals from 
+    wastewater. The treatment of effluent water from industries and 
+    other sources can be achieved through adsorption techniques. 
+    Sorption or the removal of toxic or heavy metals from aqueous 
+    effluent has been extensively studied in recent times. The use of 
+    conventional methods has been reported such as activated carbon or 
+    activated alumina (Shim, et al., 2001; 
+    Ouki, et al., 1997; Monser and Adhoum, 
+    2002) and so on. Also, the use of the ion exchange resins and 
+    precipitation methods has been the most efficient and effective 
+    method for removing heavy metals from aqueous effluents, but these 
+    are very expensive. As a result of the expensive nature of the use 
+    of the conventional methods, researches have recently focused on 
+    the use of non-conventional agricultural by-products and adsorbents 
+    of biological origin. These adsorbents are abundant and relatively 
+    cheap. These adsorbents have been used in the adsorptive removal of 
+    heavy metals such as maize cob and husk (Igwe and Abia, 2003; Igwe, 
+    et al., 2005b), sunflower stalks (Gang 
+    and Weixing, 1998), chemically modified and unmodified cassava 
+    waste biomass (Abia, et al., 2003), 
+    sawdust (Igwe, et al., 2006), bacterial 
+    algal (Volesky and Holan, 1995, Figurerira, et 
+    al., 2000), fungal biomass (Guibal, et 
+    al., 1992), chitosan and N-carboxymethyl chitosan 
+    (Guibal, et al., 1998 ; Ngah and Liang, 
+    1998), Pillared clay (Vinod and Anirudhan, 2001), sago waste (Quek, 
+    et al., 1998), banana pith (Low, 
+    et al., 1995), sawdust (Raji and 
+    Anirudhan, 1997), Medicago sativa (Alfalfa) (Gardea-Torresdey, 
+    et al., 1998), spagnum peat moss (Ho, 
+    et al., 1995) and so on. In the present 
+    study, the kinetics of sorption of Hg (II) As (III) and Pb (II) 
+    onto modified and unmodified coconut fiber was studied at the 
+    optimum pH 7.5 and the temperature 30 
+    0C. The fractional attainment to the 
+    equilibrium (FATE), the mechanism of sorption, the equilibrium rate 
+    constant, the order of the reaction and hence the standard 
+    Gibbs-free energy for the reaction at 30 
+    0C were established. The adsorbent was 
+    modified by thiolation to find the effect of modification on the 
+    adsorptive capacity of the adsorbent.
+MATERIALS AND METHODS
+All of the used reagents were analytical grade, purchased and 
+    applied without further purification. The coconut used was obtained 
+    from a local market in Okigwe, Imo State Nigeria. The fibrous part 
+    was removed, crushed in a mill, washed with de-ionized water and 
+    air-dried. This was sieved to different sizes and activated with 2% 
+    (v/v) nitric acid for 24 h., washed with de-ionized water 
+    and air-dried. The air-dried adsorbent was divided into two parts, 
+    one part was modified and the other left unmodified. The surface 
+    characteristics of the unmodified coconut fibre were carried out by 
+    the method of Santamarina, et al., 
+    (2002). Parameters such as specific surface area 
+    (SAA), surface charge density (SCD), pH of 
+    slurry, bulk density, pore volume, particle density, porosity, 
+    particle size and cation exchange capacity (CEC) were determined. 
+    The specific surface area was determined by the methylene 
+    absorption test method. The bulk density was determined as the 
+    ratio of the bulk mass of the test sample to its bulk volume. The 
+    cation exchange capacity was determined by the ammonium acetate 
+    saturation method. An initial metal ion concentration of 2000 mg/L 
+    was prepared for the three metal ions. To determine the effect of 
+    contact time, a 2 g sample of the coconut fiber (half modified and 
+    half unmodified) was put into a 100 mL solution of the metal ion of 
+    initial concentration of 2000 mg/L. Different samples were left to 
+    stand for 10, 20, 30, 40, 50,60 and 120 min. at a pH 7.5 and a temperature of 29 0C. At the 
+    end of each time, the samples were filtered rapidly and the metal 
+    content of the filtrates determined using a UNICAM 919 solar atomic 
+    absorption spectrometer (AAS). The blank solutions were also 
+    prepared and analyzed. The amounts of the metal ions adsorbed were 
+    found by the difference in the average results of triplicate 
+    readings. The intra-particulate diffusivities were then calculated. 
+    The development of the used particle sizes and the modification 
+    method by thiolation were essentially the same as those described 
+    previously (Igwe and Abia, 2003; Gang and Weixing, 1998; Okeimen 
+    and Okundaye, 1986).
+RESULTS AND DISCUSSION
+The surface characteristics of the unmodified coconut fiber used 
+    in this study is shown on Table 1. The specific surface area 
+    (SAA) and the surface charge density (SCD) 
+    were found to be high for coconut fiber. This suggests high 
+    sorption capacity. The experimental results of the adsorption of Hg 
+    (II), As (III) and Pb (II) ions on the coconut fiber waste biomass 
+    are reported. Fig. 1 shows the amount adsorbed against a 
+    fixed weight (1 g) of different particle sizes of the adsorbent. 
+    The amount of the metal ions adsorbed against time is shown in 
+    Fig. 2 for the unmodified coconut fiber. For the thiolated 
+    coconut fiber, it is shown on Fig. 3. As the particle size 
+    of the adsorbent increased from 150 μm to 850 μm, the adsorbed 
+    amount also increased and that of Pb (II) ion was higher than Hg 
+    (II), which then followed by As (III) ion. It was observed that 
+    there is a slight flattening of the lines as the particle size 850 
+    μm is approached. This means that beyond this point, even when the 
+    particle sizes are increased, the adsorbed amount remains constant. 
+    As a result, the particle size of 850 μm was used in the subsequent 
+    experiments of this work.
+In Figs. 2 and 3, it was observed that the amount of Pb 
+    (II) adsorbed is higher, followed by Hg (II) and then As (III) ion. 
+    Again, the thiolation of the adsorbent resulted in a decrease and a 
+    relatively flattening of the curves. The introduction of thiol 
+    groups (-SH) must have adjusted the surface characteristics of the 
+    adsorbent by replacing some or all of the functional groups such as 
+    -OH on the β-D-glucose units of the cellulosic adsorbent. This 
+    makes the reaction more complex. These findings are similar to the 
+    results of the previous studies (Abia, et 
+    al., 2003). The adsorption of metal ions on 
+    cellulosic materials can be attributed to two main terms: intrinsic 
+    adsorption and columbic interaction (Gang and Weixing, 1998). The 
+    columbic term results from the electrostatic energy of interaction 
+    between the adsorbents and adsorbates. The charges on substrates as 
+    well as softness or hardness of charge are mostly responsible for 
+    the intensity of the interaction. Columbic interaction can be 
+    observed from adsorption of cationic species versus anionic species 
+    on adsorbents (Gang and Weixing, 1998).
+  
+     
+The intrinsic adsorption of the materials is determined by their 
+    surface areas, which can be observed by the effect of different 
+    sizes of adsorbents (Igwe and Abia, 2003). Also, both intrinsic and 
+    columbic interaction could interact at the same time. Again, the 
+    transfer of a proton to the hydroxyl groups on the surface of the 
+    adsorbent is also possible (Ghosh and Yuan, 1987). Specific 
+    adsorption (ligand exchange mechanism) or chemisorptions of As on 
+    Fe-oxide/hydroxide surfaces has been reported as taking place by 
+    this method (Sadiq, 1997). Also, Grossl, et 
+    al., (1997) have proposed a mechanism for the 
+    specific adsorption of As (V) on goethite (∞- FeOOH) in a two-step 
+    process resulting in the formation of an inner-sphere mono-dentate 
+    surface complex at low surface coverage and an inner-sphere 
+    bi-dentate surface complex at high surface coverage. To analyze the 
+    sorption rates of Pb (II), Hg (II) and As (III) metal ions onto the 
+    biomass, two simple kinetic models were tested.
+Pseudo- -first-order model
+The pseudo-first order rate expression, popularly known as the 
+    Lagergren equation, is generally described by the following 
+    equation (Lagergren, 1898) :
+
+where, qe is the amount of the metal ions 
+    sorbed at equilibrium per unit weight of sorbent (mg/g); q is the 
+    amount of metal ions sorbed at any time (mg/g). Besides, 
+    kad is the rate constant/min. Integrating 
+    and applying boundary conditions, t = 0 and 
+    qt = 0 to t = t and 
+    qt = qt, Eq. 1 
+    takes the form.
+
+In order to obtain rate constants, the straight-line plots of 
+    log (qe-q) against t (time) were made 
+    (Fig. 4). This gave fairly straight lines for all three 
+    metal ions on the unmodified and thiolated. The intercept of this 
+    plot should give log qe. However, if the 
+    intercept does not equal to the equilibrium uptake of metal ions, 
+    the reaction is not likely to be first-order even if this plot has 
+    high correlation coefficient with the experimental data (Ho and 
+    Mckay, 1998). The correlation coefficients were found to be between 
+    0.9125 and 0.9884. The correlation coefficients are 
+    shown on Table 2 together with the Lagergren rate constants 
+    calculated from the slope of Eq. 2.
+ 
+Pseudo-second-order model
+The sorption data was also analyzed in terms of a pseudo-second 
+    order mechanism (Ho and Mckay, 1998) given by
+
+where, k2is the equilibrium rate constant 
+    (g/mg.min.). Integrating the above equation and 
+    applying boundary conditions, i.e. t = 0 and 
+    qt = 0 to t = t and 
+    qt= qt, gives:
+
+where, ho is the initial sorption rate. 
+    If the second-order kinetics is applicable, the plot of t/q against 
+    t in equation 4 should give a linear relationship from which the 
+    constants qe and ho 
+    can be determined. This was plotted and Fig. 5 shows it. The 
+    plots gave a good fit to the experimental data. This means that the 
+    sorption can be described by a pseudo-second order rate equation, 
+    hence qe and ho were evaluated and are 
+    presented in Table 2. The R2 values are 
+    the same for all three metal ions and the two adsorbents with a 
+    value of 0.9999. When t tends to 0, 
+    ho is defined as (Horsfall,et 
+    al.,2004):
+
+where, k2is the pseudo-second-order rate 
+    constant (g/mg/min). K2 was calculated for 
+    the three metal ions and is shown on Table 3. The results obtained 
+    are similar to a previous study (Horsfall, et 
+    al., 2004).
+Equilibrium and thermodynamic treatment of sorption 
+    process
+The removal efficiency (E) of the metal ions on the adsorbent 
+    can be calculated from the equation below:

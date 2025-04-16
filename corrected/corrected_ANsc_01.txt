@@ -1,0 +1,34 @@
+Fluoroquinolone Use in Children: Benefits and Risks
+
+KA Oshikoya
+Lagos State University, College of Medicine, Department of Pharmacology and Therapeutics
+Lecturer II
+
+Summary
+
+Background:
+Fluoroquinolones are widely used in treating various infectious diseases in adults due to their broad spectrum of activity, significant tissue penetration, and availability in oral formulations. However, their use in children has been limited until recently because of potential fluoroquinolone-induced joint toxicity. Nonetheless, new agents with wider action spectrums and minimal toxicity are emerging, leading to increased consideration for their use in children.
+
+Objectives:
+This review focuses on the pharmacokinetics, clinical indications, possible toxicity, and safety profiles of fluoroquinolones in children.
+
+Methods:
+A search on MEDLINE for systematic reviews and original publications on fluoroquinolone use in adults, children, and animals, clinical trials of fluoroquinolones in adults, and pharmacokinetics, efficacy, and safety of these drugs in children was conducted using Index Medicos and PubMed. Relevant abstracts were reviewed, and in most cases, the original articles were consulted for further information. The search yielded 23 relevant articles (three reviews, four clinical trials, and 16 original research works).
+
+Conclusion:
+When conventional antibiotic therapy fails or is intolerable, the use of fluoroquinolones should be considered, as the potential benefits may outweigh concerns regarding safety and antimicrobial resistance.
+
+Introduction
+NALIDIXIC acid, developed in the 1960s, was the first quinolone used to treat urinary tract infections. Over the past 40 years, modifications have led to the development of fluoroquinolones with improved antimicrobial properties. Initially restricted due to cartilage concerns, the use of fluoroquinolones has increased globally, particularly in adults. While considered contraindicated in children due to early studies showing cartilage damage, they have been used in specific pediatric cases with encouraging outcomes. The emergence of bacterial resistance in developing countries necessitates exploring alternative antimicrobial agents such as fluoroquinolones.
+
+Mechanism and Spectrum of Activity
+Fluoroquinolones act as bactericidal agents by inhibiting bacterial DNA synthesis through DNA gyrase interference. They exhibit broad-spectrum antibacterial activity against various gram-negative and gram-positive pathogens, with some newer agents showing expanded coverage against additional strains.
+
+Pharmacokinetics
+Fluoroquinolones are well-absorbed orally, penetrate tissues effectively, and have extended half-lives. However, limited pharmacokinetic data in children exist due to restricted use. Available data on ciprofloxacin, ofloxacin, trovafloxacin, gatifloxacin, and moxifloxacin suggest similarities in pharmacokinetic parameters between children and adults.
+
+Clinical Usefulness and Advantages
+In children, fluoroquinolones offer advantages as antimicrobials with excellent pharmacokinetic properties and availability in oral and parenteral forms. Recent studies suggest minimal risk of arthropathy in children using ciprofloxacin, levofloxacin, gatifloxacin, and moxifloxacin. These drugs have been beneficially used in various clinical scenarios in children. Commonly used agents include ofloxacin, ciprofloxacin, levofloxacin, and gatifloxacin.
+
+Drug Interactions
+Fluoroquinolones interact with various medications and nutrients, predominantly affecting cytochrome P450 1A2 function. Patients should avoid concomitant intake with dairy, iron, or zinc supplements, as these can impair fluoroquinolone absorption. Special caution is advised when administering fluoroquinolones alongside multivalent cations found in dairy products, antacids, and iron and zinc supplements commonly used in childhood ailments.
