@@ -1,0 +1,38 @@
+instance Heywood et al(1981)
+reported experimental investigation of air lift pumping of shear
+thinning suspensions. Similarly attempt was reported by Nigel et
+al(1981). Wurts et al (1994)
+determine the individual and combined pumping capacities for
+floating air lift pump powered by a centrifugal blower. A physical
+based model was developed by Francis (1996) to determine the air
+flow rate required to pump a specific flow rate of water in a given
+well designed for in-well air stripping of volatile organic
+compound from an aquifer. An experimental study of air lift pump
+with tapered up-riser pipe was carried out by Kumar et al (2003).
+They reported improved performance with a tapered riser pipe. The
+pump performance of a small air-lift system for conveying solid
+particles was investigated experimentally by Hitoshi Fujimoto et
+al(2003). The quasi-steady state
+characteristics of the flows were examined for various experimental
+conditions The critical boundary on which the particles can be
+lifted is discussed in detail using a simple theoretical model Some
+numerical approaches that have been attempted includes simulation
+of vertical conveying of solid by Weber (1982) and the use of
+integral model by Nenes et al (1996) . The integral model was used
+to simulate air lift pump for moderate deep water well by varying
+parameters such as pressure and void fraction. They reported close
+agreement with experiments.
+The basis of this work is however to develop some dimensionless
+relations from experiments that can be used to characterise the
+lift pump.
+EXPERIMENTAL SET UP
+In order to determine the various factors governing the
+performance of an air-lift pump experiments were performed using a
+model rig as shown in Figure 1.
+The rig consists of a reservoir tank made of transparent plastic
+material, in which stands the rise pipe (10mm – 25mm) also made of
+transparent plastic material. The air line is connected to the rise
+pipe and linked to the air compressor. The height of the liquid
+above the state level is referred to as the lift while the
+submergence is the length of the air pipe submerged below the
+static level.

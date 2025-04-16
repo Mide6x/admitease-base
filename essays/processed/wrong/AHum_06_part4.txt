@@ -1,0 +1,33 @@
+a high, it contracts with the high tomorph and so the effect of the
+relinking is vacuous. Let us consider some examples:
+The future tense
+In its full form, the future tense is marked segmentally by a
+particle, which occurs between the subject noun phrase and the verb
+stem of the clause. This particle is realised in two phonological
+shapes /che/ and /cha/ depending on the vowel harmony requirement
+of the verb stem vowel. If the verb stem vowel is [-(-ART], it
+selects /che/ and if it is [-ART], it selects /cha/. This future
+tense is used to indicate an action that is yet to commence or one
+that is being contemplated.
+Tonally, the future tense construction is marked by a H - L - H
+tone sequence which is distributed as follows:
+a) the first high tone is segmentalised on the final vowel of
+the subject noun phrase (or the only vowel segment of a
+monosyllabic subject pronoun).
+b) the low tone is mapped onto the future tense particle, and
+c) the second high tone is mapped onto the only or first vowel
+of the verb stem and spreads onto any following vowel segment
+within the verb stem; hence, all verb stem vowels are realised as
+high. We shall consider some examples:
+The examples above show that tonal alternations in this
+construction result from the segmentalisation of the two high tones
+marking the future tense. The segmentalisation of the first high
+tone onto the subject NP results in the automatic delinking of the
+inherent or lexical tone in that position if it is low. (This is
+unlike what happens with the present tomorph whose segmentalisation
+results in the lengthening of the final vowel of the subject NP so
+as to accommodate the tomorph.) The second high tone of the future
+tense spreads onto other vowel segments within the verb stem if the
+verb stem is other than monosyllabic. It is unlike the past tense
+tomorph, which does not spread. However like the past tense
+tomorph, if the final vowel of the verb stem is elided or becomes a

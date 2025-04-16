@@ -1,0 +1,41 @@
+INTERFERENCE BETWEEN SYSTEMS DUE TO HYDROMETEOR SCATTERING ON
+SATELLITE DOWNLINK SIGNALS IN TROPICAL REGIONS
+INTRODUCTION
+The utilization of communication satellites for providing new
+telecommunication services and enhancing existing ones continues to
+garner international support and patronage.
+Integrated services digital networks (ISDN) connections via
+satellite for telephony and data communication, internet services
+relying on very small aperture terminal (VSAT) systems, satellite
+television, remote sensing of the environment, and others are typical
+services that rely on satellite communication for dependable and
+efficient service delivery. In Sub-Saharan Africa, these services
+are still developing and, if well managed, have the potential to
+help the region keep pace with the modern information age.
+Many communication satellites in use operate at
+frequencies that are also used for terrestrial telecommunication
+services such as terrestrial telephony and television broadcast.
+This situation has created significant pressure on available
+bandwidth, resulting in bandwidth congestion at lower frequencies.
+Shifting to higher frequencies equal to or greater than 10 GHz to
+acquire additional bandwidth has come at a cost to the quality of
+the desired satellite channel. As the frequency increases, signal
+degradation due to interaction with hydrometeors also intensifies.
+Hydrometeor-induced signal attenuation and scattering, signal
+depolarization, and intersystem interference can become pronounced
+at frequencies above 10 GHz. For instance, rain scattering is
+severe at these frequencies due to the raindrop size being
+comparable to the signal wavelength.
+Additionally, atmospheric gases, namely, dry air (oxygen) and water
+vapor, exhibit significant specific attenuation in the frequency
+range of 22.2-30 GHz (ITU-R, P. 676-5, 2003).
+When the common volume formed by the intersection of terrestrial
+and satellite signals lies within the bright band (melting
+layer), reflectivity decreases at a rate of 6.5 dB/km in this region,
+leading to strong ice scattering and attenuation of the
+satellite channel. A weak satellite signal at the receiving end
+is vulnerable to severe interference from a robust terrestrial
+system operating in its vicinity at the same frequency if
+their beam centers intersect and contain precipitating particles.
+Various interference geometries are possible.
+This paper focuses on a scenario where a satellite downlink

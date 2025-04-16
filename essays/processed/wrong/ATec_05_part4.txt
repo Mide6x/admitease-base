@@ -1,0 +1,20 @@
+lift(L) depends on the viscosity of the liquid ( μ )
+), its density ( ρ )
+submergence
+depth(Hd), actual liquid
+static depth(Hs), diameter of
+pipe(d) and injection
+pressure(P). In other words,
+L= f ( μ , ρ , Hd, Hs, d, P). Using Dimensional Analysis a relation
+was developed as LDN =f( PDN) where,
+From Table 3 generated from the experiments a logarithmic plot
+of LDN against PDN was obtained as shown in Figure 5. The slope of
+the graph was obtained as 0.22 while the intercept of the
+graph was obtained as -0.76 (for the best line of fit). This
+yielded a relation LDN = 0.17PDN0.22
+CONCLUSION
+From all of the above it can be established that pipe size,
+configuration, submergence, air pressure and fluid type determine
+to a considerable extent the maximum lift produced by an air lift
+pump. It has also established the possibility of using
+dimensionless relations to characterise the pump

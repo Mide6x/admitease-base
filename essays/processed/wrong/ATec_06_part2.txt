@@ -1,0 +1,37 @@
+their beam centers intersect and contain precipitating particles.
+Many options of interference geometries are possible.
+This paper considers a situation in which a satellite down link
+signal is interfered by the signal from a terrestrial microwave
+network operating at the same frequency as the satellite system.
+When this happens, there is usually a decrease in the
+signal-to-noise ratio at the satellite terminal as a result of
+energy re-directed in the forward direction into its receiving
+antenna system.
+The evaluation of the received interference power is important
+for the design of microwave communication systems. Several attempts
+have been made in the past to quantify interference levels either
+by the direct measurement or by simulation. Among such efforts are
+Crane, (1974), Awaka, (1989), Olsen et al., (1993), Holt et al., (1993), and
+Capsoni and D’Amico, (1997). The efforts yielded good results in
+the temperate regions. In the tropical regions, very limited
+efforts have been made to address this problem. Ajewole et
+al., (1999a) and Ajewole (2003) studied the
+problem using radio-climatological data from Nigeria to predict
+interference levels on propagation paths in Nigeria.
+Despite the large volume of work already carried out on the
+subject in temperate regions, the results obtained in such studies
+are always inadequate on tropical paths. This is because the nature
+and characteristics of tropical rainfall are occasionally different
+from those of the temperate rainfall. For instance, tropical
+rainfall is most often convective, is characterized by large
+raindrop sizes, is of high intensity and often times accompanied by
+severe lightning and thunderstorm. If a convective rain cell passes
+over the common volume formed by the intersecting beams of a
+satellite downlink antenna and a terrestrial microwave relay
+system, interference will be received in the satellite system so
+long as the frequencies are the same. Further, the satellite signal
+suffers additional rain attenuation (Figure 1) on its path hence,
+the statistics of the transmission loss alone will not be
+sufficient to predict the interference received by the wanted
+satellite channel. This additional attenuation has the potential to
+further reduce the signal-to-noise ratio at the satellite terminal.

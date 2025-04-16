@@ -1,0 +1,35 @@
+glide, this tomorph obligatorily relinks and the result is
+automatic delinking of a following inherent tone. In each case, the
+effect of segmentalisation is vacuous if the inherent tone is also
+a high.
+Negation and interrogation
+Negation in Urhobo is marked by a floating L H tone sequence,
+which is mapped onto the final vowel in the phonetic realisation.
+In order to accommodate the tone sequence, the final vowel is
+lengthened. In the orthography this is represented by doubling the
+final vowel. Thus we have the following:
+On the other hand, interrogation is marked by a floating low
+tone, which is realised on the final vowel of the utterance. If the
+statement already ends on a low tone, the addition of this question
+morpheme results in our perceiving the utterance on an extra low
+level. However, if the statement ends on a high tone the addition
+of the question morpheme results in the creation of a HL contour
+but there is no lengthening of the final vowel. The following are
+some examples:
+From the foregoing, it is clear that tone has both lexical and
+grammatical functions in Urhobo and that it is as important, if not
+even more important, than the consonant and vowel segments used in
+utterances.
+The need for tone-marking in the writing system
+We decided to give a technical treatment to our section 3 in
+order to show that tone in Urhobo is not just a matter of choice or
+something that is haphazardly done but that it is a systematic
+phenomenon which is well entrenched in the grammar of the language.
+Tone can differentiate the meaning of words as well as distinguish
+different grammatical constructions.
+A number of people object to the use of tone marks in writing
+simply because it is not used in English and so they consider it
+untidy. They seem to forget that English is not a tone language in
+the sense that Urhobo is. Whether you say
+'clear' with a high, mid or low tone,
+the meaning is the same in English. But as we have seen, a change

@@ -1,0 +1,35 @@
+Revisiting forest of antennas — Nigeria Your Skyline! -
+Part (11)
+“Optic Fiber Vs Wireless” Chris Uwaje _ with contribution from
+Roland Alden.“ However, in the developing economies where network
+construction is viewed in context as an investment in the economy
+and driver of economic growth, this view is 180′ out of synch.
+Network construction in these environments should be optimized
+to enable the maximum amount of opportunity along and adjacent the
+network route. For example, in the “cost” view model of network
+construction the need for reliable electricity at a regeneration
+point is viewed as a negative input that must be compensated for by
+either 1) costly construction or by 2) fancy electronics that allow
+the “powerless” region to be traversed without stopping.
+In the “development model” the need to provide an oasis of
+electricity and infrastructure along the network route is also an
+opportunity to enable an economic environment that will create
+network customers over the long term. Furthermore, this investment
+in a “micro economy” lowers the cost of providing service to
+possibly larger economies elsewhere on the network.
+This view of network construction is not common in telecom but
+is the norm for other networks, such as roads and waterworks.
+In many large countries it is not at all uncommon to travel on a
+long, nearly deserted highway only to find gas stations at
+amazingly regular intervals which provide the fuel that makes the
+highway into an economically useful resource. No one builds special
+purpose vehicles equipped with gigantic fuel tanks that make such
+gas stations unnecessary.
+Typically a small economy may grow up around such a gas station;
+at a minimum one large enough to sustain the gas station itself but
+typically one which might further leverage the investment such as
+mechanized farms, irrigation pumps, a small airport and perhaps a
+regional healthcare facility. The value of the gas station to the
+adjacent economies that it nourishes can easily be doubled simply
+by locating it at the intersection of two highways instead of
+alongside only one.

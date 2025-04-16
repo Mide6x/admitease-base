@@ -1,0 +1,41 @@
+EXPERIMENTAL INVESTIGATION OF AIR LIFT PUMP
+ABSTRACT:- Air lift pump has been
+predominantly used for lifting of waste-water, aggressive fluid,
+transportation of solids and radioactive fluids in nuclear
+recycling plants and also for deep sea mining. The air lift pump
+performance depends on some fluid and geometric properties.
+Experiments were carried out by setting up a model air lift pump to
+unearth some of these parameters and their influence on the
+performance. Thereafter a Lift Dimensionless Number (LDN) and Pump
+Dimensionless Number (PDN) were derived to capture all the flow
+parameters. Using the experimental results obtained a logarithmic
+plot of the dimensionless numbers was obtained to established a
+relationship between the dimensionless numbers. It was generally
+observed that air lift pumps with smaller riser pipe diameters
+yielded higher lifts. From the experiment it was also noted that
+fluid with better adhesive properties (e.g. water)
+produced higher lifts. For all cases of injection pressures for
+different fluids and mixture of fluid and solid, the lift increased
+with increasing submergence. A logarithmic plot of LDN against PDN
+yielded a slope 0.22 and intercept -0.78. The study
+has therefore been able to generate dimensionless parameters for
+characterizing the lift pump.
+INTRODUCTION
+The air lift pump has been used for several years in the lifting
+of waste water, water aggressive fluids and also for transportation
+of solid mixture and for radioactive fluid in nuclear recycling
+plants(Weber, 1982).
+The method also appears well suited for deep-sea mixing provided
+the influence of the entrance air expansion on the degree of
+efficiency and on the lifting power of the air-liquid mixture is
+not too adverse. The usage of air lift pump for sampling Juveline
+Salmonds was reported by Brege et
+al(1990).
+The great variety of applications and nearly unlimited plant
+dimension requires a scientific base in order to guarantee an
+optimal computation for each special
+case.As such there have been many concerted efforts to
+fully characterize the pump.
+Versluys(1931) was the first to give a general theory.
+There have been many theories developed since then. However some
+notable experimental works have equally been carried out. For

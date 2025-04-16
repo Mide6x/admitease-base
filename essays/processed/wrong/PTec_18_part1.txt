@@ -1,0 +1,34 @@
+How to Get Your Own Website (5)
+These days, it is much easier to create a website than it used
+to be. In general, website-creation programs are much simpler to
+use - and you also have the option of signing up with an online web
+host with easy-to-use page creation tools.
+But the biggest change has to be the advent of the blog.
+“Blog” is short for ‘web log’. Blogs
+started off as a way for people to create an online diary. Bloggers
+would simply log on, tap out a paragraph or two giving their
+thoughts on life and the universe (and everything in between);
+click ‘publish’ and that was that.
+Their words were live on the Internet for anyone to see. The big
+appeal of a blog was that it was interactive: readers were welcome
+to add a comment on any post, with a link back to their own blog or
+website.
+Gradually, bloggers started to want more. They wanted easy ways
+to upload photos, and extra pages on the site - just like a
+‘real’ website. They wanted a range of
+themes, to better express their personality or business.
+Programmers everywhere came to the party, particularly with
+WordPress, a well-known open source. Now, if you want a
+website/blog, it’s possible to:
+* Sign up with a web host with CPanel for a low monthly fee
+* Install WordPress with just a few clicks of the mouse, using
+Fantastico on your website’s CPanel
+* Either use one of the pre-installed themes, or browse the
+various themes available at WordPress (and on many other sites) to
+choose one that suits your personality or business
+* Upload the theme you want to the wp_content folder, using a
+simple FTP program (such as WS_FTP or Cute FTP)
+* Start posting your articles or comments
+* Add extra pages to your site (if you want to)
+Now that you can add separate pages to blogs - just as you can
+with a standard website - many people are turning to them as their

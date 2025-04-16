@@ -1,0 +1,38 @@
+Description of the Experiment
+The reservoir tank was filled with water. The rising pipe of
+varying uniform diameter series (10mm – 25mm) was positioned in the
+reservoir tank with the air line in place.
+The pipe submergence was then measured and thereafter the air
+was pumped into the injection point of the riser pipe. The lift of
+the pump (liquid height above static level) was then measured.
+The experiment was repeated five times and thereafter another
+riser pipe of different diameter is put in place and the experiment
+repeated all over again.
+When all the uniform rise pipes had been used, the liquid in the
+reservoir was change to kerosene and then gasoline and later to
+liquid water-solid. For each case the whole experimental runs were
+repeated all over again.
+RESULT AND DISCUSSION
+Tables 1 (a-c) showed the results obtained when the experiment
+was run with kerosene. The air pressure was varied from13.8
+kN/m2 to 172.4kN/m2 and submergence
+from 30cm to 25cm. The graphical plot of the lift against
+submergence ratio (submergence/total liquid depth) for different
+fluids is shown in figure 2. It was observed that the pump lift
+increases with increasing pipe submergence ratio. This should be
+expected, since a greater height of the fluid will be required to
+restore back to equilibrium for high pipe submergences.
+A plot of the pump lift (height) against pressure for different
+liquids is presented in Figure 3. By examining Table 1 it could be
+observed that the smaller riser pipe yielded higher lift than the
+pipe of higher dimensions. The slippage seems to be well pronounced
+in bigger diameter pipes.
+The results obtained when a mixture of sand and water was used
+are presented in Table 2 while a graphical representation is shown
+in Figure 4. From the results it was observed that for all the air
+pressures and different submergence, the correspondent lift is
+lower comparative to the other pure liquids. The mixture is
+obviously denser and of considerably low cohesive properties that
+the other pure liquids.
+Based on all the aforementioned observations, it could be
+deduced then that the liquid

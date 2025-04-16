@@ -1,0 +1,39 @@
+signal is interfered by a signal from a terrestrial microwave
+network operating at the same frequency as the satellite system.
+In such cases, there is typically a decline in the
+signal-to-noise ratio at the satellite terminal due to energy being
+redirected forward into its receiving
+antenna system.
+Assessing the received interference power is crucial
+for designing microwave communication systems. Past efforts
+have been made to quantify interference levels either
+through direct measurement or simulation. Some of these efforts
+include Crane (1974), Awaka (1989), Olsen et al. (1993), Holt et al. (1993),
+and Capsoni and D’Amico (1997). While these endeavors have yielded
+favorable results in temperate regions, minimal
+attention has been given to addressing this issue in tropical
+regions. Ajewole et al. (1999a) and Ajewole (2003) studied the
+problem using radio-climatological data from Nigeria to predict
+interference levels on propagation paths in Nigeria.
+Despite the extensive research conducted in temperate regions, the
+findings from such studies are often insufficient for tropical paths.
+This is because the nature and characteristics of tropical rainfall
+differ at times from those of temperate regions. Tropical
+rainfall is frequently convective, characterized by large
+raindrop sizes, high intensity, and often accompanied by
+severe lightning and thunderstorms. If a convective rain cell traverses
+the common volume formed by the intersecting beams of a
+satellite downlink antenna and a terrestrial microwave relay
+system, interference will occur in the satellite system as
+long as the frequencies match. Furthermore, the satellite signal
+experiences additional rain attenuation (Figure 1) along its path,
+thus, relying solely on transmission loss statistics will not be
+sufficient to predict the interference received by the desired
+satellite channel. This additional attenuation has the potential
+to further diminish the signal-to-noise ratio at the satellite terminal.
+Hence, the evaluation of this additional attenuation is crucial
+in determining the effective transmission loss on the path, and
+if it exceeds the link margin, it could lead to a complete
+outage of the satellite channel regardless of the interference levels
+from the terrestrial system. Therefore, it is imperative to account
+for this extra attenuation of the desired signal in analyzing

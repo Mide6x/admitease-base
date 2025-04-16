@@ -1,0 +1,52 @@
+Thus the additional attenuation is the basis of the evaluation of
+the effective transmission loss on the path, and whenever it
+becomes larger than the link margin may result in the total outage
+of the satellite channel no matter the interference levels received
+from the terrestrial system. It is therefore important to consider
+this extra attenuation of the wanted signal in the analysis of
+intersystem interference, if the correct interference levels are to
+be determined for the purpose of better planning and design of
+microwave communication systems in these locations.
+The present study investigates hydrometeor scattering in
+additional locations inthe
+equatorial belt of Africa; Douala- Cameroon (9.70oE, 4.05oN), and Nairobi- Kenya (36.75oE, 1.30oS). The study then computes
+interference in the locations in terms of the effective
+transmission loss and compares the results obtained with Ile-Ife,
+Nigeria (4.34oE, 7.33oN).
+THEORETICAL CONSIDERATIONS AND INPUT PARAMETERS
+The effective transmission loss is defined as the transmission
+loss minus the extra attenuation suffered by the wanted signal
+(Capsoni and D’Amico, 1997). It is usually evaluated on the basis
+of a joint and conditioned statistics of the transmission loss and
+the extra attenuation. It is therefore expressed as
+L is the transmission loss defined as the
+ratio of the interfering transmitted power
+Pt to the interfering
+received power Pr at the
+interfered station, and is evaluated using the Bistatic Radar
+Equation (BRE). Aw is the extra attenuation
+on the wanted signal. Using the simplified form of the BRE (Capsoni
+et al., 1992), the transmission loss is
+expressed as
+and the term CV which denotes the common volume formed by the
+interfering beams which is evaluated from the following integral
+From equations (2.3) and (2.4) and Figure
+1,At
+(R1) and
+Ar
+(R2) are the attenuations
+along the pathsR1 from
+the transmitter to the common volume, and
+R2 from the common volume
+to the satellite receiver.
+Ag is the attenuation due
+to gaseous absorption. Gt
+and Gr are the
+transmitter and receiver antenna gains, and λ is the wavelength of
+the radio signal. The quantities
+Ft
+(ύ1,
+Ǿ1) and
+Fr
+(ύ2,
+Ǿ2) represents the

@@ -1,0 +1,29 @@
+directivity function of the transmitting and receiving antenna
+systems, and are calculated in terms of their effective area.
+σbi is the bistatic
+scattering cross section which is defined as the scattering cross
+section per unit volume of precipitation. It is related to the
+radar reflectivity factor Z and the point rain
+rate R as Z = 10log
+z , where z =
+aRb . In this study,
+we assumed the tropical lognormal raindrops size distribution of
+Ajayi and Olsen (1985), and since the distribution fits the
+convective thunderstorm rain type very well, we have assumed the
+Z-R relationship proposed by Ajayi and Owolabi,
+(1987) for tropical thunderstorm rain in the study in which
+a = 461 and b =1.31
+respectively.
+This study covers the frequency range 4–35 GHz used presently by
+most service providers for terrestrial and Earth-space
+communications. The mean annual cumulative distribution of point
+rain rate P(R) measured at the three locations
+are used to predict interference levels with the probability of
+occurrence ranging from 1-10-3%.
+The attenuation of the signals due to rain was evaluated using
+the Power law relationship between attenuation and rain rate, while
+attenuation due to atmospheric gases was calculated using the ITU-R
+Rec. 676-3 (1997). The parameters of the power law
+relationship for attenuation by thunderstorm rain valid for
+tropical locations employed in the study are shown in Table 1 for
+vertically polarized signals only.

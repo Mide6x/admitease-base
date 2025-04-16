@@ -1,0 +1,55 @@
+intersystem interference for accurate determination of interference
+levels to aid in better planning and design of
+microwave communication systems in these regions.
+The present study examines hydrometeor scattering in
+additional locations within the
+equatorial region of Africa: Douala, Cameroon (9.70°E, 4.05°N), and Nairobi, Kenya (36.75°E, 1.30°S). The study subsequently calculates
+interference in these locations in terms of effective
+transmission loss and compares the results with those obtained in Ile-Ife,
+Nigeria (4.34°E, 7.33°N).
+THEORETICAL CONSIDERATIONS AND INPUT PARAMETERS
+The effective transmission loss is defined as the transmission
+loss minus the additional attenuation experienced by the desired signal
+(Capsoni and D’Amico, 1997). It is typically evaluated based on a joint
+and conditioned statistics of the transmission loss and
+the extra attenuation. It is expressed as:
+Where L is the transmission loss defined as the
+ratio of the interfering transmitted power
+Pt to the interfering
+received power Pr at the
+interfered station, evaluated using the Bistatic Radar
+Equation (BRE). Aw represents the extra attenuation
+on the desired signal. Utilizing the simplified form of the BRE (Capsoni
+et al., 1992), the transmission loss is
+expressed as:
+and the term CV denotes the common volume formed by the
+interfering beams, evaluated from the following integral:
+In equations (2.3) and (2.4) and Figure
+1, At
+(R1) and
+Ar
+(R2) indicate the attenuations
+along paths R1 from
+the transmitter to the common volume, and
+R2 from the common volume
+to the satellite receiver.
+Ag represents the attenuation due
+to gaseous absorption. Gt
+and Gr are the
+transmitter and receiver antenna gains, and λ is the wavelength of
+the radio signal. The quantities
+Ft
+(ύ1,
+Ǿ1) and
+Fr
+(ύ2,
+Ǿ2) represent the
+directivity function of the transmitting and receiving antenna
+systems, calculated in terms of their effective area.
+σbi is the bistatic
+scattering cross section defined as the scattering cross
+section per unit volume of precipitation. It is related to the
+radar reflectivity factor Z and the point rain
+rate R as Z = 10log
+z , where z =
+aRb . In this study,

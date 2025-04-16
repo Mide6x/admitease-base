@@ -1,0 +1,31 @@
+high tone, it is easy to perceive a lengthening of both the high
+tone and the final vowel. If on the other hand, if the subject NP
+ends on a low tone, the present tense tomorph is segmentalised on
+the lengthened portion of the final vowel. We said earlier that
+when the subject pronoun or verb is not bearing a tomorph, it is
+realised on a low tone. Consequently, if the subject NP is a
+pronoun, the first part of the vowel bears a low tone while the
+lengthened portion bears the high tone. Let us examine some
+examples. (Note: pr.t= present tomorph.)
+The past tense
+In the full form of the past tense, the verb appears with a
+suffix, which is realised in two phonological shapes depending on
+the vowel harmony requirements of the verb stem vowel. (Vowels in
+this language fall into two groups with regard to vowel harmony and
+the harmony feature is the Advanced Tongue Root [ATR]).
+Consequently, the vowels /i, e, o, u,/ are [+ATR] while /ẹ, a, o/
+are [-ART]. For a detailed discussion of vowel harmony in Urhobo,
+see Aziza (1994, 1997)). The
+alternating forms of the verb suffix are - ri and re. If the verb
+stem vowel is [+ ATR], it takes the suffix -ri but if the verb stem
+is [-ATR], it takes -re. This suffix occurs only when the verb is
+not followed by an object; where it is, the suffix is deleted.
+As for tonal alternation, the past tense construction assigns a
+high tomorph, which is segmentalised on the only vowel segment of a
+monosyllabic verb stem or on the final vowel of a disyllabic verb
+stem. When the verb stem is followed by a noun object, the final
+vowel of the verb stem is either elided or undergoes glide
+formation resulting in the past tense tomorph being set afloat.
+Since it is a grammatical tone, it obligatory relinks on the prefix
+vowel of the following noun object resulting in the delinking of
+the lexical tone in that position if it is a low. However if it is

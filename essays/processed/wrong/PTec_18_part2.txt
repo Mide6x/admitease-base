@@ -1,0 +1,27 @@
+preferred way of building a website. By using various plugins, it’s
+possible to do pretty well anything you want.
+=== What Are “Plugins”? ===
+Plugins are extra features available for your blog to make your
+life easier. You can get plugins, for example, that will:
+- help you block spam
+- make it easy to upload and sort your photos
+- ping the search engines so they know when you’ve added new
+content
+- insert Adsense blocks so you can earn money from your blog
+There are quite a number of plugins available now - take some
+time to find out what they will do.
+=== Help With Using Wordpress ===
+While Wordpress is not the only blog software available, it is
+an excellent choice because (a) it’s free; (b) it’s relatively easy
+to use; (c) it’s open-source, and therefore has a lot of people
+working on it constantly to make it better, and (d) there are quite
+a few ‘how to’ sites on the Internet
+showing you how to make the most of your Wordpress blog.
+One of them is Guido Stiehle (”The Jungle Marketer”) who offers
+an excellent free tutorial (with video tutorials) that will show
+you, step by step, how to set up and use your blog. You can find
+other providers by simply typing ‘how to use
+Wordpress’ into a search engine.
+Spend an hour or two browsing, and you’ll see why a blog is a
+very viable option for establishing your presence on the
+Internet.

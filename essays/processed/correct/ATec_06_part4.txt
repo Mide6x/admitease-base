@@ -1,0 +1,17 @@
+the tropical lognormal raindrop size distribution proposed by Ajayi and Olsen (1985) was assumed, and as the distribution corresponds well to
+convective thunderstorm rain types, the Z-R relationship suggested by Ajayi and Owolabi (1987) for tropical thunderstorm rain in the study was
+used with a = 461 and b = 1.31
+respectively.
+This study encompasses the frequency range of 4–35 GHz currently utilized by
+most service providers for terrestrial and Earth-space
+communications. The mean annual cumulative distribution of point
+rain rate P(R) recorded at the three locations
+is employed to predict interference levels, with probabilities of
+occurrence ranging from 1-10-3%.
+Signal attenuation due to rain was assessed using
+the Power law relationship between attenuation and rain rate, while
+attenuation due to atmospheric gases was computed following the ITU-R
+Rec. 676-3 (1997). The parameters of the power law
+relationship for attenuation by thunderstorm rain, applicable to
+tropical locations and utilized in the study, are detailed in Table 1
+for vertically polarized signals exclusively.

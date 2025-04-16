@@ -1,0 +1,17 @@
+(ACM) on the outbound channel to allow it gain significant
+bandwidth efficiencies and provide high availability services as
+well, especially during unfavorable weather conditions. Once MWEB’s
+NOC sense a signal degration on the modem it sends more power to
+the modem automatically so as not to lose the connection and as
+such MWEB’s clients’ would still be working optimally during
+rainstorms; thus providing customers with unsurpassed network
+connectivity throughout the day.
+MWEB Nigeria GM John Ugbe said “Customers can now receive
+incoming calls from any voice network including fixed telephone
+lines and GSM lines. This will also enable our business customers
+to send facsimile (fax) documents using conventional fax equipment
+on the iWay VOIP line making business efficiencies smoother. Each
+line activated on iWayVAP (voice appliance) will be assigned a
+number and all calls originated from iWayVAP will display the
+caller’s identity to enable customers to see beforehand who is
+calling them”, he concluded.

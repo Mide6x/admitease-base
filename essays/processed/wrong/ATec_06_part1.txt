@@ -1,0 +1,39 @@
+INTERSYSTEM INTERFERENCE DUE TO HYDROMETEOR SCATTERING ON
+SATELLITE DOWNLINK SIGNALS IN TROPICAL LOCATIONS
+INTRODUCTION
+The use of communication satellites to provide new
+telecommunication services and to expand existing ones continues to
+receive international support and patronage.
+Integrated services digital networks (ISDN) connection via
+satellite for telephoning and data communication, internet services
+relying on very small aperture terminal (VSAT) systems, satellite
+television, remote sensing of the environment and so on are typical
+services which depend on satellite communication for reliable and
+efficient service delivery. In Sub-Saharan Africa, these services
+are still evolving and if well managed, have the potential to
+assist the region to catch up with modern information age.
+Many of the communication satellites in use operate at
+frequencies, which are at the same time being used to provide other
+terrestrial telecommunication services such as terrestrial
+telephoning and television broadcast. This has brought about
+phenomenal amount of pressure on the available bandwidth thus
+leading to bandwidth congestion at the lower frequencies. Moving to
+the higher frequencies greater or equal to 10 GHz to gain some
+bandwidth has been at some cost to the quality of the wanted
+satellite channel. As frequency becomes higher, signal degradation
+due to interaction with hydrometeors also becomes stronger.
+Hydrometeor induced signal attenuation and scattering, signal
+depolarization, intersystem interference could become very strong
+at frequencies higher than 10 GHz. For example rain scattering is
+severe at these frequencies, because the size of the raindrop is
+comparable to the wavelength of the signal.
+Also atmospheric gases, that is, dry air (oxygen) and water
+vapour have a combined strong specific attenuation in the frequency
+window 22.2-30 GHz (ITU-R, P. 676-5, 2003).
+When the common volume formed by the intersection of the
+terrestrial and satellite signals lay in the bright band (melting
+layer), reflectivity decreases at the rate of 6.5 dB/ km in
+this region leading to strong ice scattering and attenuation of the
+satellite channel. A weak satellite signal at the reception point
+is susceptible to severe interference from a strong terrestrial
+system operating in its neighbourhood at the same frequency if

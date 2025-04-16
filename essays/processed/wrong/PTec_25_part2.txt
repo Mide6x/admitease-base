@@ -1,0 +1,26 @@
+During installation, users will be asked to validate Windows
+running on your PC to make sure that it’s genuine. Genuine Windows
+is the umbrella label for several of the company’s anti-piracy
+technologies, including product activation and the often-criticized
+validation and notification components, which regularly determine
+whether the copy of Windows running on a PC is legitimate.
+However, other anti malware companies, especially
+Symantec
+has continued reacting to the release of MSE. They believe
+Microsoft was not known for security and that their newly release
+antivirus software might not stand the test of time. Symantec
+referred to the Security Essentials as a rerun of Windows Live One
+Care, security software from Microsoft, which is now defunct.
+Symantec also holds that MSE was made pro bono by Microsoft
+because of its inferior quality and incapability of fighting
+viruses to the finish.
+As to the rationale of offering MSE at no cost, Microsoft
+explained that that was done because they believe many of their
+customers worldwide that do not have up-to-date protection either
+because they cannot afford it, are concerned about the impact the
+suites will have on the performance of their PCs, or because they
+simply do not realize their antivirus software is not up to
+date.
+The software is still available for download on the Microsoft
+website and from others websites that have the link of Microsoft,
+and other that have been authorised to do so.

@@ -1,0 +1,42 @@
+Microsoft releases free anti-virus software
+As Users and Security Experts Give it a pass mark
+Competitors criticise the product
+Microsoft Corporation has released an antivirus software named
+Microsoft Security Essentials. The software, which was released
+last week been downloaded by numerous windows users across the
+globe.
+The product, according to Microsoft, is free and can be
+downloaded by anyone using Security Essentials’ website. Versions
+are available for Windows XP, Vista, and 7. Also, no registration
+is required and the software can be installed on any number of PCs
+without restrictions.
+Security Essentials which was launched last Tuesday, is basic
+anti-virus and anti-spyware software that Microsoft touts as
+suitable for users who can’t, or won’t, pay for security.
+Microsoft Security Essentials provides real-time protection that
+uses behaviour monitoring and reputation services to help identify
+the malicious software as soon as it emerges in the ecosystem and
+then uses the Dynamic Signature Service to make the newest
+definitions available virtually real-time, without having to wait
+for the next signature download.
+Microsoft Security Essentials as learnt by PC User to
+User takes over from Windows Live OneCare, a commercial
+offering that was phased out in June and it focuses on something
+that is much broader in its offering.
+Although Security Essentials is free, it will not be installed
+with Windows or provided as an automatic update.
+Microsoft Security Essentials runs quietly and efficiently in
+the background so that you are free to use your Windows-based PC as
+desired, without interruptions or long computer wait times.
+Since the release of the software, several security testing
+firms have put up tests, to ascertain the potency of the software.
+One of such was av-test.org.
+To check static known malware, AV-Test pitted Security
+Essentials against the most recent WildList, a sampling of 3,732
+viruses and other threats. Microsoft’s product successfully
+detected and blocked all of the samples in both manual and active
+scanning.
+Microsoft will block users running counterfeit copies of Windows
+from installing the free Security Essentials antivirus software.
+All efforts, according to, Microsoft would be put in place to check
+the activities of the pirates.
