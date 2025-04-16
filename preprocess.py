@@ -51,8 +51,10 @@ def process_pair(wrong_path, correct_path, output_dir):
     
     # Ensure we have matching chunks
     if len(wrong_chunks) != len(correct_chunks):
-        print(f"⚠️ Could not align chunks for {os.path.basename(wrong_path)} - Skipping")
+        print(f"⚠️ Could not align chunks for {os.path.basename(wrong_path)} - "
+              f"{len(wrong_chunks)} wrong vs {len(correct_chunks)} correct")
         return 0
+
     
     # Save chunks
     base_name = os.path.splitext(os.path.basename(wrong_path))[0]
@@ -61,10 +63,11 @@ def process_pair(wrong_path, correct_path, output_dir):
         if count_words(w_chunk) < MIN_WORDS or count_words(c_chunk) < MIN_WORDS:
             continue
             
-        with open(os.path.join(output_dir, "wrong", f"{base_name}_part{i+1}.txt"), 'w') as f:
+        with open(os.path.join(output_dir, "wrong", f"{base_name}_part{i+1}.txt"), 'w', encoding='utf-8') as f:
             f.write(w_chunk)
-        with open(os.path.join(output_dir, "correct", f"{base_name}_part{i+1}.txt"), 'w') as f:
+        with open(os.path.join(output_dir, "correct", f"{base_name}_part{i+1}.txt"), 'w', encoding='utf-8') as f:
             f.write(c_chunk)
+
     
     return len(wrong_chunks)
 
